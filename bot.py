@@ -62,7 +62,6 @@ class MyClient(discord.Client):
 					max_index=random_line.index("")
 					random_indice=decode_html_entities(random_line[random.randint(2,max_index-1)])
 					has_url,url=extract_url(random_indice)
-					await message.channel.send("*"*10)
 					await message.channel.send(f"Voici une question du thème:\n# {theme}\n\n__Trouvez la réponse avec cet indice:__\n")
 					if has_url:
 						random_indice=url
