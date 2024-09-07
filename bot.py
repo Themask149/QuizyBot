@@ -62,15 +62,16 @@ class MyClient(discord.Client):
 					max_index=random_line.index("")
 					random_indice=decode_html_entities(random_line[random.randint(2,max_index-1)])
 					has_url,url=extract_url(random_indice)
-					await message.channel.send(f"Voici une question du thème: {theme}\nTrouvez la réponse avec cet indice:\n")
+					await message.channel.send("*"*10)
+					await message.channel.send(f"Voici une question du thème:\n# {theme}\n\n__Trouvez la réponse avec cet indice:__\n")
 					if has_url:
 						random_indice=url
 						embed=discord.Embed(title="Indice")
 						embed.set_image(url=url)
 						await message.channel.send(embed=embed)
 					else:
-						await message.channel.send(random_indice.strip())
-					await message.channel.send(f"\nLa réponse (en spoiler) est: ||{reponse}||")
+						await message.channel.send(f"*{random_indice.strip()}*")
+					await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{reponse}||")
 
 client = MyClient(intents=intents)
 
