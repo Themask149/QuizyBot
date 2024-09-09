@@ -1,727 +1,286 @@
-#separator:tab
-#html:true
-#tags column:7
-Kilogramme 	Les 7 unités de base du système international 	kg Masse 	A partir de mai 2019, cette unité est définie en fonction de la valeur numérique fixée de la constante de Planck. 	Masse d'un litre d'eau 		
-Rayon 	Points, droites et segments en géométrie 	"Segment qui relie le centre d&#x27;un cercle à un point de sa circonférence. "				
-Diamètre 	Points, droites et segments en géométrie 	"Segment qui joint deux points de la circonférence d&#x27;un cercle en passant par le centre. "				
-Corde 	Points, droites et segments en géométrie 	Segment dont les extrémités se trouvent sur un même cercle. 				
-Tangente 	Points, droites et segments en géométrie 	"Droite dont une partie devient arbitrairement proche d&#x27;un point d&#x27;une courbe et finit par la toucher. "				
-Hypoténuse 	Points, droites et segments en géométrie 	"Dans un triangle rectangle, côté opposé à l&#x27;angle droit. "				
-Bissectrice 	Points, droites et segments en géométrie 	Demi-droite qui coupe un angle en deux parties égales. 				
-Centre du cercle inscrit 	Points, droites et segments en géométrie 	"Point d&#x27;intersection des bissectrices d&#x27;un triangle. "				
-Médiatrice 	Points, droites et segments en géométrie 	Droite passant par le milieu du segment et qui est perpendiculaire au segment. 				
-Centre du cercle circonscrit 	Points, droites et segments en géométrie 	Point d’intersection des médiatrices d’un triangle. 				
-Médiane 	Points, droites et segments en géométrie 	"Droite reliant un sommet d&#x27;un triangle au milieu du côté opposé. "				
-Centre de gravité 	Points, droites et segments en géométrie 	"Point d&#x27;intersection des médianes d&#x27;un triangle. "				leech
-Hauteur 	Points, droites et segments en géométrie 	Droite passant par un sommet du triangle et perpendiculaire au côté opposé à ce sommet. 				
-Orthocentre 	Points, droites et segments en géométrie 	"Point d&#x27;intersection des hauteurs d&#x27;un triangle. "				
-"Droite d&#x27;Euler "	Points, droites et segments en géométrie 	"Dans un triangle, droite passant par l&#x27;orthocentre, le centre de gravité et le centre du cercle circonscrit. "				
-Triangle 	Nom des polygones 	3 côtés 				
-Quadrilatère 	Nom des polygones 	4 côtés 				
-Pentagone 	Nom des polygones 	5 côtés 				
-Hexagone 	Nom des polygones 	6 côtés 				
-Heptagone 	Nom des polygones 	7 côtés 				
-Octogone 	Nom des polygones 	8 côtés 				
-Ennéagone 	Nom des polygones 	9 côtés 				
-Décagone 	Nom des polygones 	10 côtés 				
-Hendécagone 	Nom des polygones 	11 côtés 				
-Dodécagone 	Nom des polygones 	12 côtés 				
-Icosagone 	Nom des polygones 	20 côtés 				
-Hectogone 	Nom des polygones 	100 côtés 				
-Chiliogone 	Nom des polygones 	1 000 côtés 				
-Myriagone 	Nom des polygones 	10 000 côtés 				
-Téragone 	Nom des polygones 	Polygone ayant un très grand nombre de côtés, utilisé notamment dans la génération de fractales. 				
-Mercure 	Planètes du Système solaire 	La plus proche du Soleil 	Aucun 	Planète tellurique, la plus petite et la plus légère du Système solaire 		
-Vénus 	Planètes du Système solaire 	2e plus proche du Soleil 	Aucun 	"Planète tellurique dont la température au sol est la plus élevée (&amp;gt, 400 °C) en raison d&#x27;un important effet de serre "		
-Terre 	Planètes du Système solaire 	3e plus proche du Soleil 	La Lune 	La plus massive des planètes telluriques 		
-Mars 	Planètes du Système solaire 	4e plus proche du Soleil 	Déimos et Phobos 	Planète tellurique possédant le plus haut volcan du Système solaire (21 229 m) 		
-Jupiter 	Planètes du Système solaire 	5e plus proche du Soleil 	92 satellites, dont Ganymède, Callisto, Io et Europe (satellites dits galiléens car découverts par Galilée) 	Planète gazeuse, la plus grande et la plus massive du Système solaire 		
-Saturne 	Planètes du Système solaire 	6e plus proche du Soleil 	82 satellites, dont Titan et Encelade 	"Planète gazeuse notamment connue pour les anneaux qui l&#x27;entourent, la deuxième plus grande et plus massive "		
-Uranus 	Planètes du Système solaire 	7e plus proche du Soleil 	27 satellites, dont Titania, Obéron, Umbriel, Ariel et Miranda 	Plus légère des géantes de glaces, découverte par Herschel en 1781 		
-Neptune 	Planètes du Système solaire 	8e plus proche du Soleil 	14 satellites, dont Triton 	Plus petite des géantes de glaces, découverte par Le Verrier et Galle en 1846 		
-Mètre 	Les 7 unités de base du système international 	m Longueur 	Longueur du trajet parcouru dans le vide par la lumière pendant une durée de 1/299 792 458 de seconde. 	"1/10 000 000 de la distance entre l&#x27;équateur et le Pôle Nord sur le méridien passant par Paris "		
-Kilogramme 	Les 7 unités de base du système international 	kg Masse 	A partir de mai 2019, cette unité est définie en fonction de la valeur numérique fixée de la constante de Planck. 	"Masse d&#x27;un litre d&#x27;eau "		
-Seconde 	Les 7 unités de base du système international 	s Temps (durée) 	"Durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les deux niveaux hyperfins de l&#x27;état fondamental de l&#x27;atome de césium 133 à la température du zéro absolu. "	"Division d&#x27;une journée en 24h de 60 minutes, chaque minute comprenant 60 secondes "		
-Ampère 	Les 7 unités de base du système international 	A Courant électrique 	A partir de mai 2019, cette unité est définie en fonction de la valeur numérique fixée de la charge élémentaire, ou charge électrique du proton. 	"Initialement défini comme le courant requis pour provoquer le dépôt de 1,116 mg d&#x27;argent par seconde dans une solution de nitrate d&#x27;argent "		
-Kelvin 	Les 7 unités de base du système international 	K Température 	A partir de mai 2019, cette unité est définie en fonction de la valeur numérique fixée de la constante de Boltzmann. 	Echelle de Celsius avec 0 pour valeur minimale 		
-Mole 	Les 7 unités de base du système international 	mol Quantité de matière 	"A partir de mai 2019, cette unité est définie en fonction de la valeur numérique fixée du nombre d&#x27;Avogadro. "			
-Candela 	Les 7 unités de base du système international 	cd Intensité lumineuse 	"Intensité lumineuse, dans une direction donnée, d&#x27;une source qui émet un rayonnement monochromatique de fréquence 540×1012 s-1 (hertz) et dont l&#x27;intensité énergétique dans cette direction est de 1/683 watt par stéradian. "	Lumière émise par une bougie standard, définissant une unité appelée bougie 		
-10^1 	Préfixes associés aux puissances de 10 positives 	déca 	da 			
-10^2 	Préfixes associés aux puissances de 10 positives 	hecto 	h 			
-10^3 	Préfixes associés aux puissances de 10 positives 	kilo 	k 			
-10^6 	Préfixes associés aux puissances de 10 positives 	méga 	M 			
-10^9 	Préfixes associés aux puissances de 10 positives 	giga 	G 			
-10^12 	Préfixes associés aux puissances de 10 positives 	téra 	T 			
-10^15 	Préfixes associés aux puissances de 10 positives 	péta 	P 			
-10^18 	Préfixes associés aux puissances de 10 positives 	exa 	E 			
-10^21 	Préfixes associés aux puissances de 10 positives 	zetta 	Z 			
-10^24 	Préfixes associés aux puissances de 10 positives 	yotta 	Y 			
-10^27 	Préfixes associés aux puissances de 10 positives 	Ronna 	R 			
-10^30 	Préfixes associés aux puissances de 10 positives 	Quetta 	Q 			
-10^-1 	Préfixes associés aux puissances de 10 négatives 	déci 	d 			
-10^-2 	Préfixes associés aux puissances de 10 négatives 	centi 	c 			
-10^-3 	Préfixes associés aux puissances de 10 négatives 	milli 	m 			
-10^-6 	Préfixes associés aux puissances de 10 négatives 	micro 	µ 			
-10^-9 	Préfixes associés aux puissances de 10 négatives 	nano 	n 			
-10^-12 	Préfixes associés aux puissances de 10 négatives 	pico 	p 			
-10^-15 	Préfixes associés aux puissances de 10 négatives 	femto 	f 			
-10^-18 	Préfixes associés aux puissances de 10 négatives 	atto 	a 			
-10^-21 	Préfixes associés aux puissances de 10 négatives 	zepto 	z 			
-10^-24 	Préfixes associés aux puissances de 10 négatives 	yocto 	y 			
-10^-27 	Préfixes associés aux puissances de 10 négatives 	Ronto 	r 			
-10^-30 	Préfixes associés aux puissances de 10 négatives 	Quecto 	q 			
-Alois Alzheimer 	Figures de la médecine  	"Médecin et neurologue allemand ayant découvert une démence portant aujourd&#x27;hui son nom. 1864-1915 "				
-Avicenne 	Figures de la médecine  	"Médecin persan auteur du Canon, ouvrage qui fut longtemps utilisé dans l&#x27;enseignement de la médecine, y compris en Occident. 980-1037 "				
-Christiaan Barnard 	Figures de la médecine  	Chirurgien sud-africain auteur de la première transplantation cardiaque humaine. 1922-2001 				
-Claude Bernard 	Figures de la médecine  	Médecin français considéré comme le père de la médecine expérimentale. 1813-1878 				
-Xavier Bichat 	Figures de la médecine  	"Médecin français spécialiste de l&#x27;anatomie et ayant notamment laissé son nom aux boules de graisse constituant les joues. 1771-1802 "				
-Christian Cabrol 	Figures de la médecine  	Médecin et chirurgien français ayant réalisé la première transplantation cardiaque en Europe. 1925-2017 				
-Jean-Martin Charcot 	Figures de la médecine  	Médecin français spécialiste de neurologie , il a laissé son nom à une maladie dégénérative aussi appelée sclérose latérale amyotrophique. 1825-1893 				
-Jean-Nicolas Corvisart 	Figures de la médecine  	Médecin personnel de Napoléon. 1755-1821 				
-Dioscoride 	Figures de la médecine  	"Médecin grec à l&#x27;origine de nombreuses connaissances dans le domaine des plantes médicinales. Environ 40-90 "				
-Guillaume-Benjamin Duchenne 	Figures de la médecine  	Médecin du XIXe siècle et le fondateur de la neurologie, une forme d’atrophie musculaire porte aujourd’hui son nom (la myopathie de &quot;NOM&quot;). 1806-1875 				
-Barthélémy Eustache 	Figures de la médecine  	"Médecin et anatomiste italien ayant laissé son nom à un canal reliant l&#x27;oreille à l&#x27;arrière du nez. 1510-1574 "				
-Guillaume Dupuytren 	Figures de la médecine  	Médecin et chirurgien militaire français, ayant notamment laissé son nom à une maladie touchant les mains. 1777 - 1835 				
-Gabriel Fallope 	Figures de la médecine  	"Médecin italien spécialiste de l&#x27;anatomie, notamment de la tête. Il a laissé son nom à une partie de l&#x27;appareil génital féminin. 1523 - 1562 "				
-Sigmund Freud 	Figures de la médecine  	Médecin et neurologue autrichien, il est le fondateur de la psychanalyse. 1856 - 1939 				
-Claude Galien 	Figures de la médecine  	"Médecin grec qui est considéré comme l&#x27;un des pères de la pharmacie. Environ 129 - 200 "				
-Samuel Hahnemann 	Figures de la médecine  	"Médecin allemand qui est à l&#x27;origine de l&#x27;homéopathie. 1755 - 1843 "				
-William Harvey 	Figures de la médecine  	Médecin anglais qui fut le premier à décrire la circulation sanguine dans son ensemble. 1578 - 1657 				
-Hippocrate 	Figures de la médecine  	Médecin grec qui est considéré comme le père de la médecine. Environ -460 à -370 				
-Edward Jenner 	Figures de la médecine  	Médecin anglais ayant inventé le vaccin contre la variole. 1749 - 1823 				
-Robert Koch 	Figures de la médecine  	Médecin allemand ayant découvert la bactérie (bacille) responsable de la tuberculose. 1843 -1910 				
-René Laennec 	Figures de la médecine  	"Médecin français qui met au point la technique de l&#x27;auscultation. Il est l&#x27;inventeur du stéthoscope. 1781 - 1826 "				
-William Cullen 	Figures de la médecine  	"Médecin et chimiste britannique, c&#x27;est le premier à donner une définition de la névrose. 1710-1790 "				
-Dominique-Jean Larrey 	Figures de la médecine  	"Médecin français, chirurgien en chef de la Grande Armée, père de la médecine d&#x27;urgence. 1766-1842 "				
-Joseph Lister 	Figures de la médecine  	"Médecin et chirurgien britannique ayant prôné l&#x27;utilisation des antiseptiques , ce genre de bactéries a été nommé en son honneur. 1827-1912 "				
-Henri de Mondeville 	Figures de la médecine  	Médecin militaire français, chirurgien de Philippe IV le Bel et Louis X le Hutin, il est le premier écrivain français en chirurgie. 1260-1320 				
-Paracelse 	Figures de la médecine  	Médecin suisse également alchimiste et astrologue , prôna une rupture avec la tradition. 1493-1541 				
-Ambroise Paré 	Figures de la médecine  	"Médecin français considéré comme l&#x27;un des pères de la chirurgie moderne , remplace la cautérisation par la ligature des artères dans les amputations. 1510-1590 "				
-James Parkinson 	Figures de la médecine  	Médecin et neurologue anglais ayant décrit la &quot;paralysie agitante&quot;, maladie qui prendra plus tard son nom. 1755-1824 				
-Ivan Pavlov 	Figures de la médecine  	Médecin russe qui met en lumière les réflexes conditionnels. 1849-1936 				
-Albert Schweitzer 	Figures de la médecine  	"Médecin français précurseur de l&#x27;aide humanitaire avec son hôpital de Lambaréné, au Gabon. 1875-1965 "				
-Ignace Semmelweis 	Figures de la médecine  	"Médecin austro-hongrois qui démontra l&#x27;utilité de se laver les mains, notamment avant d&#x27;effectuer un accouchement. 1818-1865 "				
-Alfred Velpeau 	Figures de la médecine  	"Médecin français à l&#x27;origine d&#x27;un bandage portant son nom. 1795-1867 "				
-André Vésale 	Figures de la médecine  	Bruxellois, grand anatomiste, médecin de Charles Quint. 1514-1564 				
-Alexandre Yersin 	Figures de la médecine  	Médecin bactériologue franco-suisse ayant découvert le bacille de la peste. 1863-1943 				
-Youri Gagarine 	Pionniers de la conquête spatiale 	"Premier homme dans l&#x27;espace en 1961, dans le cadre de la mission Vostok 1 "				
-Alan Shepard 	Pionniers de la conquête spatiale 	"Premier Américain à effectuer un vol suborbital dans l&#x27;espace en 1961 , a également marché sur la Lune en 1971 "				
-John Glenn 	Pionniers de la conquête spatiale 	"Premier Américain à effectuer un vol orbital dans l&#x27;espace en 1962 dans le cadre du programme Mercury , également le plus âgé avec un vol à 77 ans en 1998 "				
-Valentina Terechkova 	Pionniers de la conquête spatiale 	"Première femme dans l&#x27;espace en 1963, dans le cadre de la mission Vostok 6 "				
-Alexeï Leonov 	Pionniers de la conquête spatiale 	Premier homme à effectuer une sortie extravéhiculaire en 1965, dans le cadre de la mission Voskhod 2 				
-Neil Armstrong 	Pionniers de la conquête spatiale 	Premier homme à avoir marché sur la Lune, le 21 juillet 1969, dans le cadre de la mission Apollo 11 				
-Jean-Loup Chrétien 	Pionniers de la conquête spatiale 	"Premier Français dans l&#x27;espace en 1982 , séjourne à bord de la station Saliout 7 "				
-Svetlana Savitskaya 	Pionniers de la conquête spatiale 	"Deuxième femme dans l&#x27;espace en 1982, et première femme à effectuer une sortie extravéhiculaire "				
-Sally Ride 	Pionniers de la conquête spatiale 	"Troisième femme dans l&#x27;espace, en 1983 "				
-Claudie Haigneré 	Pionniers de la conquête spatiale 	"Première Française dans l&#x27;espace, en 1996. "				
-Guennadi Padalka 	Pionniers de la conquête spatiale 	"Personne ayant passé le plus de temps dans l&#x27;espace en cumulé (879 jours) "				
-Valeri Polyakov 	Pionniers de la conquête spatiale 	"Personne ayant réalisé le plus long séjour dans l&#x27;espace (437 jours consécutifs) "				
-Bouche 	Le tube digestif 	"Partie initiale du tube digestif, permettant l&#x27;ingestion "				
-Pharynx 	Le tube digestif 	"Carrefour entre les voies aériennes et les voies digestives, situé entre la bouche et l&#x27;œsophage "				
-Œsophage 	Le tube digestif 	"Conduit reliant le pharynx à l&#x27;estomac "				
-Cardia 	Le tube digestif 	"Orifice supérieur de l&#x27;estomac (fin de l&#x27;œsophage) "				
-Estomac 	Le tube digestif 	Poche en forme de J où les aliments ingérés sont mélangés aux sucs gastriques 				
-Chyme 	Le tube digestif 	"Substance liquide produite par l&#x27;estomac et contenant la nourriture partiellement digérée "				
-Pylore 	Le tube digestif 	"Orifice inférieur de l&#x27;estomac "				
-Intestin grêle 	Le tube digestif 	"Se compose du duodénum, du jéjunum et de l&#x27;iléon "				
-Duodénum 	Le tube digestif 	"Premier segment de l&#x27;intestin grêle, il est également son seul segment fixe , sa longueur est en moyenne de 12 doigts "				
-Jéjunum 	Le tube digestif 	"Deuxième segment de l&#x27;intestin grêle , nommé en référence au jeûne, car on avait constaté qu&#x27;il était moins plein que le reste des intestins "				
-Iléon 	Le tube digestif 	"Troisième et dernier segment de l&#x27;intestin grêle, il est également le plus long "				
-Gros intestin 	Le tube digestif 	Comprend le cæcum, le côlon et le rectum 				
-Cæcum 	Le tube digestif 	"Première partie du gros intestin, qui reçoit le contenu de l&#x27;iléon via la valvule iléo-cæcale "				
-Côlon 	Le tube digestif 	Deuxième segment du gros intestin encadrant la cavité abdominale 				
-Rectum 	Le tube digestif 	"Dernière partie du tube digestif, nommée d&#x27;après sa forme droite "				
-Anus 	Le tube digestif 	Orifice terminal du tube digestif 				
-Péristaltisme 	Le tube digestif 	Ensemble des mouvements permettant la progression des aliments dans le tube digestif 				
-Adrénaline 	Hormones et leur rôle 	Aussi appelée épinéphrine, cette hormone est sécrétée en situation de stress et accélère le rythme cardiaque. 				
-Érythropoïétine 	Hormones et leur rôle 	Provoque une augmentation du nombre de globules rouges dans le sang , aussi appelée EPO. 				
-Glucagon 	Hormones et leur rôle 	Provoque une hausse de la quantité de glucose dans le sang , cette hormone est sécrétée par les îlots de Langerhans dans le pancréas. 				
-Hormone lutéinisante 	Hormones et leur rôle 	"Chez la femme, cette hormone déclenche l&#x27;ovulation , aussi appelée LH. "				
-Hormone de croissance 	Hormones et leur rôle 	Stimule la croissance et agit sur le système reproducteur. 				
-Insuline 	Hormones et leur rôle 	Provoque une baisse de la quantité de glucose dans le sang , cette hormone est sécrétée par les îlots de Langerhans dans le pancréas. 				
-Leptine 	Hormones et leur rôle 	Cette hormone de la satiété, parfois surnommée &quot;hormone coupe-faim&quot; est produite par les tissus adipeux. 				
-Mélatonine 	Hormones et leur rôle 	"Intervient dans les cycles du sommeil et plus généralement dans le fonctionnement de l&#x27;horloge biologique. "				
-Ocytocine 	Hormones et leur rôle 	"Hormone permettant d&#x27;accélérer l&#x27;accouchement. On l&#x27;appelle aussi &quot;hormone de l&#x27;amour&quot;. "				
-Œstrogène 	Hormones et leur rôle 	Hormone sexuelle davantage présente chez la femme, chez qui elle participe notamment au développement des caractères sexuels secondaires et au cycle menstruel. 				
-Progestérone 	Hormones et leur rôle 	Hormone contribuant au cycle menstruel et grandement impliquée dans la gestation. 				
-Testostérone 	Hormones et leur rôle 	"Hormone sexuelle davantage présente chez l&#x27;homme, chez qui elle participe notamment au développement des caractères sexuels secondaires. "				
-Acier 	Les alliages 	Fer + Carbone (moins de 2 %) 				
-Acier inoxydable 	Les alliages 	Fer + Carbone + Nickel + Chrome 				
-Amalgame 	Les alliages 	Mercure + autre métal 				
-Billon 	Les alliages 	Cuivre + Argent 				leech
-Britannium 	Les alliages 	Étain + Cuivre + Antimoine 				
-Bronze 	Les alliages 	Cuivre + Étain 				
-Électrum 	Les alliages 	Or + Argent 				
-Fonte 	Les alliages 	Fer + Carbone (de 2 à 6,67 %) 				
-Invar 	Les alliages 	Fer + Nickel 				
-Laiton 	Les alliages 	Cuivre + Zinc 				leech
-Maillechort 	Les alliages 	Cuivre + Zinc + Nickel 				
-Régule 	Les alliages 	Étain ou Plomb + Antimoine 				
-Ruolz 	Les alliages 	Nickel + Argent + Cuivre 				
-Zamak 	Les alliages 	Zinc + Aluminium + Magnésium (et parfois + Cuivre) 				
-Leonardo Fibonacci 	Scientifiques italiens 	"Mathématicien ayant contribué à l&#x27;utilisation des chiffres arabes , a laissé son nom à une suite mathématique permettant de modéliser un problème sur la croissance d&#x27;une population de lapins. Vers 1175 à Pise-Vers 1250 à Pise "				
-Galilée 	Scientifiques italiens 	"Inventeur de la lunette astronomique, son ralliement à la théorie héliocentrique le conduisit à être déféré devant le tribunal de l&#x27;Inquisition. 1564 à Pise-1642 à Arcetri "				
-Evangelista Torricelli 	Scientifiques italiens 	Physicien et mathématicien connu notamment pour avoir inventé le baromètre. 1608 à Faenza-1647 à Florence 				
-Marcello Malpighi 	Scientifiques italiens 	"Médecin et naturaliste italien, considéré comme le fondateur de l&#x27;anatomie microscopique ou histologie. 1628 à Crevalcore-1694 à Rome "				
-Luigi Galvani 	Scientifiques italiens 	"Auteur de travaux sur &quot;l&#x27;électricité animale&quot; concernant la propagation électrique du cerveau aux muscles , ces travaux ont conduit à une longue controverse avec Alessandro Volta. 1737 à Bologne-1798 à Bologne "				
-Alessandro Volta 	Scientifiques italiens 	"Physicien connu pour ses travaux sur l&#x27;électricité et pour l&#x27;invention de la première pile électrique. 1745 à Côme-1827 à Côme "				
-Amedeo Avogadro 	Scientifiques italiens 	"Auteur d&#x27;une célèbre loi selon laquelle il y a le même nombre de molécules dans des volumes égaux de gaz différents, à la même température et à la même pression. 1776 à Turin-1856 à Turin "				
-Camillo Golgi 	Scientifiques italiens 	"Médecin qui étudia le système nerveux et a laissé son nom à un organite des cellules (l&#x27;appareil de ...). Colauréat avec Santiago Ramón y Cajal du prix Nobel de physiologie ou médecine en 1906. 1843 à Corteno-1926 à Pavie "				
-Giuseppe Mercalli 	Scientifiques italiens 	"Sismologue et volcanologue célèbre pour l&#x27;échelle qui porte son nom, qui mesure l&#x27;intensité des séismes sur la base des effets produits. 1850 à Milan-1914 à Naples "				
-Maria Montessori 	Scientifiques italiens 	"Médecin et pédagogue italienne célèbre pour sa pédagogie reposant sur l&#x27;éducation sensorielle et kinesthésique de l&#x27;enfant. 1870 à Chiaravalle (Marches)-1952 à Noordwijk aan Zee (Pays-Bas) "				
-Guglielmo Marconi 	Scientifiques italiens 	Physicien qui réalisa les premières liaisons par ondes hertziennes. Colauréat du prix Nobel de physique pour son développement de la télégraphie sans fil. 1874 à Bologne-1937 à Rome 				
-Enrico Fermi 	Scientifiques italiens 	"Physicien dont les recherches servirent de socle à l&#x27;exploitation de l&#x27;énergie nucléaire. 1901 à Rome-1954 à Chicago "				
-Johannes Kepler 	Scientifiques allemands nés entre 1550 et 1840 	"Astronome qui découvrit les lois du mouvement des planètes, lois qui portent aujourd&#x27;hui son nom. 1571 à Weil der Stadt - 1630 à Ratisbonne "				
-Gottfried Wilhelm Leibniz 	Scientifiques allemands nés entre 1550 et 1840 	"Savant qui inventa le calcul infinitésimal et créa les notations de la différentielle et de l&#x27;intégrale. 1646 à Leipzig - 1716 à Hanovre "				
-Gabriel Fahrenheit 	Scientifiques allemands nés entre 1550 et 1840 	"Inventeur d&#x27;une échelle de température qui porte son nom. 1686 à Danzig (actuel Gdansk en Pologne) - 1736 à La Haye (Pays-Bas) "				
-William Herschel 	Scientifiques allemands nés entre 1550 et 1840 	Astronome qui découvrit la planète Uranus. 1738 à Hanovre - 1822 à Slough 				
-Alexander von Humboldt 	Scientifiques allemands nés entre 1550 et 1840 	Explorateur, naturaliste et géographe qui effectua notamment un long voyage en Amérique et a laissé son nom à un courant du Pacifique. 1769 à Berlin - 1859 à Berlin 				
-Carl Friedrich Gauss 	Scientifiques allemands nés entre 1550 et 1840 	Mathématicien et physicien ayant fait de nombreuses découvertes, notamment utiles en algèbre, statistiques et électromagnétisme. Il était surnommé &quot;le Prince des mathématiciens&quot;. 1777 à Brunswick - 1855 à Göttingen 				
-Georg Ohm 	Scientifiques allemands nés entre 1550 et 1840 	"Physicien ayant découvert une loi reliant la tension et l&#x27;intensité, loi qui porte aujourd&#x27;hui son nom. 1789 à Erlangen - 1854 à Munich "				
-Justus von Liebig 	Scientifiques allemands nés entre 1550 et 1840 	"Chimiste auteur de découvertes en chimie organique, qu&#x27;il appliqua à l&#x27;agriculture, par exemple en inventant l&#x27;engrais azoté. 1803 à Darmstadt – 1873 à Munich "				
-Werner von Siemens 	Scientifiques allemands nés entre 1550 et 1840 	"Réalisa la première locomotive électrique , son nom désigne l&#x27;unité du système international pour la conductance électrique. 1816 à Lenthe - 1892 à Berlin "				
-Ernst Haeckel 	Scientifiques allemands nés entre 1550 et 1840 	"Biologiste qui décrivit de nombreuses espèces, notamment à travers des planches très détaillées , vulgarisateur qui contribua à diffuser la théorie de l&#x27;évolution. 1834 à Potsdam - 1919 à Iéna "				
-Robert Koch 	Scientifiques allemands nés entre 1840 et 1920 	Médecin allemand connu pour sa découverte de la bactérie responsable de la tuberculose. Prix Nobel de physiologie ou médecine en 1905. 1843 à Clausthal-1910 à Baden-Baden 				
-Carl Benz 	Scientifiques allemands nés entre 1840 et 1920 	Mit au point un moteur à gaz à deux temps et fit breveter sa première voiture, un tricycle mû par un moteur à essence. 1844 à Mühlburg-1929 à Ladenburg 				
-Wilhelm Röntgen 	Scientifiques allemands nés entre 1840 et 1920 	Physicien qui découvrit les rayons X. Prix Nobel de physique en 1901. 1845 à Lennep-1923 à Munich 				
-Heinrich Rudolf Hertz 	Scientifiques allemands nés entre 1840 et 1920 	Ingénieur et physicien allemand renommé pour avoir découvert les ondes auxquelles il a donné son nom. 1857 à Hambourg-1894 à Bonn 				
-Rudolf Diesel 	Scientifiques allemands nés entre 1840 et 1920 	Inventeur du moteur à combustion interne portant son nom. 1858 à Paris-1913 en mer du Nord 				
-Max Planck 	Scientifiques allemands nés entre 1840 et 1920 	"Physicien qui est l&#x27;un des fondateurs de la mécanique quantique. Lauréat du prix Nobel de physique en 1918 pour ses travaux en théorie des quanta. 1858 à Kiel-1947 à Göttingen "				
-Alois Alzheimer 	Scientifiques allemands nés entre 1840 et 1920 	"Psychiatre et neurologue ayant décrit une démence qui porte aujourd&#x27;hui son nom. 1864 à Marktbreit-1915 à Breslau (aujourd&#x27;hui Wroclaw en Pologne) "				
-Felix Hoffmann 	Scientifiques allemands nés entre 1840 et 1920 	"Scientifique principalement connu pour avoir synthétisé l&#x27;acide acétylsalicylique commercialisée par Bayer sous le nom d&#x27;aspirine. 1868 à Ludwigsbourg-1946 à Lausanne "				
-Albert Einstein 	Scientifiques allemands nés entre 1840 et 1920 	"Auteur d&#x27;une théorie de la relativité restreinte et d&#x27;une théorie de la gravitation dite relativité générale. Lauréat du prix Nobel de physique en 1921 pour son explication de l’effet photoélectrique. 1879 à Ulm - 1955 à Princeton "				
-Werner Heisenberg 	Scientifiques allemands nés entre 1840 et 1920 	"Physicien qui contribua à fonder la physique quantique , auteur du principe d&#x27;incertitude et lauréat du prix Nobel de physique en 1932. 1901 à Wurtzbourg -1976 à Munich "				
-Wernher von Braun 	Scientifiques allemands nés entre 1840 et 1920 	Ingénieur ayant joué un rôle majeur dans le développement des fusées. 1912 à Wirsitz - 1977 à Alexandria (Etats-Unis) 				
-Thalès 	Scientifiques grecs 	"On lui attribue la première mesure exacte du temps, des connaissances sur les rapports des angles. Il dut sa célébrité à la prédiction d&#x27;une éclipse de Soleil , aujourd&#x27;hui connu pour un théorème de géométrie. Vers -625 à Milet-vers -547 à Milet "				
-Anaximandre 	Scientifiques grecs 	"Il serait l&#x27;auteur de la première carte géographique et de la première carte céleste. Vers -610 à Milet-vers -546 à Milet "				
-Pythagore 	Scientifiques grecs 	"Fondateur d&#x27;une école mathématique et mystique, on a donné son nom au théorème qui met en relation les longueurs des côtés dans un triangle rectangle. Vers -580 à Samos-vers -495 à Métaponte "				
-Hippocrate 	Scientifiques grecs 	"Il fut le plus grand médecin de l&#x27;Antiquité. Son éthique est à l&#x27;origine du serment que prêtent les médecins. Vers -460 dans l&#x27;île de Cos-vers -370 à Larissa "				
-Euclide 	Scientifiques grecs 	"Mathématicien auteur des Éléments, traité qui constitue l&#x27;un des textes fondateurs de cette discipline en Occident. Il aurait vécu vers - 300. "				
-Ératosthène 	Scientifiques grecs 	"Grâce à la mesure ingénieuse d&#x27;un arc de méridien, il fut le premier à évaluer correctement la circonférence de la Terre. Vers -276 à Cyrène-vers -194 à Alexandrie "				
-Archimède 	Scientifiques grecs 	"Physicien, mathématicien et ingénieur ayant travaillé sur l&#x27;hydrostatique, la mécanique statique et l&#x27;explication du principe du levier. Mort pendant le siège de Syracuse. Vers -287 à Syracuse-vers -212 à Syracuse "				
-Ptolémée 	Scientifiques grecs 	"Astronome et géographe auteur de deux traités majeurs : l&#x27;Almageste et la Géographie. Vers 90 à Ptolémaïs de Thébaïde (Haute-Égypte)-vers 168 à Canope "				
-Claude Galien 	Scientifiques grecs 	"Médecin ayant fait d&#x27;importantes découvertes en anatomie et considéré comme l&#x27;un des pères de la pharmacie. Son œuvre reposait sur l&#x27;existence hypothétique des &quot;humeurs&quot;. Vers 129 à Pergame-vers 200 "				
-Sommet 	Vocabulaire du triangle 	"Extrémité commune de deux côtés d&#x27;un triangle "				
-Côté 	Vocabulaire du triangle 	Un des trois segments composant un triangle 				
-Médiane 	Vocabulaire du triangle 	Droite qui relie un sommet au milieu du côté opposé 				
-Médiatrice 	Vocabulaire du triangle 	"Droite qui passe perpendiculairement au milieu d&#x27;un côté "				
-Hauteur 	Vocabulaire du triangle 	Droite qui passe par un sommet et est perpendiculaire au côté opposé 				
-Bissectrice 	Vocabulaire du triangle 	Demi-droite qui coupe en deux angles égaux un angle du triangle 				
-Centre du cercle circonscrit 	Vocabulaire du triangle 	"Point d&#x27;intersection des trois médiatrices d&#x27;un triangle "				
-Centre du cercle inscrit 	Vocabulaire du triangle 	"Point d&#x27;intersection des bissectrices d&#x27;un triangle "				
-Orthocentre 	Vocabulaire du triangle 	"Point d&#x27;intersection des hauteurs d&#x27;un triangle "				
-Centre de gravité 	Vocabulaire du triangle 	"Point d&#x27;intersection des médianes d&#x27;un triangle "				
-Cercle circonscrit 	Vocabulaire du triangle 	"Cercle qui passe par les trois sommets d&#x27;un triangle "				
-Cercle inscrit 	Vocabulaire du triangle 	"Cercle qui est tangent aux trois côtés d&#x27;un triangle "				
-"Cercle d&#x27;Euler "	Vocabulaire du triangle 	"Cercle aussi connu sous le nom de cercle aux neuf points car il passe par autant de points remarquables d&#x27;un triangle "				
-"Droite d&#x27;Euler "	Vocabulaire du triangle 	"Droite qui passe par l&#x27;orthocentre, le centre de gravité et le centre du cercle circonscrit "				
-Clément Ader 	"Pionniers de l&#x27;aviation "	"Ingénieur français qui aurait réalisé le premier vol d&#x27;un engin motorisé sur l&#x27;Eole. 1890 "				
-Orville et Wilbur Wright 	"Pionniers de l&#x27;aviation "	"Frères américains ayant effectué le premier vol motorisé contrôlé, à Kitty Hawk (Etats-Unis), sur le Flyer , utilisation d&#x27;un rail de projection et d&#x27;une catapulte. 1903 "				
-Traian Vuia 	"Pionniers de l&#x27;aviation "	Inventeur roumain auteur du premier vol motorisé contrôlé et autopropulsé. 1906 				
-Alberto Santos-Dumont 	"Pionniers de l&#x27;aviation "	"Inventeur franco-brésilien ayant réalisé le premier record du monde d&#x27;aviation officiel sur le 14 Bis (220 m en 21 s). 1906 "				
-Louis Blériot 	"Pionniers de l&#x27;aviation "	Ingénieur français ayant réalisé la première traversée de la Manche en avion. 1909 				
-Henri Fabre 	"Pionniers de l&#x27;aviation "	"Ingénieur français ayant fait décoller le premier hydravion, le Canard, sur l&#x27;étang de Berre. 1910 "				
-Roland Garros 	"Pionniers de l&#x27;aviation "	Aviateur français ayant réalisé la première traversée en avion de la Méditerranée. 1913 				
-Gago Coutinho et Sacadura Cabral 	"Pionniers de l&#x27;aviation "	"Officiers de la Marine portugaise ayant réalisé la première traversée de l&#x27;Atlantique sud (Lisbonne-Rio de Janeiro). 1922 "				
-Charles Nungesser et François Coli 	"Pionniers de l&#x27;aviation "	Aviateurs français disparus lors de leur tentative de traversée de l'Atlantique, à bord de l'Oiseau blanc, deux semaines avant la réussite de Lindbergh. 1927 				
-Charles Lindbergh 	"Pionniers de l&#x27;aviation "	"Aviateur américain ayant réalisé la première traversée sans escale de l&#x27;Atlantique nord (New York-Le Bourget) en solitaire sur le Spirit of Saint-Louis. 1927 "				
-Jean Mermoz 	"Pionniers de l&#x27;aviation "	"Aviateur français ayant effectué la première traversée de l&#x27;Atlantique sud pour l&#x27;Aéropostale , disparu plus tard sur la Croix-du-Sud. 1930 "				
-Hélène Boucher 	"Pionniers de l&#x27;aviation "	Aviatrice française ayant décroché le record du monde de vitesse sur 100 km avec 412 km/h et sur 1000 km avec 409 km/h. 1934 				
-Jacqueline Auriol 	"Pionniers de l&#x27;aviation "	Première Européenne à franchir le mur du son. 1953 				
-Axone 	Le système nerveux : vocabulaire général 	Prolongement unique d’un neurone qui permet le passage de l’information sous forme d’impulsions électriques. 				
-Cellules gliales 	Le système nerveux : vocabulaire général 	"Cellules qui forment l&#x27;environnement des neurones , produisent notamment la myéline. "				
-Dendrite 	Le système nerveux : vocabulaire général 	"Prolongement généralement multiple d&#x27;un neurone qui le relie à d&#x27;autres neurones. "				
-Ganglion 	Le système nerveux : vocabulaire général 	Regroupement de corps cellulaires de neurones et de leurs dendrites. 				
-Myéline 	Le système nerveux : vocabulaire général 	"Substance qui entoure les axones, les protège et permet d&#x27;accélérer la vitesse de propagation du signal électrique. "				
-Nerf 	Le système nerveux : vocabulaire général 	"Filament constitué par un ensemble d&#x27;axones et responsable de la transmission dans le corps des sensations et des impulsions motrices. "				
-Nerf moteur (ou efférent) 	Le système nerveux : vocabulaire général 	Nerf transportant un influx nerveux depuis le système nerveux central vers un muscle. 				
-Nerf sensitif (ou afférent) 	Le système nerveux : vocabulaire général 	Nerf transportant un influx nerveux depuis un récepteur sensoriel vers le système nerveux central. 				
-Neurone 	Le système nerveux : vocabulaire général 	Cellule de base du système nerveux. 				
-Neurotransmetteur 	Le système nerveux : vocabulaire général 	"Substance chimique libérée par les neurones au niveau des synapses et permettant la transmission d&#x27;un signal. "				
-Plexus 	Le système nerveux : vocabulaire général 	Groupe interconnecté de ganglions. 				
-Synapse 	Le système nerveux : vocabulaire général 	Zone de quasi-contact qui permet la transmission d’un signal chimique entre deux neurones. 				
-Cuivre 	Métaux lourds 	Cu 29 	"Métal de couleur orange, il est le plus ancien métal utilisé par l&#x27;homme. Sa densité est de 8,96 et son numéro atomique est 29. Sa conductivité électrique est très élevée. "			
-Plomb 	Métaux lourds 	Pb 82 	"Métal de couleur grisâtre, il est souvent considéré comme le symbole de la lourdeur, à tort, car sa densité n&#x27;est &quot;que&quot; de 11,35. Son numéro atomique est 82. Il est toxique et responsable du saturnisme. "			
-Fer 	Métaux lourds 	Fe 26 	Métal le plus connu et le plus courant dans la vie quotidienne. Sa densité est de 7,87,  sa couleur le blanc argenté et son numéro atomique 26. 			
-Zinc 	Métaux lourds 	Zn 30 	"Métal de couleur gris-bleu, de densité 7,14 et de numéro atomique 30. On l&#x27;utilise notamment dans la fabrication du bronze et du laiton. "			
-Argent 	Métaux lourds 	Ag 47 	Métal précieux de couleur blanc argenté et de densité 10,5. Il est populairement assimilé à la monnaie et aux billets de banque. Numéro atomique 47. 			
-Tungstène 	Métaux lourds 	W 74 	Métal gris-acier très dur et très lourd, de densité 19,3. Son symbole chimique provient de son nom allemand &quot;wolfram&quot;. Son nom est tiré du suédois et signifie &quot;lourde pierre&quot;. Numéro atomique 74. 			
-Mercure 	Métaux lourds 	Hg 80 	Métal argenté brillant, seul métal liquide en conditions normales. De densité 13,55, son symbole chimique provient du latin &quot;hydrargyrum&quot; (argent liquide). Souvent associé à la température, son numéro atomique est 80. 			
-Palladium 	Métaux lourds 	Pd 46 	Métal précieux gris argenté, il a une densité de 12,02. Son numéro atomique est 46. Il est surtout utilisé dans les convertisseurs catalytiques. 			
-Or 	Métaux lourds 	Au 79 	Métal précieux jaune brillant, il symbolise la richesse et est souvent un élément de réserve pour les banques centrales. Métal malléable mais inaltérable, sa densité est 19,3 et son numéro atomique 79. 			
-Platine 	Métaux lourds 	Pt 78 	"Métal de couleur blanc-gris, c&#x27;est le plus dense des métaux précieux. Sa densité est 21,45 et son numéro est 78. On l&#x27;utilise dans les pots catalytiques des véhicules, mais aussi dans les fausses dents. "			
-Cochlée 	"Anatomie de l&#x27;oreille "	"Partie de l&#x27;oreille interne en forme de coquille d&#x27;escargot où se trouve l&#x27;organe récepteur de l&#x27;audition (organe de Corti). "				
-Conque 	"Anatomie de l&#x27;oreille "	"Dépression centrale du pavillon de l&#x27;oreille. "				
-Enclume 	"Anatomie de l&#x27;oreille "	"Os intermédiaire parmi les trois osselets de l&#x27;oreille moyenne. "				
-Étrier 	"Anatomie de l&#x27;oreille "	"Le plus interne des trois osselets de l&#x27;oreille moyenne , également le plus petit et le plus léger des os du squelette. "				
-Hélix 	"Anatomie de l&#x27;oreille "	"Repli qui forme le tour du pavillon de l&#x27;oreille. "				
-Labyrinthe 	"Anatomie de l&#x27;oreille "	"Structure constituant l&#x27;oreille interne et comprenant un système osseux et un système membraneux. "				
-Marteau 	"Anatomie de l&#x27;oreille "	"Le plus externe des trois osselets de l&#x27;oreille moyenne. "				
-Organe de Corti 	"Anatomie de l&#x27;oreille "	Responsable de la perception auditive, cette structure, localisée dans la cochlée, baigne dans un liquide appelé endolymphe. 				
-Pavillon 	"Anatomie de l&#x27;oreille "	"Partie extérieure visible de l&#x27;oreille. "				
-Tragus 	"Anatomie de l&#x27;oreille "	Petite saillie située devant le conduit auditif externe et protégeant celui-ci. 				
-"Trompe d&#x27;Eustache "	"Anatomie de l&#x27;oreille "	"Canal de communication entre le pharynx et l&#x27;oreille moyenne, permettant à l&#x27;air extérieur de pénétrer dans la caisse du tympan à chaque déglutition. "				
-Tympan 	"Anatomie de l&#x27;oreille "	"Membrane qui sépare l&#x27;oreille moyenne du conduit auditif externe et qui transmet aux osselets de l&#x27;oreille moyenne les vibrations de l&#x27;air. "				
-Vestibule 	"Anatomie de l&#x27;oreille "	"Cavité de l’oreille interne impliquée dans l&#x27;équilibre. "				
-Isaac Newton 	Scientifiques britanniques nés avant 1800 	Savant anglais notamment connu pour sa théorie de la gravitation universelle. Isaac Newton 				
-Edmond Halley 	Scientifiques britanniques nés avant 1800 	Astronome et océanologue anglais notamment connu pour avoir laissé son nom à une comète. Edmond Halley 				
-Henry Cavendish 	Scientifiques britanniques nés avant 1800 	Physicien et chimiste anglais ayant notamment isolé l'hydrogène et calculé la constante gravitationnelle				
-Joseph Priestley 	Scientifiques britanniques nés avant 1800 	Chimiste et physicien anglais qui fut le premier à isoler l'oxygène (qui fut cependant baptisé par Antoine Lavoisier).				
-James Watt 	Scientifiques britanniques nés avant 1800 	"Ingénieur écossais ayant amélioré la machine à vapeur , a laissé son nom à l&#x27;unité de puissance du Système International. James Watt "				
-William Herschel 	Scientifiques britanniques nés avant 1800 	"Astronome britannique d&#x27;origine allemande qui découvrit la planète Uranus et le rayonnement infrarouge. William Herschel "				
-Michael Faraday 	Scientifiques britanniques nés avant 1800 	"Physicien et chimiste anglais ayant apporté une contribution majeure à l&#x27;étude de l&#x27;électromagnétisme , a inspiré le nom de l&#x27;unité de capacité électrique du Système International. Michael Faraday "				
-Charles Babbage 	Scientifiques britanniques nés avant 1800 	Mathématicien et inventeur anglais précurseur de l'informatique grâce à sa description de l'ordinateur.&nbsp;				
-Charles Darwin 	Scientifiques britanniques nés après 1800 	"Naturaliste anglais à l&#x27;origine de la théorie de l&#x27;évolution et de la sélection naturelle , auteur de &lt;i&gt;De l&#x27;origine des espèces&lt;/i&gt;. 1809 à Shrewsbury-1882 à Downe "				
-Ada Lovelace 	Scientifiques britanniques nés après 1800 	"Mathématicienne anglaise dont on considère qu&#x27;elle a écrit le premier programme informatique de l&#x27;histoire. 1815 à Londres-1852 à Londres "				
-George Boole 	Scientifiques britanniques nés après 1800 	Mathématicien anglais créateur de la logique mathématique moderne. 1815 à Lincoln-1864 à Ballintemple 				
-James Prescott Joule 	Scientifiques britanniques nés après 1800 	"Physicien anglais ayant notamment étudié la chaleur , a laissé son nom à l&#x27;unité d&#x27;énergie, de travail et de quantité de chaleur du Système International. 1818 à Salford-1889 à Sale "				
-William Thomson (Lord Kelvin) 	Scientifiques britanniques nés après 1800 	"Physicien britannique d&#x27;origine irlandaise ayant travaillé dans le domaine de la thermodynamique et introduit la notion de zéro absolu , a laissé son nom à l&#x27;unité de température du Système International. 1824 à Belfast-1907 à Largs "				
-James Clerk Maxwell 	Scientifiques britanniques nés après 1800 	"Physicien et mathématicien écossais ayant fourni un modèle de l&#x27;électromagnétisme unifié grâce à 4 équations portant son nom. 1831 à Edimbourg-1879 à Cambridge "				
-Ernest Rutherford 	Scientifiques britanniques nés après 1800 	Physicien et chimiste néo-zélandais naturalisé britannique considéré comme le père de la physique nucléaire , mit notamment en évidence les rayonnements alpha et bêta. 1871 à Brightwater-1937 à Cambridge 				
-Alexander Fleming 	Scientifiques britanniques nés après 1800 	"Médecin et biologiste écossais célèbre pour sa découverte d&#x27;une substance antibiotique appelée pénicilline. 1881 à Lochfield Farm-1955 à Londres "				
-Alan Turing 	Scientifiques britanniques nés après 1800 	Mathématicien anglais qui décrivit les concepts de base de la science informatique , participa au décryptage de la machine Enigma pendant la Seconde Guerre mondiale. 1912 à Londres-1954 à Wilmslow 				
-Peter Higgs 	Scientifiques britanniques nés après 1800 	Physicien britannique ayant laissé son nom à une particule de type boson. Né en 1929 à Wallsend 				
-Stephen Hawking 	Scientifiques britanniques nés après 1800 	Physicien et cosmologiste anglais ayant notamment travaillé sur les trous noirs , grand vulgarisateur, il a publié &lt;i&gt;Une brève histoire du temps&lt;/i&gt;. 1942 à Oxford-2018 à Cambridge 				
-Angiologie 	Spécialités médicales  	Vaisseaux 				
-Cardiologie 	Spécialités médicales  	Cœur 				
-Contactologie 	Spécialités médicales  	Lentilles pour corriger la vue 				
-Dermatologie 	Spécialités médicales  	Peau 				
-Endocrinologie 	Spécialités médicales  	Hormones 				
-Hématologie 	Spécialités médicales  	Sang 				
-Hépato-gastro-entérologie 	Spécialités médicales  	Appareil digestif 				
-Immunologie 	Spécialités médicales  	Système immunitaire 				
-Néphrologie 	Spécialités médicales  	Reins 				
-Neurologie 	Spécialités médicales  	Système nerveux 				
-Odontologie 	Spécialités médicales  	Dents 				
-Ophtalmologie 	Spécialités médicales  	Yeux 				
-Orthopédie 	Spécialités médicales  	Appareil locomoteur 				
-Oto-rhino-laryngologie 	Spécialités médicales  	Oreilles, nez, gorge 				
-Pneumologie 	Spécialités médicales  	Plèvre, bronches, poumons 				
-Stomatologie 	Spécialités médicales  	Bouche 				
-Urologie 	Spécialités médicales  	Appareil urinaire 				
-Addictologie 	Spécialités médicales  	Étude et prise en charge des dépendances 				
-Allergologie 	Spécialités médicales  	Étude et prise en charge des allergies 				
-Andrologie 	Spécialités médicales  	Étude et prise en charge des maladies spécifiques au sexe masculin 				
-Gériatrie 	Spécialités médicales  	Étude et prise en charge des maladies spécifiques aux personnes âgées 				
-Gynécologie 	Spécialités médicales  	Étude et prise en charge des maladies spécifiques au sexe féminin 				
-Médecine générale 	Spécialités médicales  	"Prise en charge du suivi et des soins généraux d&#x27;une population "				
-Médecine interne 	Spécialités médicales  	"Étude et prise en charge des maladies systémiques, c&#x27;est-à-dire n&#x27;entrant pas dans le champ d&#x27;une seule spécialité "				
-Médecine légale 	Spécialités médicales  	"Recherche des causes de la mort sur un cadavre ou des causes d&#x27;une lésion corporelle. "				
-Médecine nucléaire 	Spécialités médicales  	Ensemble des applications médicales de la radioactivité. 				
-Néonatologie 	Spécialités médicales  	"Étude et prise en charge des enfants d&#x27;un âge inférieur à 28 jours "				
-Obstétrique 	Spécialités médicales  	"Étude et prise en charge de la grossesse et de l&#x27;accouchement "				
-Oncologie 	Spécialités médicales  	Médecine des cancers 				
-Pédiatrie 	Spécialités médicales  	Étude et prise en charge des maladies spécifiques aux enfants 				
-Psychiatrie 	Spécialités médicales  	Étude et prise en charge des troubles du comportement 				
-Toxicologie 	Spécialités médicales  	Étude et prise en charge des empoisonnements et intoxications 				
-Traumatologie 	Spécialités médicales  	Étude et prise en charge des patients ayant subi de graves blessures 				
-Vénérologie 	Spécialités médicales  	Étude et prise en charge des maladies sexuellement transmissibles 				
-CD-ROM 	Sigles et acronymes en informatique 	Compact Disc - Read Only Memory 	Support utilisé pour stocker des données sous forme numérique dont le successeur est le DVD. 			
-CODEC 	Sigles et acronymes en informatique 	Codage / Décodage 	Dispositif capable de compresser ou décompresser un signal numérique. 			
-DVD 	Sigles et acronymes en informatique 	Digital Versatile Disc 	Support de sauvegarde et stockage de données numériques, vidéos notamment, dont le successeur est le blu-ray. 			
-FAI 	Sigles et acronymes en informatique 	"Fournisseur d&#x27;Accès à Internet "	Organisme offrant un accès à Internet. 			
-FAQ 	Sigles et acronymes en informatique 	Frequently Asked Questions 	Liste faisant la synthèse des questions posées de manière récurrente sur un sujet donné, accompagnées des réponses correspondantes. 			
-IP 	Sigles et acronymes en informatique 	Internet Protocol 	Protocole informatique de communication conçu pour un usage spécifique à Internet. 			
-LCD 	Sigles et acronymes en informatique 	Liquid Cristal Display 	Écran plat permettant un affichage à cristaux liquides. 			
-MODEM 	Sigles et acronymes en informatique 	Modulateur-démodulateur 	"Périphérique servant à communiquer avec des utilisateurs distants par l&#x27;intermédiaire d&#x27;un réseau analogique. "			
-MP3 	Sigles et acronymes en informatique 	MPEG-1/2 Audio Layer 3 	"Format de compression audio pour lequel la perte en qualité des données est plutôt faible pour l&#x27;auditeur. "			
-P2P 	Sigles et acronymes en informatique 	Peer-to-Peer 	Modèle de réseau informatique proche du modèle client-serveur mais où chaque client est aussi un serveur. 			
-PIXEL 	Sigles et acronymes en informatique 	Picture Element 	"Unité de base permettant de mesurer la définition d&#x27;une image numérique. "			
-WI-FI 	Sigles et acronymes en informatique 	Wireless Fidelity 	Ensemble de protocoles de communication sans fil permettant de mettre en réseau (via des ondes) plusieurs appareils informatiques. 			
-Achromatopsie 	"Maladies de l&#x27;œil et troubles de la vision "	Absence totale de vision des couleurs. 				
-Amblyopie 	"Maladies de l&#x27;œil et troubles de la vision "	"Acuité visuelle basse et différence d&#x27;acuité entre les deux yeux qui ne peuvent pourtant pas être expliquées par une lésion organique. "				
-Astigmatisme 	"Maladies de l&#x27;œil et troubles de la vision "	Défaut de vision généralement dû à la courbure de la cornée et provoquant une vision imprécise de près comme de loin, notamment la vision des lignes. 				
-Cataracte 	"Maladies de l&#x27;œil et troubles de la vision "	Opacification partielle ou totale du cristallin. 				
-Daltonisme 	"Maladies de l&#x27;œil et troubles de la vision "	"Anomalie héréditaire de la vision des couleurs (confusion fréquente entre le rouge et le vert). Le nom de la maladie est issu du nom d&#x27;un physicien britannique. "				
-Diplopie 	"Maladies de l&#x27;œil et troubles de la vision "	Trouble de la vue qui fait voir en double les objets. 				
-DMLA 	"Maladies de l&#x27;œil et troubles de la vision "	Maladie de la rétine provoquée par une dégénérescence progressive de la macula. 				
-Glaucome 	"Maladies de l&#x27;œil et troubles de la vision "	"Maladie de l&#x27;œil caractérisée par une élévation de la pression intraoculaire avec atteinte de la tête du nerf optique et altération du champ visuel, pouvant aboutir à la cécité. "				
-Héméralopie 	"Maladies de l&#x27;œil et troubles de la vision "	"Baisse de l&#x27;acuité visuelle quand la luminosité est faible. "				
-Hypermétropie 	"Maladies de l&#x27;œil et troubles de la vision "	"Anomalie de la vision dans laquelle l&#x27;image tend à se former à l&#x27;arrière de la rétine. C&#x27;est le contraire de la myopie. "				
-Myodésopsie 	"Maladies de l&#x27;œil et troubles de la vision "	"Opacité de taille, de forme et de consistance diverse présente dans l&#x27;humeur vitrée de l’œil. "				
-Myopie 	"Maladies de l&#x27;œil et troubles de la vision "	"Trouble de la vision où la personne voit flou au loin. Nom tiré d&#x27;un mot grec signifiant &quot;à courte vue&quot;. "				
-Presbytie 	"Maladies de l&#x27;œil et troubles de la vision "	"Trouble de la vision dû au vieillissement de l&#x27;œil qui rend difficile la focalisation de la vision pour effectuer un travail de près. "				
-Strabisme 	"Maladies de l&#x27;œil et troubles de la vision "	"Défaut de convergence des axes visuels entraînant un trouble de la vision de l&#x27;œil dévié. "				
-Agate 	Pierres précieuses et fines  	"Pierre fine. Variété de calcédoine multicolore, de trait blanc et d&#x27;éclat vitreux. Son indice de dureté est 6.5/10. Homonyme d&#x27;un prénom féminin. "	"<img src=""http://www.quizypedia.fr/site_media/images/839/839540836533.jpeg"">"			
-Améthyste 	Pierres précieuses et fines  	Pierre fine. Variété de quartz violet, son trait est blanc et son éclat vitreux. Son indice de dureté est 7/10. Utilisée en joaillerie. 	<img src=http://www.quizypedia.fr/site_media/images/585/585910675493.jpeg>			
-Diamant 	Vocabulaire du monde animal : anatomie des oiseaux 	Pièce cornée blanche que les petits oiseaux possèdent à l'extrémité du bec lors de l'éclosion et utilisent pour casser la coquille. 	"<img src=""http://www.quizypedia.fr/site_media/images/171/171323812878.jpeg"">"			botanimaux quizypedia
-Emeraude 	Pierres précieuses et fines  	"Pierre précieuse. Minéral de la famille des silicates, de couleur verte, de trait blanc et d&#x27;éclat vitreux. Son indice de dureté est 7.5/10. Utilisée en joaillerie. "	<img src=http://www.quizypedia.fr/site_media/images/476/476657189468.jpeg>			
-Jade 	Pierres précieuses et fines  	Pierre fine de la famille des silicates dont il existe trois variétés, la jadéite, la néphrite et le kosmochlor. Sa couleur est variable et son indice de dureté est 6,5/10. 	<img src=http://www.quizypedia.fr/site_media/images/511/511664027496.jpeg>			
-Lapis-lazuli 	Pierres précieuses et fines  	Pierre fine. Son nom vient du latin et signifie pierre bleue. De couleur effectivement bleue, elle est utilisée comme pierre ornementale. Son indice de dureté est 5/10. 	<img src=http://www.quizypedia.fr/site_media/images/898/898876840216.jpeg>			
-Opale 	Pierres précieuses et fines  	Pierre fine composée de silice, de couleurs variées, son trait est blanc et son éclat peut être vitreux, nacré et mat. Son indice de dureté est 6/10. Une côte du nord de la France porte son nom. 	<img src=http://www.quizypedia.fr/site_media/images/773/773428414680.jpeg>			
-Rubis 	Pierres précieuses et fines  	Pierre précieuse. Variété rouge de la famille des corindons. Son trait est blanc et son indice de dureté est 9/10. Utilisée en joaillerie, mais aussi en horlogerie. 	&lt;img src=http://www.quizypedia.fr/site_media/images/347/347215919376.jpeg&gt;			
-Topaze 	Pierres précieuses et fines  	"Pierre fine du groupe des silicates, de couleur souvent jaune, de trait blanc et d&#x27;éclat vitreux. Son indice de dureté est 8/10. Homonyme d&#x27;une pièce de théâtre de Marcel Pagnol. "	<img src=http://www.quizypedia.fr/site_media/images/264/264461626072.jpeg>			
-Turquoise 	Pierres précieuses et fines  	"Pierre fine formée de phosphate hydraté de cuivre et d&#x27;aluminium. Sa couleur dominante est le bleu-vert. Son indice de dureté est 5,5/10. "	&lt;img src=http://www.quizypedia.fr/site_media/images/917/917745461848.jpeg&gt;			
-Échelle de Beaufort 	Échelles scientifiques 	Échelle de la vitesse moyenne du vent sur une durée de dix minutes utilisée dans les milieux maritimes. 13 degrés (de 0 à 12) 				
-Échelle de Bristol 	Échelles scientifiques 	Échelle visuelle répartissant les selles humaines en plusieurs catégories. 7 types (de 1 à 7) 				
-Échelle de Douglas 	Échelles scientifiques 	"Échelle utilisée par les marins pour exprimer l&#x27;état de la mer. 10 forces (de 0 à 9) "				
-Échelle de Fujita 	Échelles scientifiques 	"Échelle servant à classer les tornades par ordre de gravité, en fonction des dégâts qu&#x27;elles occasionnent. 6 catégories (de F0 à F5) "				
-Échelle de Glasgow 	Échelles scientifiques 	"Indicateur de l&#x27;état de conscience d&#x27;une personne. De 3 (coma profond) à 15 (personne parfaitement consciente) "				
-Échelle INES 	Échelles scientifiques 	Échelle internationale de classement des événements nucléaires. 8 niveaux (de 0 à 7) 				
-Échelle de Mercalli 	Échelles scientifiques 	"Échelle de mesure de l&#x27;intensité d&#x27;un séisme. 12 degrés "				
-Échelle de Mohs 	Échelles scientifiques 	Échelle mesurant la dureté des minéraux. 10 degrés (1 = talc , 10 = diamant) 				
-Échelle de Ramsey 	Échelles scientifiques 	"Score de sédation (apaisement au moyen d&#x27;un sédatif) des patients de réanimation. 6 niveaux "				
-Échelle de Richter 	Échelles scientifiques 	"Échelle de la magnitude d&#x27;un tremblement de terre. Échelle ouverte sans limite supérieure "				
-Échelle de Saffir-Simpson 	Échelles scientifiques 	"Échelle de classification de l&#x27;intensité des ouragans. 5 niveaux "				
-Échelle de Schmidt 	Échelles scientifiques 	"Échelle de la douleur des piqûres d&#x27;insectes. 12 échelons (de 0,4 à 4,0+) "				
-Échelle de Scoville 	Échelles scientifiques 	Échelle de mesure de la force des piments. 11 degrés (de 0 à 10) (échelle simplifiée) 				
-Échelle de Turin 	Échelles scientifiques 	"Échelle servant à catégoriser les risques d&#x27;impacts d&#x27;objets géocroiseurs, tels les astéroïdes ou les comètes. 11 degrés (de 0 à 10) "				
-Ampère 	Unités de mesure en électricité 	Intensité 	"Transport d&#x27;une charge électrique de un coulomb par seconde à travers une surface. "			
-Coulomb 	Unités de mesure en électricité 	Charge électrique 	"Quantité d&#x27;électricité traversant une section d&#x27;un conducteur parcouru par un courant d&#x27;intensité de 1 ampère pendant 1 seconde. "			
-Farad 	Unités de mesure en électricité 	Capacité 	"Capacité d&#x27;un condensateur électrique entre les armatures duquel apparaît une différence de potentiel de 1 volt quand il est chargé d&#x27;une quantité d&#x27;électricité de 1 coulomb. "			
-Henry 	Unités de mesure en électricité 	Inductance 	"Unité d&#x27;inductance correspondant à la production d&#x27;une force électromotrice de 1 volt dans un circuit où le courant, qui le parcourt, varie uniformément d&#x27;un ampère par seconde. "			
-Hertz 	Unités de mesure en électricité 	Fréquence 	"Fréquence d&#x27;un phénomène périodique dont la période est 1 seconde. "			
-Joule 	Unités de mesure en électricité 	Énergie, travail et quantité de chaleur 	Travail fourni par un circuit électrique pour faire circuler un courant de 1 ampère à travers une résistance de 1 ohm pendant 1 seconde. 			
-Ohm 	Unités de mesure en électricité 	Résistance 	"Unité de résistance électrique mesurée entre deux points d&#x27;un conducteur lorsqu&#x27;une différence de potentiel constante de 1 volt produit un courant de 1 ampère, ledit conducteur n&#x27;étant le siège d&#x27;aucune force électromotrice. "			
-Siemens 	Unités de mesure en électricité 	Conductance 	"Unité de mesure inverse de l&#x27;ohm. Sert également à exprimer l&#x27;admittance et la susceptance. "			
-Tesla 	Unités de mesure en électricité 	Induction magnétique 	"Induction magnétique uniforme qui, répartie normalement sur une surface de 1 m², produit à travers cette surface un flux d&#x27;induction magnétique total de 1 weber. "			
-Volt 	Unités de mesure en électricité 	Tension et force électromotrice 	"Correspond à la différence de potentiel électrique qui existe entre deux points d&#x27;un circuit parcouru par un courant constant de 1 ampère lorsque la puissance dissipée entre ces deux points est égale à 1 watt. "			
-Volt par mètre 	Unités de mesure en électricité 	Intensité de champ électrique 	Intensité du champ électrique exerçant une force de 1 newton sur une charge électrique de 1 coulomb. 			
-Watt 	Unités de mesure en électricité 	Puissance 	"Puissance d&#x27;un système énergétique dans lequel une énergie de 1 joule est transférée uniformément pendant 1 seconde. "			
-Weber 	Unités de mesure en électricité 	"Flux d&#x27;induction magnétique "	"Flux d&#x27;induction magnétique qui, traversant un circuit d&#x27;une seule spire, y produit une force électromotrice de 1 volt si on l&#x27;annule en 1 seconde par une décroissance uniforme. "			
-Electrons 	Particules de la matière  	Particules qui gravitent autour du noyau et qui sont chargées négativement. 				
-Protons 	Particules de la matière  	Particules non élémentaires chargées positivement et faisant partie du noyau. 				
-Neutrons 	Particules de la matière  	Particules faisant partie du noyau et sans charge électrique. 				
-Quarks 	Particules de la matière  	Particules ayant plusieurs saveurs, leurs assemblages entre elles donnent des neutrons ou des protons. 				
-Photons 	Particules de la matière  	"Quanta d&#x27;énergie des ondes électromagnétiques, l&#x27;effet Compton a confirmé leur nature corpusculaire. "				
-Positrons 	Particules de la matière  	"Antiparticules de l&#x27;électron de charge positive, premières particules d&#x27;antimatière découvertes, aussi nommées positons. "				
-Entiers naturels 	Les ensembles usuels de nombres 	N 	Nombres utilisés pour compter des objets comptant chacun pour un. 			
-Nombres premiers 	Les ensembles usuels de nombres 	P 	"Nombres entiers naturels ayant exactement deux diviseurs dans l&#x27;ensemble des entiers naturels. "			
-Nombres entiers relatifs 	Les ensembles usuels de nombres 	Z 	Nombres entiers naturels ou opposés des entiers naturels. 			
-Nombres rationnels 	Les ensembles usuels de nombres 	Q 	Nombres obtenus en divisant deux entiers relatifs, ils peuvent être représentés comme des fractions de diverses manières ou par un développement décimal périodique. 			
-Nombres décimaux 	Les ensembles usuels de nombres 	D 	"Nombres rationnels dont le développement décimal est fini, ils peuvent s&#x27;écrire sous la forme d&#x27;un entier divisé par une puissance de 10. "			
-Nombres algébriques 	Les ensembles usuels de nombres 	Q^- 	Nombres qui annulent une expression polynomiale à coefficients entiers relatifs, ils sont dénombrables car on peut (de manière non triviale) les indexer par les entiers naturels. 			
-Nombres transcendants 	Les ensembles usuels de nombres 	C- Q^- 	"Nombres qui ne sont racines d&#x27;aucun polynôme à coefficients entiers , Joseph Liouville en 1844 en a donné le premier exemple. "			
-Nombres réels 	Les ensembles usuels de nombres 	R 	"Nombres pouvant s&#x27;écrire avec un nombre arbitraire de décimales, ils sont limites de suites de rationnels et leur ensemble est représenté par une droite. "			
-Nombres complexes 	Les ensembles usuels de nombres 	C 	"Nombres réels, imaginaires purs ou somme des deux, ils sont représentés par un plan dont l&#x27;axe des abscisses est l&#x27;ensemble des réels (R). "			
-Abdominaux 	Muscles principaux du corps humain 	"Muscles constituant les parois antérieures et latérales de l&#x27;abdomen. On trouve notamment le grand droit et le grand oblique. "				
-Adducteurs 	Muscles principaux du corps humain 	"Muscles qui tendent à rapprocher la cuisse de l&#x27;axe du corps. On en distingue trois types : le grand, le court et le long. "				
-Biceps brachiaux 	Muscles principaux du corps humain 	"Muscle qui fléchit l&#x27;avant-bras sur le bras. "				
-Deltoïdes 	Muscles principaux du corps humain 	"Muscles situés dans la région supérieure de l&#x27;épaule, qui assurent l&#x27;abduction du bras. Nommés ainsi à cause de leur forme triangulaire. "				
-Grands fessiers (ou grands glutéaux) 	Muscles principaux du corps humain 	Ce sont les muscles les plus puissants et les plus volumineux du corps humain. Ils sont situés au niveau des fesses. 				
-Ischio-jambiers 	Muscles principaux du corps humain 	"Muscles situés à l&#x27;arrière de la cuisse et permettant l&#x27;extension de la hanche et la flexion du genou. Ils se composent du muscle biceps fémoral, du muscle semi-tendineux et du muscle semi-membraneux. "				
-Triceps suraux 	Muscles principaux du corps humain 	"Muscles situés entre le genou et la cheville à l&#x27;arrière de la jambe où se trouve le tendon d&#x27;Achille. Volumineux et puissant, ce muscle donne le galbe postérieur de la jambe ou mollet. "				
-Pectoraux 	Muscles principaux du corps humain 	Muscles situés sur la partie antérieure et latérale du thorax. On en distingue deux types : le grand et le petit. 				
-Quadriceps 	Muscles principaux du corps humain 	"Muscles situés sur le devant de la cuisse, permettant l&#x27;extension de la jambe. "				
-Trapèzes 	Muscles principaux du corps humain 	"Muscles du dos qui rapprochent l&#x27;omoplate de la colonne vertébrale. "				
-Triceps brachiaux 	Muscles principaux du corps humain 	"Muscles qui permettent l&#x27;extension du coude et une légère pronation de l&#x27;avant-bras lors de sa contraction. "				
-Canine 	Les dents 	Dent pointue servant à arracher la nourriture. 4 				
-Dent de sagesse 	Les dents 	"Troisième molaire, la dernière située à l&#x27;arrière de l&#x27;arcade dentaire. Son éruption se fait généralement entre 16 et 25 ans. 4 ou moins "				
-Incisive 	Les dents 	"Dent aplatie et tranchante servant à couper, située à l&#x27;avant de chacun des deux maxillaires. 8 "				
-Molaire 	Les dents 	Dent ayant une fonction masticatoire, servant à écraser la nourriture. 12 				
-Prémolaire 	Les dents 	Dent positionnée entre les canines et les molaires ayant des qualités intermédiaires entre les deux. 8 				
-Cholécystectomie 	Ablations chirurgicales 	Ablation de la vésicule biliaire. 				
-Colectomie 	Ablations chirurgicales 	Ablation du côlon. 				
-Cystectomie 	Ablations chirurgicales 	Ablation de la vessie. 				
-Exérèse 	Ablations chirurgicales 	Intervention chirurgicale consistant à retirer de l’organisme un élément qui lui est nuisible ou inutile (organe, tumeur, corps étranger, etc.). 				
-Hépatectomie 	Ablations chirurgicales 	"Ablation d&#x27;une partie du foie. "				
-Hystérectomie 	Ablations chirurgicales 	Acte chirurgical qui consiste à enlever tout ou partie de l’utérus. 				
-Mastectomie 	Ablations chirurgicales 	"Enlèvement chirurgical, partiel ou total, d&#x27;un sein ou des deux. "				
-Néphrectomie 	Ablations chirurgicales 	"Ablation d&#x27;un rein. "				
-Orchidectomie ou orchiectomie 	Ablations chirurgicales 	"Ablation d&#x27;un ou des deux testicules. "				
-Splénectomie 	Ablations chirurgicales 	Ablation de la rate. 				
-Tonsillectomie 	Ablations chirurgicales 	Ablation des amygdales palatines. 				
-Uvulectomie 	Ablations chirurgicales 	Ablation de la luette. 				
-Vasectomie 	Ablations chirurgicales 	Opération chirurgicale utilisée comme méthode de stérilisation. Elle consiste à sectionner ou bloquer les canaux déférents qui transportent les spermatozoïdes. 				
-Condensation 	"Les changements d&#x27;état de la matière "	"De l&#x27;état gazeux à l&#x27;état solide (aussi de l&#x27;état gazeux à l&#x27;état liquide selon certaines définitions) "				
-Fusion 	"Les changements d&#x27;état de la matière "	"De l&#x27;état solide à l&#x27;état liquide. "				
-Ionisation 	"Les changements d&#x27;état de la matière "	"De l&#x27;état gazeux à l&#x27;état plasma. "				
-Liquéfaction ou condensation liquide 	"Les changements d&#x27;état de la matière "	"De l&#x27;état gazeux à l&#x27;état liquide. "				
-Recombinaison (ou désionisation) 	"Les changements d&#x27;état de la matière "	"De l&#x27;état plasma à l&#x27;état gazeux. "				
-Solidification 	"Les changements d&#x27;état de la matière "	"De l&#x27;état liquide à l&#x27;état solide. "				
-Sublimation 	"Les changements d&#x27;état de la matière "	"De l&#x27;état solide à l&#x27;état gazeux. "				
-Vaporisation 	"Les changements d&#x27;état de la matière "	"De l&#x27;état liquide à l&#x27;état gazeux. "				
-Calcanéus 	Os du corps humain  	"Os le plus volumineux du tarse, ayant la forme d&#x27;un parallélépipède plus haut que large, situé sous le talus. "				
-Clavicule 	Os du corps humain  	"Os de la partie supérieure du thorax antérieur, en forme de &quot;s&quot;, placé entre la pointe supérieure du sternum et le dessus de l&#x27;épaule. Du latin signifiant « petite clé ». "				
-Coccyx 	Os du corps humain  	"Os formé par la soudure de quatre vertèbres atrophiées, situé à l&#x27;extrémité de la colonne vertébrale. Structure vestigiale d&#x27;un appendice caudal que possédaient nos ancêtres. "				
-Fémur 	Os du corps humain  	"Os de la cuisse, le plus long et le plus solide du corps humain. La fracture de son col chez les personnes âgées victimes d&#x27;ostéoporose après une chute est un classique. "				
-Fibula 	Os du corps humain  	"Os long constituant la partie latérale du squelette de la jambe, articulé avec le tibia à ses deux extrémités. Appelé péroné dans l&#x27;ancienne nomenclature. "				
-Humérus 	Os du corps humain  	Os long, pair et asymétrique s’articulant au niveau de l’épaule et du coude et constituant le squelette du bras. 				
-Os coxal 	Os du corps humain  	"Os de l&#x27;articulation de la hanche, également appelé os iliaque, formé par la soudure dans l&#x27;adolescence de trois os distincts , l&#x27;ischium, l&#x27;ilium et le pubis. "				
-Patella 	Os du corps humain  	"Os sésamoïde plat et triangulaire, situé à la partie antérieure du genou et articulé avec le fémur. Appelé rotule dans l&#x27;ancienne nomenclature. "				
-Radius 	Os du corps humain  	"Os long de l&#x27;avant-bras, allant de l&#x27;extérieur du coude à la base du pouce sur le poignet. Du latin signifiant « rayon ». "				
-Sacrum 	Os du corps humain  	Os médian et symétrique formé de la soudure des vertèbres sacrées, formant le bassin osseux avec le coccyx et les os iliaques. 				
-Scapula 	Os du corps humain  	"Os du thorax, plat et asymétrique, s&#x27;articulant avec la clavicule et l’humérus. Appelé omoplate dans l&#x27;ancienne nomenclature. "				
-Sternum 	Os du corps humain  	Os plat et symétrique du thorax, sur lequel s’attachent les six premières côtes, constitué du manubrium dans sa partie supérieure, du corps dans sa partie centrale et du processus xiphoïde dans sa partie inférieure. 				
-Talus 	Os du corps humain  	"Os du tarse servant de pivot pour étendre ou fléchir la cheville, appelé astragale dans l&#x27;ancienne nomenclature. "				
-Tibia 	Os du corps humain  	Os de la jambe, situé en situation médiale et antérieure par rapport à la fibula, deuxième du corps humain par ordre de grandeur. Du latin signifiant « flûte ». 				
-Ulna 	Os du corps humain  	"Os de l’avant-bras, parallèle au radius, articulé au niveau du coude pour permettre le repliement de l’avant-bras et au niveau du poignet pour articuler la main. Appelé cubitus dans l&#x27;ancienne nomenclature. "				
-Atlas 	Os du corps humain  	Première vertèbre cervicale. 				
-Axis 	Os du corps humain  	Deuxième vertèbre cervicale. 				
-Mandibule 	Os du corps humain  	Os formant la mâchoire inférieure. 				
-Manubrium 	Os du corps humain  	"Partie supérieure du sternum sur laquelle s&#x27;articulent les clavicules. "				
-Maxillaire 	Os du corps humain  	Chacun des deux os faisant partie de la mâchoire supérieure. 				
-Os hyoïde 	Os du corps humain  	"Petit os en fer à cheval situé au-dessus du larynx. C&#x27;est le seul os du squelette qui ne soit pas articulé avec un autre os. "				
-Pubis 	Os du corps humain  	"Branche antérieure de l&#x27;os coxal ou iliaque. "				
-Scaphoïde 	Os du corps humain  	Os de la première rangée du carpe fondamental dans la biomécanique du poignet. 				
-Talus 	Os du corps humain  	"Os du tarse qui s&#x27;articule avec le tibia et la fibula (ou péroné) en haut, avec l&#x27;os naviculaire en avant et le calcanéus en bas. Anciennement nommé astragale. "				
-Vomer 	Os du corps humain  	Os unique et médian qui appartient à la cloison nasale dont il constitue la partie postéro-inférieure. 				
-René Descartes 	Scientifiques français  	"Il simplifia l&#x27;écriture mathématique et fonda la géométrie analytique. Il dégagea les lois de la réfraction de la lumière. 1596 à La Haye (Indre-et-Loire)-1650 à Stockholm "	<img src=http://www.quizypedia.fr/site_media/images/857/857230481187.jpeg>			
-Blaise Pascal 	Scientifiques français  	"Il contribua à l&#x27;étude des fluides et écrivit des textes importants sur la méthode scientifique. Il inventa la première machine à calculer et fut l&#x27;un des précurseurs du calcul des probabilités. 1623 à Clairmont (auj. Clermont-Ferrand)-1662 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/600/600641323449.jpeg&gt;			
-René-Antoine Ferchault de Réaumur 	Scientifiques français  	"Ce scientifique construisit un thermomètre à alcool, pour lequel fut introduite l&#x27;échelle graduée de 0 à 80 qui porte son nom. 1683 à La Rochelle-1757 à Saint-Julien-du-Terroux (Mayenne) "	<img src=http://www.quizypedia.fr/site_media/images/606/606820332773.jpeg>			
-Charles-Augustin Coulomb 	Scientifiques français  	"Physicien qui établit les lois expérimentales et théoriques du magnétisme et de l&#x27;électrostatique. 1736 à Angoulême-1806 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/607/607736818356.jpeg&gt;			
-Antoine Lavoisier 	Scientifiques français  	"Il fut l&#x27;un des fondateurs de la chimie moderne. Il découvrit la composition de l&#x27;air et de l&#x27;eau et le rôle de l&#x27;oxygène dans les combustions et dans la respiration. 1743 à Paris-1794 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/208/208812117676.jpeg&gt;			
-André-Marie Ampère 	Scientifiques français  	"Physicien qui édifia la théorie de l&#x27;électromagnétisme. Il imagina le galvanomètre et inventa le premier télégraphe électrique. 1775 à Lyon-1836 à Marseille "	&lt;img src=http://www.quizypedia.fr/site_media/images/795/795292560978.jpeg&gt;			
-Louis Joseph Gay-Lussac 	Scientifiques français  	Physicien et chimiste qui établit la loi de la dilatation des gaz. 1778 à Saint-Léonard-de-Noblat (act. Haute-Vienne)-1850 à Paris 	&lt;img src=http://www.quizypedia.fr/site_media/images/059/059614014582.jpeg&gt;			
-Évariste Galois 	Scientifiques français  	"Ce précurseur des mathématiques modernes est mort à l&#x27;âge de 20 ans au cours d&#x27;un duel. 1811 à Bourg-la-Reine (act. Hauts-de-Seine)-1832 à Paris "	"&lt;img src=""http://www.quizypedia.fr/site_media/images/445/445568789778.jpeg""&gt;"			
-Louis Pasteur 	Scientifiques français  	Chimiste et biologiste, pionnier de la microbiologie, qui, de son vivant même, connut une grande notoriété pour avoir mis au point un vaccin contre la rage. 1822 à Dole (Jura)-1895 à Marnes-la-Coquette (act. Yvelines) 	&lt;img src=http://www.quizypedia.fr/site_media/images/418/418804136455.jpeg&gt;			
-Marcellin Berthelot 	Scientifiques français  	"Chimiste qui étudia l&#x27;estérification, réalisa de nombreuses synthèses organiques et créa la thermochimie. 1827 à Paris-1907 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/660/660389723793.jpeg&gt;			
-Édouard Branly 	Scientifiques français  	"Il découvrit le principe de la radioconduction et celui de la télémécanique. Il fut l&#x27;un des précurseurs de la radio. 1844 à Amiens-1940 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/676/676542088491.jpeg&gt;			
-Henri Becquerel 	Scientifiques français  	"Il découvrit la radioactivité sur les sels d&#x27;uranium et obtint le Nobel de physique en 1903 avec Marie et Pierre Curie. 1852 à Paris-1908 au Croisic (act. Loire-Atlantique) "	&lt;img src=http://www.quizypedia.fr/site_media/images/026/026608374973.jpeg&gt;			
-Marie Curie 	Scientifiques français  	"Première femme titulaire d&#x27;une chaire à la Sorbonne, elle découvrit la radioactivité du thorium, identifia le polonium et isola le radium. 1867 à Varsovie-1934 à Passy (Haute-Savoie) "	&lt;img src=http://www.quizypedia.fr/site_media/images/001/001262408350.jpeg&gt;			
-Louis de Broglie 	Scientifiques français  	A seulement 37 ans, il devint lauréat du Nobel de physique pour sa découverte de la nature ondulatoire des électrons. 1892 à Dieppe-1987 à Louveciennes (Yvelines) 	&lt;img src=http://www.quizypedia.fr/site_media/images/719/719153546660.jpeg&gt;			
-Georges Charpak 	Scientifiques français  	"Il reçut le Nobel de physique pour son invention et le développement de détecteurs de particules. Il lança un mouvement de rénovation de l&#x27;enseignement des sciences à l&#x27;école primaire, baptisé &quot;La main à la pâte&quot;. 1924 à Doubrovytsia (act. Ukraine)-2010 à Paris "	<img src=http://www.quizypedia.fr/site_media/images/739/739646847000.jpeg>			
-Pierre de Fermat 	Scientifiques français  	"Ce mathématicien amateur a formulé plusieurs conjectures qui n&#x27;ont été démontrées qu&#x27;après sa mort. La dernière, son &quot;Grand théorème&quot;, ne le fut qu&#x27;en 1994 par Andrew Wiles. 1601 à Beaumont-de-Lomagne (Tarn-et-Garonne)-1665 à Castres "	&lt;img src=http://www.quizypedia.fr/site_media/images/356/356182476683.jpeg&gt;			
-Georges-Louis Leclerc de Buffon 	Scientifiques français  	"Ce naturaliste du siècle des Lumières, intendant du Jardin royal des plantes pendant 50 ans, a consacré sa vie à l&#x27;écriture de son ouvrage encyclopédique &quot;Histoire Naturelle&quot;. 1707 à Montbard (Côte-d&#x27;Or)-1788 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/867/867479629975.jpeg&gt;			
-Joseph-Louis Lagrange 	Scientifiques français  	"Ce mathématicien et astronome enseigna à Berlin à la demande de Frédéric II de Prusse. Il a posé les bases du calcul des variations et de la mécanique analytique. On lui doit la notation f&#x27;(x) désignant la dérivée d&#x27;une fonction mathématique. 1736 à Turin-1813 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/919/919057102308.jpeg&gt;			
-Gaspard Monge 	Scientifiques français  	"Ce mathématicien fut brièvement ministre de la Première République, puis fondateur de l&#x27;École polytechnique et de l&#x27;École normale supérieure. Il repose au Panthéon depuis 1989. 1746 à Beaune (Côte-d&#x27;Or)-1818 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/068/068908701060.jpeg&gt;			
-Jean-Antoine Chaptal 	Scientifiques français  	"Ce chimiste appliqua la formule de Lavoisier sur la transformation du sucre en alcool. Il a donné son nom à l&#x27;opération consistant à ajouter du sucre au moût pour augmenter le degré d&#x27;alcool final du vin après la fermentation alcoolique. 1756 en Lozère-1832 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/041/041276630104.jpeg&gt;			
-Augustin Louis Cauchy 	Scientifiques français  	"Ce mathématicien est surtout connu pour ses travaux sur les fonctions et séries numériques. Catholique de conviction légitimiste, il choisit de s&#x27;exiler pour ne pas prêter serment à Louis-Philippe. 1789 à Paris-1857 à Sceaux (Hauts-de-Seine) "	&lt;img src=http://www.quizypedia.fr/site_media/images/123/123259902132.jpeg&gt;			
-Sadi Carnot 	Scientifiques français  	"Ce physicien précoce, entré à l&#x27;École Polytechnique à l&#x27;âge de 16 ans, a posé les bases de la thermodynamique. Son neveu est devenu président sous la IIIe République. 1796 à Paris-1832 à Ivry-sur-Seine (Val-de-Marne) "	&lt;img src=http://www.quizypedia.fr/site_media/images/830/830548354581.jpeg&gt;			
-Hippolyte Fizeau 	Scientifiques français  	Physicien et astronome qui met au point une méthode de mesure de la vitesse de la lumière, utilisant une roue dentée tournant à vitesse constante vers laquelle les rayons lumineux passant entre les dents sont réfléchis. 1819 à Paris-1896 à La-Ferté-sous-Jouarre (Seine-et-Marne) 	&lt;img src=http://www.quizypedia.fr/site_media/images/561/561063183083.jpeg&gt;			
-Pierre Curie 	Scientifiques français  	Physicien dont les découvertes dans le domaine de la radioactivité lui valurent de partager le prix Nobel de physique avec son épouse en 1903. 1859 à Paris-1906 à Paris 	&lt;img src=http://www.quizypedia.fr/site_media/images/766/766222913527.jpeg&gt;			
-Paul Langevin 	Scientifiques français  	Ce physicien pédagogue, qui fut en France le principal promoteur des théories du magnétisme et de la relativité, a inventé le sonar pendant la Première Guerre mondiale. 1872 à Paris-1946 à Paris 	&lt;img src=http://www.quizypedia.fr/site_media/images/528/528058039331.jpeg&gt;			
-Jacques Monod 	Scientifiques français  	Ce biologiste a publié &quot;Le Hasard et la nécessité&quot;, essai philosophique traitant des avancées de la génétique. Il a obtenu le prix Nobel de physiologie et de médecine en 1965. 1910 à Paris-1976 à Cannes 	&lt;img src=http://www.quizypedia.fr/site_media/images/325/325979543372.jpeg&gt;			
-Pierre-Gilles de Gennes 	Scientifiques français  	Ce physicien a obtenu le prix Nobel de physique en 1991 pour ses travaux sur les polymères et les cristaux liquides. 1932 à Paris-2007 à Orsay (Essonne) 	&lt;img src=http://www.quizypedia.fr/site_media/images/239/239880081292.jpeg&gt;			
-Ératosthène 	Astronomes célèbres 	"Ce savant grec est célèbre pour avoir initié une méthode de calcul de circonférence de la Terre. On lui doit des tables d&#x27;éclipses et un catalogue astronomique de 675 étoiles. 276 av. J.-C. à Cyrène-194 av. J.-C. à Alexandrie "	&lt;img src=http://www.quizypedia.fr/site_media/images/343/343903838348.jpeg&gt;			
-Hipparque 	Astronomes célèbres 	"Cet inventeur de l&#x27;astrolabe réalisa la compilation d&#x27;un catalogue d&#x27;étoiles, découvrit la précession des équinoxes, la théorie des épicycles, et fonda la trigonométrie. 190 av. J.-C. à Nicée-120 av. J.-C. à Rhodes "	&lt;img src=http://www.quizypedia.fr/site_media/images/023/023881470002.jpeg&gt;			
-Ptolémée 	Astronomes célèbres 	"Cet auteur de l&#x27;&quot;Almageste&quot;, seul ouvrage antique complet sur l&#x27;astronomie qui nous soit parvenu, a tenté sans succès de mettre en doute le modèle géocentrique de l&#x27;Univers. 90 en Haute-Égypte-168 à Canope (Egypte) "	&lt;img src=http://www.quizypedia.fr/site_media/images/980/980523968318.jpeg&gt;			
-Nicolas Copernic 	Astronomes célèbres 	"Ce chanoine polonais fut le défenseur de la théorie héliocentrique selon laquelle la Terre tourne autour du Soleil, supposé au centre de l&#x27;Univers. 1473 à Thorn (act. Pologne)-1543 à Frauenburg (act. Pologne) "	&lt;img src=http://www.quizypedia.fr/site_media/images/986/986048081388.jpeg&gt;			
-Tycho Brahe 	Astronomes célèbres 	"Ce scientifique danois a développé de nombreux instruments astronomiques et sa mesure de l&#x27;orbite de Mars fut très importante dans le développement de l&#x27;astronomie. 1546 à Knudstrup (Danemark)-1601 à Prague "	&lt;img src=http://www.quizypedia.fr/site_media/images/240/240577132536.jpeg&gt;			
-Galilée 	Astronomes célèbres 	"Cet astronome italien fut le premier à utiliser une lunette pour observer le ciel et fut condamné pour ses découvertes par l&#x27;Inquisition. 1564 à Pise-1642 à Arcetri (Italie) "	&lt;img src=http://www.quizypedia.fr/site_media/images/604/604369391174.jpeg&gt;			
-Johannes Kepler 	Astronomes célèbres 	Ce scientifique allemand a suggéré que les planètes se déplaçaient sur une orbite elliptique et a développé ses lois sur le mouvement planétaire. 1571 à Weill der Stadt (act. Allemagne)-1630 à Ratisbonne (act. Allemagne) 	&lt;img src=http://www.quizypedia.fr/site_media/images/822/822371832562.jpeg&gt;			
-Jean-Dominique Cassini 	Astronomes célèbres 	"Cet ingénieur d&#x27;origine italienne découvrit la grande tache rouge de Jupiter ainsi que la division, qui porte son nom, dans les anneaux de Saturne. 1625 à Perinaldo (Comté de Nice)-1712 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/485/485775746707.jpeg&gt;			
-Isaac Newton 	Astronomes célèbres 	"Ce scientifique est réputé pour sa théorie de la gravitation universelle et son ouvrage &quot;Philosophiae naturalis principia mathematica&quot; publié en 1687 est considéré comme une œuvre majeure dans l&#x27;histoire de la science. 1642 à Woolsthorpe (Angleterre)-1727 à Kensington (Angleterre) "	&lt;img src=http://www.quizypedia.fr/site_media/images/598/598145808721.jpeg&gt;			
-Pierre-Simon de Laplace 	Astronomes célèbres 	"Ce physicien français démontra pour la première fois la stabilité dynamique du système solaire et fut le premier à conjecturer l&#x27;existence des trous noirs. 1749 à Beaumont-en-Auge (France, Calvados)-1827 à Paris "	&lt;img src=http://www.quizypedia.fr/site_media/images/861/861700422701.jpeg&gt;			
-Arthur Eddington 	Astronomes célèbres 	Cet astrophysicien britannique connu pour ses travaux sur la théorie de la relativité, a mis en évidence la limite qui porte son nom, correspondant à la luminosité maximale que peut avoir une étoile. 1882 à Kendal (Angleterre)-1944 à Cambridge 	&lt;img src=http://www.quizypedia.fr/site_media/images/332/332597016664.jpeg&gt;			
-Edwin Hubble 	Astronomes célèbres 	"Cet astronome américain a démontré l&#x27;existence d&#x27;autres galaxies en dehors de notre Voie lactée et sa loi est une des théories clés expliquant l&#x27;expansion de l&#x27;Univers. Un télescope spatial porte son nom. 1889 à Marshfield (Missouri)-1953 à San Marino (Californie) "	&lt;img src=http://www.quizypedia.fr/site_media/images/931/931169267273.jpeg&gt;			
-Aéraulique 	Noms de sciences  	Science et technique du traitement et de la distribution de l’air. 				
-Anatomie 	Noms de sciences  	Science descriptive étudiant la structure, la topographie, et le rapport des organes entre eux. 				
-Anthropologie 	Noms de sciences  	"Branche des sciences qui étudie l&#x27;être humain sous tous ses aspects à la fois. "				
-Archéologie 	Noms de sciences  	Science des arts et des monuments anciens, et de la recherche d’éléments anciens, en particulier par la fouille. 				
-Arithmétique 	Noms de sciences  	Science des nombres. 				
-Bathymétrie 	Noms de sciences  	"Science qui s&#x27;intéresse aux reliefs et aux profondeurs des océans. "				
-Biochimie 	Noms de sciences  	Science qui étudie la structure des molécules du vivant ainsi que leurs transformations. 				
-Botanique 	Noms de sciences  	Science qui étudie les végétaux. 				
-Cosmologie 	Noms de sciences  	Branche de l’astronomie consistant en l’étude globale de l’univers. 				
-Cryptozoologie 	Noms de sciences  	Science biologique spéculative consistant en l’étude d’animaux dont l’existence n’a pas été attestée scientifiquement, tel le yéti. 				
-Dendrologie 	Noms de sciences  	Science qui étudie les arbres et autres végétaux ligneux. 				
-Entomologie 	Grandes disciplines zoologiques 	Insectes : mouches, papillons, scarabées... 				botanimaux quizypedia
-Epidémiologie 	Noms de sciences  	Science qui étudie la fréquence et la répartition des problèmes de santé ainsi que le rôle des facteurs qui les déterminent. 				
-Ethnologie 	Noms de sciences  	"Étude de l&#x27;ensemble des caractères de chaque ethnie, afin d&#x27;établir des lignes générales de structure et d&#x27;évolution des sociétés. "				
-Ethologie 	Noms de sciences  	Étude du comportement des espèces animales. 				
-Génétique 	Noms de sciences  	"Science des lois de l&#x27;hérédité. "				
-Géodésie 	Noms de sciences  	Science de la forme et des dimensions de la Terre. 				
-Géographie 	Noms de sciences  	"Science qui a pour objet la description et l&#x27;explication de l&#x27;aspect actuel, naturel et humain, de la surface de la Terre. "				
-Géologie 	Noms de sciences  	"Science qui étudie la structure et l&#x27;évolution de l&#x27;écorce terrestre. "				
-Herpétologie 	Grandes disciplines zoologiques 	Amphibiens et reptiles : grenouilles, salamandres, serpents... 				botanimaux quizypedia
-Ichtyologie 	Grandes disciplines zoologiques 	Poissons : cœlacanthes, raies, saumons... 				botanimaux quizypedia
-"Syndrome d&#x27;Asperger "	Des syndromes 	"Forme d&#x27;autisme qui se caractérise par des difficultés dans les interactions sociales, associées à des intérêts spécifiques ou des comportements répétitifs. Il s&#x27;en différencie par l&#x27;absence de déficit intellectuel. Ce syndrome a été mis en lumière mais aussi déformé avec le film &quot;Rain Man&quot;. "				
-Syndrome de Diogène 	Des syndromes 	"Syndrome caractérisé par un trouble du comportement conduisant à des conditions de vie négligées, voire insalubres. Il comprend une forme extrême d&#x27;accumulation compulsive, ou syllogomanie. Ce syndrome fait référence à un philosophe grec connu pour la vie qu&#x27;il menait en dehors de toute convention sociale. "				
-Syndrome de Gilles de La Tourette 	Des syndromes 	Trouble neurologique caractérisé par des tics moteurs et vocaux. Dans de rares cas, ce syndrome est associé à la production de mots obscènes (coprolalie). 				
-Syndrome de Jérusalem 	Des syndromes 	Trouble psychique généralement passager que rencontrent certaines personnes confrontées aux symboles religieux du pays visité. Avec le syndrome de Stendhal, il fait partie du syndrome du voyageur. 				
-Syndrome de Lazare 	Des syndromes 	"Trouble regroupant les difficultés spécifiques auxquelles doivent faire face les sujets qui ont pu être confrontés à la certitude de leur propre mort, mais qui ont finalement survécu. Son nom fait référence à un personnage du Nouveau Testament connu par un récit de l&#x27;Évangile selon Jean selon lequel, mort depuis quatre jours et mis dans un sépulcre, serait sorti vivant de la tombe sur l&#x27;ordre de Jésus. "				
-Syndrome de Lima 	Des syndromes 	"Correspond au fait qu&#x27;un ravisseur éprouve de l&#x27;empathie, ou même une relation fraternelle avec son ou ses otages, voire des sentiments amoureux. Ce syndrome fait référence à une prise d&#x27;otages dans la résidence de l&#x27;ambassadeur du Japon au Pérou. Les preneurs d&#x27;otages libèrent un grand nombre de captifs et renoncent à les tuer, comme initialement prévu, malgré l&#x27;assaut des forces militaires. "				
-Syndrome de Münchhausen 	Des syndromes 	"Pathologie psychologique caractérisée par un besoin de simuler une maladie ou un traumatisme dans le but d&#x27;attirer l&#x27;attention ou la compassion. Le nom de ce syndrome provient de celui d&#x27;un militaire et officier allemand, originaire de Basse-Saxe, engagé en tant que mercenaire dans l&#x27;armée impériale russe et auquel sont attribués des exploits invraisemblables. "				
-Syndrome de Noé 	Des syndromes 	"Maladie mentale qui consiste à posséder plus d&#x27;animaux de compagnie que l&#x27;on en peut héberger, nourrir et soigner correctement. Le nom de ce syndrome est tiré de celui d&#x27;un personnage biblique. Dans le dessin animé &quot;Les Simpson&quot;, Eleanor Abernathy, surnommée &quot;la folle aux chats&quot;, est atteinte de cette maladie. "				
-Syndrome de Peter Pan 	Des syndromes 	"Terme utilisé pour désigner l&#x27;angoisse liée à l&#x27;idée de devenir adulte et de quitter l&#x27;enfance et plus généralement pour caractériser un adulte émotionnellement immature. Ce syndrome fait référence au personnage de fiction de littérature jeunesse créé par J. M. Barrie, archétype du &quot;garçon qui ne voulait pas grandir&quot;. "				
-Syndrome de Stendhal 	Des syndromes 	"Aussi appelé syndrome de Florence, il désigne un trouble à la fois physique et psychologique, provoqué par l’admiration d’un grand nombre d’œuvres d’art dans une période de temps limitée, par exemple au cours de la visite d’un grand musée. Ce syndrome est appelé ainsi en référence à l&#x27;expérience vécue par un écrivain français lors de son voyage en Italie, à l’étape de Florence, en 1817. "				
-Syndrome de Stockholm 	Des syndromes 	"Phénomène psychologique observé chez des otages ayant vécu durant une période prolongée avec leurs geôliers et qui ont développé une empathie vis-à-vis de ceux-ci. En 1973, en Suède, alors que leur vie a été sérieusement menacée par les bandits, des otages vont s&#x27;interposer entre les truands et les forces de l&#x27;ordre, puis, une fois libérés, prendre leur défense en refusant de témoigner contre eux. "				
-Syndrome de Vasa 	Des syndromes 	"Syndrome caractérisé par le manque de communication et l&#x27;absence de prise de responsabilité des différents responsables d&#x27;un projet, causant l&#x27;échec de celui-ci. Ce syndrome fait référence à l&#x27;histoire d&#x27;un navire de guerre suédois qui sombra lors de son voyage inaugural le 10 août 1628, après seulement un mille marin de parcouru. "				
-"Quel est l&#x27;âge de la Terre ? "	La planète Terre en 10 questions 	"4,54 milliards d&#x27;années "				
-"Combien y a-t-il d&#x27;habitants sur Terre ? "	La planète Terre en 10 questions 	"8 milliards d&#x27;humains "				
-"Quel gaz compose majoritairement l&#x27;atmosphère terrestre ? "	La planète Terre en 10 questions 	Le diazote 				
-"Quelle surface de la Terre est recouverte d&#x27;eau ? "	La planète Terre en 10 questions 	71 % 				
-"Quel nom porte l&#x27;enveloppe rigide de la Terre ? "	La planète Terre en 10 questions 	Lithosphère 				
-Quels sont les deux éléments composant majoritairement le noyau interne de la Terre ? 	La planète Terre en 10 questions 	Le nickel et le fer 				
-Quelle est la durée de la révolution de la Terre ? 	La planète Terre en 10 questions 	365,25 jours 				
-Quelle est la durée de la rotation de la Terre ? 	La planète Terre en 10 questions 	23 h 56 min 				
-Quelle est la mesure du rayon équatorial de la Terre ? 	La planète Terre en 10 questions 	6 378 km 				
-Quelle est la circonférence de la Terre ? 	La planète Terre en 10 questions 	environ 40 000 km 				
-Arc de Cupidon 	Anatomie des lèvres 	Ligne dessinée par le dessus de la lèvre supérieure. 				
-Commissure 	Anatomie des lèvres 	Point de jonction latérale entre la lèvre inférieure et la lèvre supérieure. 				
-Crête philtrale 	Anatomie des lèvres 	Chacune des deux lignes en relief se situant entre le nez et la lèvre supérieure. 				
-Éminence commissurale 	Anatomie des lèvres 	Saillie située au-dessus de la commissure des lèvres. 				
-Philtrum 	Anatomie des lèvres 	Repli en forme de gouttière qui relie la base du nez à la lèvre supérieure. 				
-Vermillon 	Anatomie des lèvres 	"Partie pigmentée qui borde l&#x27;ouverture de la bouche et joint le revêtement cutané externe et le revêtement muqueux interne. "				
-Vertèbres cervicales 	Vertèbres du corps humain 	Vertèbres situées au niveau du cou sous le crâne. La première est nommée atlas et la deuxième axis. 7 				
-Vertèbres coccygiennes 	Vertèbres du corps humain 	Vertèbres soudées formant le coccyx. 4 généralement 				
-Vertèbres lombaires 	Vertèbres du corps humain 	Vertèbres situées dans le bas du dos, entre les vertèbres thoraciques et le sacrum. 5 				
-Vertèbres sacrées 	Vertèbres du corps humain 	Vertèbres soudées formant le sacrum. 5 				
-Vertèbres thoraciques (ou dorsales) 	Vertèbres du corps humain 	"Vertèbres situées au milieu de la colonne vertébrale et s&#x27;articulent avec les côtes. 12 "				
-Bâtonnets 	"Anatomie de l&#x27;œil  "	"Photorécepteurs situés au fond de l&#x27;œil, ne percevant pas les couleurs mais permettant la vision scotopique (nocturne), en noir, blanc et nuances de gris. On en compte environ 100 millions par œil. "				
-Choroïde 	"Anatomie de l&#x27;œil  "	"Couche de la paroi du globe oculaire, située entre la sclérotique et la rétine qu&#x27;elle nourrit grâce à son abondante vascularisation. "				
-Cônes 	"Anatomie de l&#x27;œil  "	"Photorécepteurs situés au fond de l&#x27;œil, transformant les rayonnements correspondant au rouge, au vert et au bleu et permettant la vision diurne. Chaque œil en compte 3 à 4 millions. "				
-Conjonctive 	"Anatomie de l&#x27;œil  "	"Fine membrane transparente couvrant la face interne des paupières, secrétant un liquide aidant à lubrifier l&#x27;œil à chaque clignement de paupière. "				
-Cornée 	"Anatomie de l&#x27;œil  "	Membrane fibreuse et transparente, de forme bombée, qui constitue la partie antérieure du globe oculaire. 				
-Corps ciliaire 	"Anatomie de l&#x27;œil  "	"Épaississement annulaire de la choroïde supportant le cristallin, formé de cellules musculaires lisses intervenant dans l&#x27;accommodation, et dont la face postérieure sécrète l&#x27;humeur aqueuse. "				
-Corps vitré 	"Anatomie de l&#x27;œil  "	"Liquide biologique transparent remplissant la cavité oculaire en arrière du cristallin et qui, avec l&#x27;humeur aqueuse, maintient la pression intra-oculaire et la forme du globe oculaire. "				
-Cristallin 	"Anatomie de l&#x27;œil  "	"Lentille biconvexe située derrière l&#x27;iris et reliée aux enveloppes de l&#x27;œil par le corps ciliaire qui, en faisant varier son rayon de courbure, permet l&#x27;accommodation de l&#x27;œil à la distance. "				
-Fovéa 	"Anatomie de l&#x27;œil  "	"Zone de la macula située dans le prolongement de l&#x27;axe visuel de l&#x27;œil, où la vision est la plus précise en raison de la concentration maximale de cônes. "				
-Humeur aqueuse 	"Anatomie de l&#x27;œil  "	"Ce liquide transparent et incolore maintient la rigidité du globe oculaire. Il permet l&#x27;élasticité du globe oculaire et garde la rétine en place, collée contre le fond du globe oculaire. "				
-Iris 	Fleurs des champs et forêts  	Fleur qui tient son nom de la messagère des dieux grecs, associée à l'arc-en-ciel. Iridacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/iris.jpg>			botanimaux quizypedia
-Macula 	"Anatomie de l&#x27;œil  "	Tache jaune située au fond de l’œil, zone de la rétine caractérisée par une grande concentration de cônes et contenant en son centre la fovéa. 				
-Nerf optique 	"Anatomie de l&#x27;œil  "	"Nerf crânien responsable de la transmission des informations sensorielles de l&#x27;œil en direction du cerveau. "				
-Orbite 	"Anatomie de l&#x27;œil  "	Cavité du crâne dans laquelle est logé le globe oculaire. 				
-Pupille 	"Anatomie de l&#x27;œil  "	"Trou noir situé au centre de l&#x27;iris, par lequel pénètre la lumière. Par une action réflexe de l&#x27;iris, il se dilate ou se rétrécit, réglant alors la quantité de lumière venant frapper la rétine, permettant une image nette, ou protégeant d&#x27;un excès. "				
-Rétine 	"Anatomie de l&#x27;œil  "	Membrane fine et transparente tapissant le fond de l’œil, constituée de couches de cellules photoréceptrices, et de couches permettant la transmission de signaux électro-chimiques vers le cerveau par le nerf optique. 				
-Sclérotique 	"Anatomie de l&#x27;œil  "	Membrane opaque très résistante, entourant le globe oculaire et formant le &quot;blanc&quot; de l’œil, qui contient la pression interne de l’œil et le protège contre les agressions mécaniques. 				
-Tache de Mariotte 	"Anatomie de l&#x27;œil  "	"Partie de la rétine où s&#x27;insère le nerf optique, dépourvue de photorécepteurs et qui constitue donc un point aveugle. "				
-Mésologie 	Noms de sciences  	"Science ayant pour objet l&#x27;étude des réactions réciproques de l&#x27;organisme et du milieu. "				
-Minéralogie 	Noms de sciences  	Branche de la géologie qui vise à recenser et à définir les espèces minérales. 				
-Optique 	Noms de sciences  	Partie de la physique qui traite des lois de la lumière et des phénomènes de la vision. 				
-Ornithologie 	Grandes disciplines zoologiques 	Oiseaux : aigles, corbeaux, perroquets... 				botanimaux quizypedia
-Palynologie 	Noms de sciences  	Étude scientifique des pollens. 				
-Pétrographie 	Noms de sciences  	"Science ayant pour objet la description et l&#x27;analyse des roches. "				
-Pétrologie 	Noms de sciences  	"Science qui s&#x27;intéresse à la genèse, aux mécanismes de formation et de transformation des roches. "				
-Phycologie 	Noms de sciences  	"Science consacrée à l&#x27;étude des algues. "				
-Phytologie 	Noms de sciences  	Étude des plantes. 				
-Sismologie 	Noms de sciences  	Étude des séismes et, plus généralement, des divers mouvements du sol. 				
-Sémiologie 	Noms de sciences  	Discipline médicale qui étudie les symptômes des maladies. 				
-Spéléologie 	Noms de sciences  	Science qui étudie les cavités souterraines ou activité consistant à les visiter. 				
-Technologie 	Noms de sciences  	"Étude des outils, des machines, des procédés et des méthodes employés dans les diverses branches de l&#x27;industrie. "				
-Topographie 	Noms de sciences  	Science qui permet la mesure et la représentation sur un plan ou une carte des formes et détails visibles sur le terrain. 				
-Tribologie 	Noms de sciences  	Partie de la mécanique traitant du frottement et de ses effets. 				
-Volcanologie 	Noms de sciences  	Science qui étudie les phénomènes volcaniques. 				
-Zootechnie 	Noms de sciences  	Science étudiant les conditions et les méthodes d’élevage et de reproduction des animaux domestiques ainsi que l’amélioration de leurs races. 				
-Abaisse-langue 	Équipement du médecin généraliste 	"Instrument utilisé pour permettre l&#x27;examen de la bouche et de la gorge sans être gêné par la langue. "	&lt;img src=http://www.quizypedia.fr/site_media/images/224/224443553308.jpeg&gt;			
-Glucomètre 	Équipement du médecin généraliste 	Appareil permettant de mesurer rapidement le taux de glucose dans le sang (la glycémie), le plus souvent sur du sang capillaire. 	<img src=http://www.quizypedia.fr/site_media/images/536/536254804110.jpeg>			
-Lampe-stylo 	Équipement du médecin généraliste 	"Ce petit accessoire médical permet d&#x27;établir des diagnostics généraux lors d&#x27;examens ORL de routine, ou pour vérifier les réflexes pupillaires. "	<img src=http://www.quizypedia.fr/site_media/images/556/556756193455.jpeg>			
-Marteau à réflexes 	Équipement du médecin généraliste 	"Instrument, pouvant être de modèle Babinski ou Buck, servant à tester les réflexes tendineux et permettant de tester l&#x27;activité neurologique. "	&lt;img src=http://www.quizypedia.fr/site_media/images/935/935812340651.jpeg&gt;			
-Négatoscope 	Équipement du médecin généraliste 	Plage lumineuse permettant de lire des radiographies. 	&lt;img src=http://www.quizypedia.fr/site_media/images/358/358179704074.jpeg&gt;			
-Otoscope 	Équipement du médecin généraliste 	"Instrument permettant l&#x27;inspection du conduit auditif externe et du tympan. "	&lt;img src=http://www.quizypedia.fr/site_media/images/428/428536366125.jpeg&gt;			
-Pèse-bébé 	Équipement du médecin généraliste 	Instrument utilisé pour mesurer le poids des nourrissons. 	&lt;img src=http://www.quizypedia.fr/site_media/images/078/078937020753.jpeg&gt;			
-Pèse-personne 	Équipement du médecin généraliste 	"Type de balance destiné à indiquer la masse d&#x27;une personne debout, immobile sur un plateau. "	&lt;img src=http://www.quizypedia.fr/site_media/images/733/733428360425.jpeg&gt;			
-Spiromètre 	Équipement du médecin généraliste 	"Instrument permettant de mesurer les capacités pulmonaires d&#x27;un individu. "	&lt;img src=http://www.quizypedia.fr/site_media/images/721/721070542089.jpeg&gt;			
-Stéthoscope 	Équipement du médecin généraliste 	"Instrument acoustique servant pour l&#x27;auscultation, c’est-à-dire l&#x27;écoute des sons internes du corps. "	&lt;img src=http://www.quizypedia.fr/site_media/images/909/909598184678.jpeg&gt;			
-Tensiomètre 	Équipement du médecin généraliste 	Appelé aussi sphygmomanomètre, cet appareil mesure la pression artérielle. 	&lt;img src=http://www.quizypedia.fr/site_media/images/618/618559096021.jpeg&gt;			
-Thermomètre 	Équipement du médecin généraliste 	"Instrument servant à connaître la température corporelle d&#x27;un individu. "	&lt;img src=http://www.quizypedia.fr/site_media/images/557/557016819805.jpeg&gt;			
-Acné 	Pathologies et lésions de la peau  	"Maladie de la peau due à une inflammation des glandes sébacées. Elle survient lors de modifications hormonales, en particulier au moment de l&#x27;adolescence. "				
-Couperose 	Pathologies et lésions de la peau  	Maladie cutanée qui se manifeste par des rougeurs chroniques au niveau du nez, des joues, parfois aussi au niveau du menton et du front. Aussi appelée rosacée. 				
-Eczéma 	Pathologies et lésions de la peau  	Maladie caractérisée par des démangeaisons et une rougeur de la peau. Elle peut être &quot;atopique&quot;, &quot;nummulaire&quot; ou &quot;de contact&quot;. 				
-Érythème 	Pathologies et lésions de la peau  	"Lésion très courante caractérisée par une rougeur pouvant être diffuse ou localisée. Mot issu d&#x27;un mot grec signifiant &quot;rouge&quot;. "				
-Escarre 	Pathologies et lésions de la peau  	"Lésion cutanée d&#x27;origine ischémique liée à une compression des tissus mous entre un plan dur et les saillies osseuses. Aussi appelée plaie de lit. "				
-Gale 	Pathologies et lésions de la peau  	Maladie infectieuse de la peau causée par un parasite de type acarien microscopique, le sarcopte. Aussi appelée scabiose. 				
-Herpès 	Pathologies et lésions de la peau  	"Maladie virale et contagieuse, caractérisée par des crises d&#x27;éruption vésiculeuse de boutons groupés. Elle porte un nom issu d&#x27;un mot grec signifiant &quot;ramper&quot;. "				
-Impétigo 	Pathologies et lésions de la peau  	Infection cutanée superficielle bactérienne, due à un streptocoque ou à un staphylocoque. Peut être qualifié de &quot;bulleux&quot; ou de &quot;miliaire&quot;. 				
-Lèpre 	Pathologies et lésions de la peau  	Maladie qui touche les nerfs périphériques, la peau et les muqueuses, et provoquant des infirmités sévères. Aussi appelée maladie de Hansen. 				
-Mélanome 	Pathologies et lésions de la peau  	Cancer de la peau ou des muqueuses, développé aux dépens des mélanocytes. 				
-Psoriasis 	Pathologies et lésions de la peau  	"Maladie inflammatoire de la peau pouvant être &quot;en plaques&quot; ou &quot;en gouttes&quot;. Son nom, d&#x27;origine grecque, signifie &quot;éruption galeuse&quot;. "				
-Purpura 	Pathologies et lésions de la peau  	Lésion hémorragique, de couleur rouge à pourpre, due à une extravasation de sang dans le derme. 				
-Scarlatine 	Pathologies et lésions de la peau  	Maladie infectieuse de la peau due à la bactérie Streptococcus pyogenes, caractérisée par une éruption cutanée et buccale. Aussi appelée &quot;deuxième maladie&quot;. 				
-Urticaire 	Pathologies et lésions de la peau  	"Inflammation de la peau caractérisée par un œdème dermique. Son nom dérive d&#x27;un mot latin signifiant &quot;ortie&quot;. "				
-Vitiligo 	Pathologies et lésions de la peau  	"Maladie caractérisée par des taches blanches  sur la peau, de dimension, d&#x27;aspect et de localisation variables. Aussi appelé leucodermie ou achromie. "				
-Zona 	Pathologies et lésions de la peau  	"Affection virale, due au virus de l&#x27;herpes zoster, le même virus que la varicelle. Les trois principales formes sont les formes intercostale, ophtalmique et otitique. "				
-Aponévrose plantaire 	Anatomie du pied 	"Membrane fibreuse très épaisse localisée à la partie plantaire du pied. Elle est de forme triangulaire et s&#x27;insère à la partie postérieure du pied sur le calcanéum. "				
-Astragale (talus) 	Anatomie du pied 	"Os de la partie postérieure du pied. Il est entouré du tibia et du péroné en haut, et du calcanéum, os du talon, en bas. Il sert à la flexion et l&#x27;extension de la cheville. "				
-Calcanéum (calcanéus) 	Anatomie du pied 	"Os le plus volumineux du tarse, ayant la forme d&#x27;un parallélépipède plus haut que large, situé sous le talus. "				
-Cuboïde 	Anatomie du pied 	Os du tarse, du côté externe du cou-de-pied, en avant du calcanéum. 				
-Hallux 	Anatomie du pied 	Gros orteil. 				
-Métatarse 	Anatomie du pied 	Ensemble des os du pied entre le talon et les phalanges des orteils. 				
-Os naviculaire 	Anatomie du pied 	Os parfois appelé scaphoïde tarsien. Il fait partie du tarse antérieur et doit son nom à sa forme de bateau. 				
-Tarse 	Anatomie du pied 	"Groupe de sept os articulés du pied, situés entre l&#x27;extrémité inférieure des os longs de la jambe et le métatarse. "				
-Abcès 	Pathologies  	Accumulation de pus, sous la peau ou dans un organe. 				
-Adénome 	Pathologies  	"Augmentation anormale, mais peu grave, du volume d&#x27;une glande. "				
-Allergie 	Pathologies  	Réaction anormale de l’organisme à une substance ou un microbe. 				
-Amyotrophie 	Pathologies  	Diminution progressive du volume et de la force d’un muscle. 				
-Anémie 	Pathologies  	Diminution anormale du nombre des globules rouges. 				
-Anévrisme 	Pathologies  	"Maladie d&#x27;une artère dont la paroi s&#x27;affaiblit. "				
-Angine 	Pathologies  	Irritation de la gorge qui donne une impression de resserrement en avalant, associée à des douleurs et de la fièvre. 				
-Aplasie 	Pathologies  	"Arrêt du développement et du fonctionnement d&#x27;un organe. "				
-Arthrose 	Pathologies  	Usure progressive et douloureuse des articulations. 				
-Asthme 	Pathologies  	"Maladie des poumons due à un rétrécissement du passage de l&#x27;air dans les bronches. C&#x27;est souvent la conséquence d&#x27;une allergie. "				
-Athérosclérose 	Pathologies  	Maladie des artères due à un durcissement de la paroi et au dépôt de cholestérol et de fibres, ce qui peut la boucher. 				
-Accident vasculaire cérébral (AVC) 	Pathologies  	Maladie, survenant de façon brutale, provoquée par une anomalie de la circulation du sang dans une partie du cerveau. 				
-Maladie de Basedow 	Pathologies  	Maladie due à une inflammation de la glande thyroïde. Elle entraîne des problèmes cardiaques, un amaigrissement et une grande nervosité. 				
-Blennorragie 	Pathologies  	"Maladie infectieuse qui se transmet par les relations sexuelles. Elle est très douloureuse chez l&#x27;homme au moment d&#x27;uriner. Chez la femme, elle peut passer inaperçue. "				
-Botulisme 	Pathologies  	Maladie survenant chez des personnes qui ont mangé des conserves ou des salaisons mal préparées. Elle provoque des paralysies souvent mortelles. 				
-Bradycardie 	Pathologies  	Ralentissement du rythme du cœur. 				
-Bronchiolite 	Pathologies  	"Inflammation des ramifications des bronches qui gonflent et empêchent l&#x27;air d&#x27;aller au fond des poumons. C&#x27;est une maladie fréquente chez les bébés, parfois grave. "				
-Bronchite 	Pathologies  	"Inflammation virale d&#x27;un organe respiratoire déclenchant une toux, d&#x27;abord sèche, s&#x27;accompagnant ensuite de crachats. "				
-Brucellose 	Pathologies  	"Maladie infectieuse qui atteint les animaux de la ferme, mais peut se transmettre à l&#x27;homme, chez qui elle provoque une fièvre de longue durée. "				
-Bursite 	Pathologies  	Inflammation et gonflement de la poche qui entoure une articulation due à des efforts physiques excessifs. 				
-Cachexie 	Pathologies  	Amaigrissement très important et grande faiblesse survenant au cours d’une maladie grave. 				
-Calcul 	Pathologies  	"Concrétion pierreuse qui se forme par précipitation de certains composants de la bile ou de l&#x27;urine. On appelle lithiase son processus de formation. "				
-Cancer 	Pathologies  	Maladie provoquée par la transformation de cellules qui deviennent anormales et prolifèrent de façon excessive. Ces cellules déréglées finissent parfois par former une masse appelée tumeur maligne. 				
-Candidose 	Pathologies  	Mycose due à un champignon microscopique. Elle atteint la bouche, le tube digestif et le sexe. Celle touchant la bouche des bébés est appelée &quot;muguet&quot;. 				
-Carcinome 	Pathologies  	Famille de cancers de la peau et de certains organes comme les glandes ou les poumons. 				
-Maladie du charbon 	Pathologies  	"Maladie causée par les spores d&#x27;une bactérie et pouvant être cutanée, gastro-intestinale ou respiratoire , ces spores ont déjà été utilisées par des bio-terroristes. "				
-Choc anaphylactique 	Pathologies  	"Réaction allergique brutale de l&#x27;organisme. "				
-Choléra 	Pathologies  	Maladie caractérisée par des diarrhées brutales menant à une sévère déshydratation , la contamination se fait souvent via des eaux souillées. 				
-Cirrhose 	Pathologies  	Maladie du foie qui aboutit à sa destruction progressive. 				
-Condylome 	Pathologies  	Petite tumeur localisée sur la muqueuse génitale ou anale. 				
-Coqueluche 	Pathologies  	Maladie longue (4 à 8 semaines), caractérisée par de violentes quintes de toux. 				
-Coxarthrose 	Pathologies  	"Usure progressive et douloureuse de l&#x27;articulation de la hanche. "				
-Maladie de Crohn 	Pathologies  	Maladie auto-immune des intestins due à une inflammation durable. 				
-Cyanose 	Pathologies  	"Coloration anormale bleutée de la peau, due à l&#x27;oxygénation insuffisante du sang. "				
-Cyphose 	Pathologies  	Déviation de la colonne vertébrale qui rend le dos convexe (parfois avec une bosse). 				
-Cystite 	Pathologies  	Irritation de la vessie généralement due à une infection des urines. 				
-Diabète 	Pathologies  	"Maladie chronique caractérisée par la présence d&#x27;un excès de sucre dans le sang appelé hyperglycémie. "				
-Diphtérie 	Pathologies  	Grave maladie due à un microbe très contagieux. Elle atteint notamment la gorge et le larynx. Sans traitement, elle provoque des étouffements mortels. 				
-Drépanocytose 	Pathologies  	"Maladie affectant l&#x27;hémoglobine des globules rouges qui entraîne des douleurs violentes dans le ventre ou les articulations. "				
-Maladie de Duchenne 	Pathologies  	"Maladie génétique des muscles apparaissant dès la naissance et entraînant une paralysie des jambes et une maladie du cœur souvent mortelle à l&#x27;âge adulte. "				
-Dysenterie 	Pathologies  	Maladie infectieuse du côlon qui provoque des diarrhées très importantes et très fréquentes. 				
-Dyspepsie 	Pathologies  	"Ensemble de symptômes de douleur ou de malaise épigastrique dont l’origine se situerait au niveau de l&#x27;estomac ou des structures proches. "				
-Dyspnée 	Pathologies  	"Sensation subjective et consciente de mal respirer dont l&#x27;origine est très variable. "				
-Éclampsie 	Pathologies  	"Crise convulsive généralisée survenant chez une femme enceinte dans un contexte d&#x27;hypertension gravidique. "				
-Embolie 	Pathologies  	"Obstruction brutale d&#x27;un vaisseau, le plus souvent d&#x27;une artère, par la migration d&#x27;un corps étranger véhiculé par la circulation sanguine. "				
-Emphysème 	Pathologies  	Maladie caractérisée par une destruction progressive et irréversible des alvéoles pulmonaires. 				
-Endométriose 	Pathologies  	"Maladie de la partie intérieure de l&#x27;utérus qui accueille l&#x27;ovule lorsque celui-ci est fécondé. Elle provoque douleurs et infertilité. "				
-Énurésie 	Pathologies  	"Émission involontaire et inconsciente d&#x27;urine. "				
-Amalgame 	Vocabulaire du dentiste  	Alliage de mercure, argent, cuivre et étain servant aux obturations de cavités dentaires. 				
-Avulsion 	Vocabulaire du dentiste  	"Extraction d&#x27;une dent. "				
-Bridge 	Vocabulaire du dentiste  	Prothèse dentaire fixée sur les dents voisines à une ou plusieurs dents manquantes. 				
-Carie 	Vocabulaire du dentiste  	Attaque des tissus durs de la dent par des agents bactériens. 				
-Céramique 	Vocabulaire du dentiste  	Porcelaine à base de silicate d’alumine employé en prothèse dentaire pour des éléments esthétiques. 				
-Couronne 	Vocabulaire du dentiste  	Dent artificielle creuse qui sert à recouvrir une dent abîmée ou cariée. 				
-Davier 	Vocabulaire du dentiste  	Pince utilisée pour extraire une dent. 				
-Détartrage 	Vocabulaire du dentiste  	"Action consistant à enlever de la matière qui s&#x27;est accumulée sur les dents. "				
-Dévitalisation 	Vocabulaire du dentiste  	Traitement qui vise à retirer la partie intérieure de la dent et des racines. 				
-Excavateur 	Vocabulaire du dentiste  	Instrument à double extrémité utilisé pour creuser la dentine. 				
-Curette 	Vocabulaire du dentiste  	"Instrument utilisé pour racler les dépôts de tartre de l&#x27;émail des dents. "				
-Dentier 	Vocabulaire du dentiste  	"Prothèse qui peut s&#x27;enlever, et qui remplace généralement plusieurs dents. "				
-Fraise 	Vocabulaire du dentiste  	Mèche métallique activée par un instrument dentaire rotatif comme une turbine. 				
-Inlay 	Vocabulaire du dentiste  	Prothèse comblant l’intérieur d’une dent cassée ou cariée. 				
-Pivot 	Vocabulaire du dentiste  	Pièce métallique réalisée sous la couronne pour améliorer la résistance de la dent. 				
-Plombage 	Vocabulaire du dentiste  	Remplissage, avec un amalgame dentaire de la cavité d’une dent cariée. 				
-Scialytique 	Vocabulaire du dentiste  	"Petit projecteur de lumière utilisé pour bien visualiser l&#x27;intérieur de la bouche. "				
-Souffleur 	Vocabulaire du dentiste  	Outil servant à enlever les débris et à aspirer la salive. 				
-Spatule 	Vocabulaire du dentiste  	Outil permettant de préparer des pansements provisoires. 				
-Tire-nerf 	Vocabulaire du dentiste  	"Outil d&#x27;extraction du contenu d’un canal radiculaire. "				
-Hypatie 	Des femmes scientifiques 	"Philosophe néoplatonicienne, astronome et mathématicienne grecque. On lui doit un commentaire sur les Arithmétiques de Diophante d&#x27;Alexandrie et un traité sur les coniques. "				
-Émilie du Châtelet 	Des femmes scientifiques 	Femme de lettres, mathématicienne et physicienne française, figure des Lumières. Elle est renommée pour sa traduction en français des Principia Mathematica de Newton et a aussi contribué à diffuser en France l'œuvre physique de Leibniz. 				
-Sophie Germain 	Des femmes scientifiques 	Cette physicienne et mathématicienne française donne son nom à des nombres premiers lui permettant de résoudre certains cas du grand théorème de Fermat. 				
-Ada Lovelace 	Des femmes scientifiques 	"Mathématicienne anglaise dont on considère qu&#x27;elle a écrit le premier programme informatique de l&#x27;histoire. "				
-Marie Curie 	Des femmes scientifiques 	"Première femme titulaire d&#x27;une chaire à la Sorbonne, cette Française découvrit la radioactivité du thorium, identifia le polonium et isola le radium. Elle reçut le Nobel de physique en 1903 et le Nobel de chimie en 1911. "				
-Maria Montessori 	Des femmes scientifiques 	"Médecin et pédagogue italienne célèbre pour sa pédagogie reposant sur l&#x27;éducation sensorielle et kinesthésique de l&#x27;enfant. "				
-Lise Meitner 	Des femmes scientifiques 	"Physicienne autrichienne qui joua notamment un rôle majeur dans la découverte de la fission nucléaire Elle est souvent citée comme l&#x27;un des cas les plus flagrants de scientifiques injustement ignorés par le comité Nobel. "				
-Irène Joliot-Curie 	Des femmes scientifiques 	"Nobel de chimie pour la découverte de la radioactivité induite et de la radioactivité artificielle, elle a été en 1936 une des trois premières femmes dans un gouvernement en France, en tant que sous-secrétaire d&#x27;État à la Recherche scientifique. "				
-Hedy Lamarr 	Des femmes scientifiques 	Outre sa carrière au cinéma, elle a marqué les sciences des télécommunications en inventant un moyen de coder des transmissions utilisé actuellement pour le GPS, les liaisons chiffrées militaires ou dans certaines techniques Wi-Fi. 				
-Rosalind Franklin 	Des femmes scientifiques 	"Physicochimiste britannique, pionnière de la biologie moléculaire, elle formule la structure hélicoïdale de l&#x27;ADN, découverte spoliée par Watson et Crick qui accèdent à son travail. "				
-Mary Jackson 	Des femmes scientifiques 	"Première ingénieure aéronautique afro-américaine de la Nasa, qu’elle a rejoint en 1951. Son histoire est relatée dans le livre et le film intitulés &quot;Les Figures de l&#x27;ombre&quot;. "				
-AB- 	Particularités des groupes sanguins 	Groupe sanguin le plus rare. 				
-AB+ 	Particularités des groupes sanguins 	"Les personnes de ce groupe peuvent recevoir du sang de tous les groupes sanguins, on l&#x27;appelle &quot;receveur universel&quot;. "				
-O- 	Particularités des groupes sanguins 	"Groupe sanguin destiné à tout le monde, on l&#x27;appelle &quot;donneur universel&quot;. On utilise ce groupe dans les situations d&#x27;urgence. "				
-O+ 	Particularités des groupes sanguins 	Groupe sanguin le plus répandu dans le monde. 				
-Alêne 	Des outils  	Poinçon qui sert à percer le cuir afin de préparer le passage du fil. 	"<img src=""http://www.quizypedia.fr/site_media/images/718/718060787018.jpeg"">"			
-Baratte 	Des outils  	Appareil dans lequel on agite la crème du lait pour obtenir le beurre. 	"<img src=""http://www.quizypedia.fr/site_media/images/240/240718830573.jpeg"">"			
-Barre à mine 	Des outils  	Outil en fer servant à creuser des trous dans la roche pour y placer des charges explosives. 	&lt;img src=http://www.quizypedia.fr/site_media/images/466/466121666460.jpeg&gt;			
-Batée 	Des outils  	"Auge circulaire peu profonde servant au lavage des matériaux et à la séparation des minéraux les plus denses (paillettes d&#x27;or). "	&lt;img src=http://www.quizypedia.fr/site_media/images/723/723974761200.jpeg&gt;			
-Boucharde 	Des outils  	Marteau de tailleur de pierre, à deux têtes carrées couvertes de petites pyramides, ou pointes-de-diamant. 	"<img src=""http://www.quizypedia.fr/site_media/images/468/468137055729.jpeg"">"			
-Burin 	Des outils  	Instrument d'acier utilisé pour ciseler ou graver des métaux durs. 	"<img src=""http://www.quizypedia.fr/site_media/images/721/721264050403.jpeg"">"			
-Chaîne d’arpenteur 	Des outils  	Instrument de mesure ancien de 10 mètres de long et composé de tiges métalliques reliées. Il servait principalement pour mesurer la superficie de terres agricoles. 	"<img src=""http://www.quizypedia.fr/site_media/images/000/000736457183.jpeg"">"			
-Cric 	Des outils  	Appareil de levage utilisé notamment pour les ateliers de réparation automobile. 	&lt;img src=http://www.quizypedia.fr/site_media/images/039/039356027748.jpeg&gt;			
-Diable 	Des outils  	"Outil de levage et de transport de charges, à la forme d&#x27;un petit chariot muni de roues basses. "	&lt;img src=http://www.quizypedia.fr/site_media/images/989/989375049677.jpeg&gt;			
-Doloire 	Des outils  	Sorte de hache utilisée auparavant pour amincir ou régulariser l'épaisseur d'une pièce de cuir ou de bois. 	"<img src=""http://www.quizypedia.fr/site_media/images/359/359705208034.jpeg"">"			
-Candi 	Vocabulaire du sucre 	"Se dit d&#x27;un sucre en gros cristaux, obtenu par cristallisation lente du sirop. "				
-Caramel 	Vocabulaire du sucre 	Produit aromatique provenant de la cuisson du sucre. 				
-Cassonade 	Vocabulaire du sucre 	Sucre cristallisé roux, extrait directement du jus de la canne à sucre. 				
-Édulcorant 	Vocabulaire du sucre 	"Substance d&#x27;origine naturelle ou de synthèse donnant une saveur sucrée. "				
-Fructose 	Vocabulaire du sucre 	"Sucre présent dans l&#x27;organisme et dans les fruits. "				
-Glucose 	Vocabulaire du sucre 	"Glucide à six atomes de carbone, sucre très répandu dans la nature, source d&#x27;énergie de l&#x27;organisme. "				
-Lactose 	Vocabulaire du sucre 	Sucre présent dans le lait et les produits laitiers. 				
-Manne 	Vocabulaire du sucre 	Exsudation sucrée provenant de différents végétaux. C'est aussi la Nourriture miraculeuse envoyée aux Hébreux dans le désert.				
-Mélasse 	Vocabulaire du sucre 	Sirop visqueux, incristallisable, constituant le résidu de la fabrication du sucre à partir de la betterave sucrière ou de la canne à sucre. 				
-Pastillage 	Vocabulaire du sucre 	Pâte sucrée non comestible utilisée comme décor dans la confiserie. 				
-Saccharose 	Vocabulaire du sucre 	Nom scientifique du sucre de canne ou de betterave. 				
-Vesou 	Vocabulaire du sucre 	Jus qui sort de la canne à sucre écrasée. 				
+
+Droites et segments 
+
+http://www.quizypedia.fr/quiz/Points,%20droites%20et%20segments%20en%20g%C3%A9om%C3%A9trie/
+
+
+Nom des polygones
+
+http://www.quizypedia.fr/quiz/Nom%20des%20polygones/
+
+
+Planètes du système solaire
+
+http://www.quizypedia.fr/quiz/Plan%C3%A8tes%20du%20Syst%C3%A8me%20solaire/
+
+
+Les 7 unités de base du système international 
+
+http://www.quizypedia.fr/quiz/Les%207%20unit%C3%A9s%20de%20base%20du%20syst%C3%A8me%20international/
+
+
+Préfixes des grands et petits nombres (surtout les préfixes les plus petits)
+
+http://www.quizypedia.fr/quiz/Pr%C3%A9fixes%20associ%C3%A9s%20aux%20puissances%20de%2010%20positives/
+
+http://www.quizypedia.fr/quiz/Pr%C3%A9fixes%20associ%C3%A9s%20aux%20puissances%20de%2010%20n%C3%A9gatives/
+
+
+Figures de la médecine (1 2 3)
+
+http://www.quizypedia.fr/quiz/Figures%20de%20la%20m%C3%A9decine%20(1)/
+
+http://www.quizypedia.fr/quiz/Figures%20de%20la%20m%C3%A9decine%20(2)/
+
+http://www.quizypedia.fr/quiz/Figures%20de%20la%20m%C3%A9decine%20(3)/
+
+
+Pionniers de la conquête spatiale
+
+http://www.quizypedia.fr/quiz/Pionniers%20de%20la%20conqu%C3%AAte%20spatiale/
+
+
+Tube digestif
+
+http://www.quizypedia.fr/quiz/Le%20tube%20digestif/
+
+
+Hormones
+
+http://www.quizypedia.fr/quiz/Hormones%20et%20leur%20r%C3%B4le/
+ Alliages : bronze (cuivre + étain), acier (Fer + Carbone (moins de 2 %), fonte (Fer + Carbone (de 2 à 6,67 %), laiton (cuivre + zinc)
+
+http://www.quizypedia.fr/quiz/Les%20alliages/
+
+
+Scientifiques italiens 
+
+http://www.quizypedia.fr/quiz/Scientifiques%20italiens/
+
+
+Scientifiques allemands (1 2)
+
+http://www.quizypedia.fr/quiz/Scientifiques%20allemands%20n%C3%A9s%20entre%201550%20et%201840/
+
+http://www.quizypedia.fr/quiz/Scientifiques%20allemands%20n%C3%A9s%20entre%201840%20et%201920/
+
+
+Scientifiques grecs 
+
+http://www.quizypedia.fr/quiz/Scientifiques%20grecs/
+
+
+Vocabulaire du triangle
+
+http://www.quizypedia.fr/quiz/Vocabulaire%20du%20triangle/
+
+
+Pionniers de l’aviation
+
+http://www.quizypedia.fr/quiz/Pionniers%20de%20l%27aviation/
+
+
+Système nerveux
+
+http://www.quizypedia.fr/quiz/Le%20syst%C3%A8me%20nerveux%20:%20vocabulaire%20g%C3%A9n%C3%A9ral/
+
+
+Métaux lourds
+
+http://www.quizypedia.fr/quiz/M%C3%A9taux%20lourds/
+
+
+ Chiffres romains : I V X L C D M
+
+
+Anatomie de l’oreille
+
+http://www.quizypedia.fr/quiz/Anatomie%20de%20l%27oreille/
+
+
+
+
+
+Scientifiques britanniques 
+
+http://www.quizypedia.fr/quiz/Scientifiques%20britanniques%20n%C3%A9s%20avant%201800/
+
+http://www.quizypedia.fr/quiz/Scientifiques%20britanniques%20n%C3%A9s%20apr%C3%A8s%201800/
+
+Spécialités médicales (1 2)
+
+http://www.quizypedia.fr/quiz/Sp%C3%A9cialit%C3%A9s%20m%C3%A9dicales/
+
+http://www.quizypedia.fr/quiz/Sp%C3%A9cialit%C3%A9s%20m%C3%A9dicales%20(2)/
+
+
+Sigles et acronymes en informatique
+
+http://www.quizypedia.fr/quiz/Sigles%20et%20acronymes%20en%20informatique/
+
+
+Maladie de l’œil 
+
+http://www.quizypedia.fr/quiz/Maladies%20de%20l%27%C5%93il%20et%20troubles%20de%20la%20vision/
+
+
+Pierres précieuses et fines (quiz 1 seulement)
+
+http://www.quizypedia.fr/quiz/Pierres%20pr%C3%A9cieuses%20et%20fines%20(1)/
+
+
+Echelles scientifiques 
+
+http://www.quizypedia.fr/quiz/%C3%89chelles%20scientifiques/
+
+
+Unités de mesure en électricité 
+
+http://www.quizypedia.fr/quiz/Unit%C3%A9s%20de%20mesure%20en%20%C3%A9lectricit%C3%A9/
+
+
+Particules de la matière
+
+http://www.quizypedia.fr/quiz/Particules%20de%20la%20mati%C3%A8re%20(facile)/
+
+
+Ensembles usuels de nombres 
+
+http://www.quizypedia.fr/quiz/Les%20ensembles%20usuels%20de%20nombres/
+
+Muscles
+
+http://www.quizypedia.fr/quiz/Muscles%20principaux%20du%20corps%20humain/
+
+Les dents 
+
+http://www.quizypedia.fr/quiz/Les%20dents/
+
+
+Ablations chirurgicales
+
+http://www.quizypedia.fr/quiz/Ablations%20chirurgicales/
+
+
+Changement d’état de la matière
+
+http://www.quizypedia.fr/quiz/Les%20changements%20d%27%C3%A9tat%20de%20la%20mati%C3%A8re/
+
+
+Os du corps humain (1 2)
+
+http://www.quizypedia.fr/quiz/Os%20du%20corps%20humain%20(1)/
+
+http://www.quizypedia.fr/quiz/Os%20du%20corps%20humain%20(2)/ 
+
+
+Scientifiques français (1 2)
+
+http://www.quizypedia.fr/quiz/Scientifiques%20fran%C3%A7ais%20(1)/
+
+http://www.quizypedia.fr/quiz/Scientifiques%20fran%C3%A7ais%20(2)/
+
+
+Astronomes célèbres 
+
+http://www.quizypedia.fr/quiz/Astronomes%20c%C3%A9l%C3%A8bres/
+
+
+Noms de sciences (1 2)
+
+http://www.quizypedia.fr/quiz/Noms%20de%20sciences%20(1)/
+
+http://www.quizypedia.fr/quiz/Noms%20de%20sciences%20(2)/
+
+
+Syndromes
+
+http://www.quizypedia.fr/quiz/Des%20syndromes/
+
+
+La Terre en 10 questions 
+
+http://www.quizypedia.fr/quiz/La%20plan%C3%A8te%20Terre%20en%2010%20questions/
+
+
+Anatomie des lèvres  surtout philtrum et arc de Cupidon
+
+http://www.quizypedia.fr/quiz/Anatomie%20des%20l%C3%A8vres/
+
+
+
+Vertèbres du corps humain 
+
+http://www.quizypedia.fr/quiz/Vert%C3%A8bres%20du%20corps%20humain/
+
+
+Anatomie de l’œil (1 2)
+
+http://www.quizypedia.fr/quiz/Anatomie%20de%20l%27%C5%93il%20(1)/
+
+http://www.quizypedia.fr/quiz/Anatomie%20de%20l%27%C5%93il%20(2)/
+
+
+Nom de sciences (1 2 3 4)
+
+http://www.quizypedia.fr/quiz/Noms%20de%20sciences%20(1)/
+
+http://www.quizypedia.fr/quiz/Noms%20de%20sciences%20(2)/
+
+http://www.quizypedia.fr/quiz/Noms%20de%20sciences%20(3)/
+
+http://www.quizypedia.fr/quiz/Noms%20de%20sciences%20(4)/
+
+
+Equipement du médecin généraliste
+
+http://www.quizypedia.fr/quiz/%C3%89quipement%20du%20m%C3%A9decin%20g%C3%A9n%C3%A9raliste/
+
+
+Pathologies et lésions de la peau (1 2)
+
+http://www.quizypedia.fr/quiz/Pathologies%20et%20l%C3%A9sions%20de%20la%20peau%20(1)/
+
+http://www.quizypedia.fr/quiz/Pathologies%20et%20l%C3%A9sions%20de%20la%20peau%20(2)/
+
+
+Anatomie du pied 
+
+http://www.quizypedia.fr/quiz/Anatomie%20du%20pied/
+
+
+Pathologies (1 2 3 4)
+
+http://www.quizypedia.fr/quiz/Pathologies%20(1)/
+
+http://www.quizypedia.fr/quiz/Pathologies%20(2)/
+
+http://www.quizypedia.fr/quiz/Pathologies%20(3)/
+
+http://www.quizypedia.fr/quiz/Pathologies%20(4)/
+
+
+Vocabulaire du dentiste (1 2)
+
+http://www.quizypedia.fr/quiz/Vocabulaire%20du%20dentiste%20(1)/
+http://www.quizypedia.fr/quiz/Vocabulaire%20du%20dentiste%20(2)/
+
+
+Femmes scientifiques 
+
+http://www.quizypedia.fr/quiz/Des%20femmes%20scientifiques/
+
+
+Particularités des groupes sanguins
+
+http://www.quizypedia.fr/quiz/Particularit%C3%A9s%20des%20groupes%20sanguins/
+
+
+Des outils (1 2)
+
+http://www.quizypedia.fr/quiz/Des%20outils%20(1)/
+
+
+Vocabulaire du sucre 
+
+http://www.quizypedia.fr/quiz/Vocabulaire%20du%20sucre/

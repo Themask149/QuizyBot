@@ -7,11 +7,15 @@ import random
 import glob
 import re
 import html
+from request import *
 
 load_dotenv()
 # Create an instance of a Client. This client represents your bot.
 intents = discord.Intents.default()
 intents.message_content = True
+
+QUIZY="https://www.quizypedia.fr/"
+
 
 def extract_url(string):
 	has_url=False
@@ -30,10 +34,12 @@ def decode_html_entities(text):
 class MyClient(discord.Client):
 
 	dict_files={}
+	session=None
 
 	def __init__(self, *args, **kwargs):
 		super().__init__(*args, **kwargs)
 		files_path=glob.glob("./Quizypedia_*.txt")
+		self.session = requests.Session()
 		for file in files_path:
 			self.dict_files[file.split("_")[1].split(".")[0]]=file
 		print("Files loaded: ",self.dict_files)
@@ -54,23 +60,17 @@ class MyClient(discord.Client):
 
 		if len(message.content.split())==1:
 			if f"{message.content[1:]}" in self.dict_files.keys():
-				with open(self.dict_files[message.content[1:]], "r") as file:
-					lines = file.readlines()
-					random_line=lines[random.randint(0,len(lines)-1)].split("\t")
-					reponse=random_line[0].strip()
-					theme=random_line[1].strip()
-					max_index=random_line.index("")
-					random_indice=decode_html_entities(random_line[random.randint(2,max_index-1)])
-					has_url,url=extract_url(random_indice)
-					await message.channel.send(f"Voici une question du thème:\n# {theme}\n\n__Trouvez la réponse avec cet indice:__\n")
-					if has_url:
-						random_indice=url
-						embed=discord.Embed(title="Indice")
-						embed.set_image(url=url)
-						await message.channel.send(embed=embed)
-					else:
-						await message.channel.send(f"*{random_indice.strip()}*")
-					await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{reponse}||")
+				url=random.choice(extractUrl(self.dict_files[f"{message.content[1:]}"]))
+				quizzes=getQuizzes(self.session,url)
+				url=QUIZY[:-1]+random.choice(quizzes)
+				idurl=getQuizId(self.session,url)
+				quiz=getQuiz(self.session,url,idurl)
+				t,q,h,r=extractQuestion(quiz)
+				hint,response=randomQuestion(h,r)
+				hint=miseenformehint(hint)
+				await message.channel.send(f"Voici une question du thème:\n# {t}\n\n__{q}__\n")
+				await message.channel.send(f"{hint}")
+				await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{response}||")
 
 client = MyClient(intents=intents)
 

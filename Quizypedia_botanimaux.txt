@@ -1,779 +1,125 @@
-#separator:tab
-#html:true
-#tags column:7
-Basilic 	Plantes aromatiques  	Plante de la famille des Lamiacées qui accompagne les salades, crudités ou pâtes. Elle est très utilisée dans les cuisines italienne (notamment dans le pesto) et asiatique. Ocimum basilicum 	"<img src=""http://www.quizypedia.fr/site_media/images/248/248552219127.jpeg"">"			botanimaux quizypedia
-Hippocampe 	Surnoms d'animaux marins  	Cheval de mer 	"<img src=""http://www.quizypedia.fr/site_media/images/708/708989738431.jpeg"">"			botanimaux quizypedia
-Iris 	Fleurs des champs et forêts  	Fleur qui tient son nom de la messagère des dieux grecs, associée à l'arc-en-ciel. Iridacées 	"<img src=""http://www.quizypedia.fr/site_media/images/fleurs/iris.jpg"">"			botanimaux quizypedia
-Lion 	Les félins sauvages 	"De nom scientifique Panthera leo, il est surnommé ""le roi des animaux"". "	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/lion.jpg>			botanimaux quizypedia
-Orange 	Les agrumes 	Citrus sinensis Fruit qui porte le nom de sa couleur, ses variétés peuvent être maltaise ou sanguine. 	<img src=http://www.quizypedia.fr/site_media/images/393/393115876366.jpeg>			botanimaux quizypedia
-Tigre 	Les félins sauvages 	Grand félin asiatique reconnaissable à sa fourrure rousse rayée de noir , son nom scientifique est Panthera tigris. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/tigre.jpg>			botanimaux quizypedia
-Iris 	Fleurs des champs et forêts  	Fleur qui tient son nom de la messagère des dieux grecs, associée à l'arc-en-ciel. Iridacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/iris.jpg>			botanimaux quizypedia
-Pyracantha 	Arbres et arbustes connus sous plusieurs noms 	Buisson ardent 	Arbuste méditerranéen épineux, ornemental, de la famille des rosacées. Son surnom est une allusion à un épisode de la Bible. 	<img src=http://www.quizypedia.fr/site_media/images/218/218773544535.jpeg>		botanimaux quizypedia
-Babouin 	Singes d'Afrique et d'Asie 	Anciennement nommé cynocéphale en raison de son museau évoquant celui d'un chien Afrique subsaharienne et sud de l'Arabie 	<img src=http://www.quizypedia.fr/site_media/images/singes/babouin.jpg>			botanimaux quizypedia
-Cercopithèque 	Singes d'Afrique et d'Asie 	"Etymologiquement ""singe à grande queue"" Afrique subsaharienne "	<img src=http://www.quizypedia.fr/site_media/images/singes/cercopitheque.jpg>			botanimaux quizypedia
-Chimpanzé 	Singes d'Afrique et d'Asie 	Singe dont le bonobo est une espèce particulière Afrique de l'ouest et centrale 	<img src=http://www.quizypedia.fr/site_media/images/singes/chimpanze.jpg>			botanimaux quizypedia
-Gélada (ou singe-lion) 	Singes d'Afrique et d'Asie 	Seul singe se nourrissant principalement d'herbes Hauts plateaux éthiopiens 	<img src=http://www.quizypedia.fr/site_media/images/singes/gelada.jpg>			botanimaux quizypedia
-Gibbon 	Singes d'Afrique et d'Asie 	Singe sans queue expert de la brachiation grâce à ses longs bras Asie du Sud-Est 	<img src=http://www.quizypedia.fr/site_media/images/singes/gibbon.jpg>			botanimaux quizypedia
-Gorille 	Singes d'Afrique et d'Asie 	Plus gros primate, dont les mâles peuvent dépasser 250 kg Afrique centrale 	<img src=http://www.quizypedia.fr/site_media/images/singes/gorille.jpg>			botanimaux quizypedia
-Macaque 	Singes d'Afrique et d'Asie 	Primate ayant la plus grande aire de répartition après l'être humain , une espèce (le magot) vit en liberté en Europe, à Gibraltar , une autre, le rhésus, a donné son nom à un système de groupes sanguins Afrique du Nord, Asie de l'Est et du Sud-Est 	<img src=http://www.quizypedia.fr/site_media/images/singes/macaque.jpg>			botanimaux quizypedia
-Mandrill 	Singes d'Afrique et d'Asie 	Doté de mâchoires très puissantes et de couleurs très vives, notamment sur son visage et son arrière-train Afrique (principalement Cameroun et Gabon) 	<img src=http://www.quizypedia.fr/site_media/images/singes/mandrill.jpg>			botanimaux quizypedia
-Nasique 	Singes d'Afrique et d'Asie 	Reconnaissable à son long appendice nasal , bon nageur capable de plonger sous l'eau Bornéo 	<img src=http://www.quizypedia.fr/site_media/images/singes/nasique.jpg>			botanimaux quizypedia
-Orang-outan 	Singes d'Afrique et d'Asie 	"Nommé d'après des mots malais signifiant ""homme de la forêt"" Bornéo et Sumatra "	<img src=http://www.quizypedia.fr/site_media/images/singes/orang-outan.jpg>			botanimaux quizypedia
-Vervet 	Singes d'Afrique et d'Asie 	Singe dont il existe quelques colonies dans les Caraïbes suite au transport de spécimens depuis l'Afrique à l'époque de la traite des Noirs Afrique subsaharienne 	<img src=http://www.quizypedia.fr/site_media/images/singes/vervet.jpg>			botanimaux quizypedia
-Alouate (ou singe hurleur) 	Singes d'Amérique 	Possède le plus puissant cri pour un animal terrestre. Amérique tropicale 	<img src=http://www.quizypedia.fr/site_media/images/singes/alouatta_seniculus.jpg>			botanimaux quizypedia
-Atèle (ou singe-araignée) 	Singes d'Amérique 	Singe très agile grâce à sa longue queue préhensile et à ses longs membres, qui ont inspiré son surnom. Amérique tropicale 	<img src=http://www.quizypedia.fr/site_media/images/singes/ateles_fusciceps_robustus.jpg>			botanimaux quizypedia
-Capucin 	Singes d'Amérique 	Singe dont l'un des représentants a joué le rôle de Marcel dans la série Friends. Amérique centrale et nord de l'Amérique du Sud 	<img src=http://www.quizypedia.fr/site_media/images/singes/capucin.jpg>			botanimaux quizypedia
-Ouistiti (ou marmouset) 	Singes d'Amérique 	Plus petit singe du monde, mesurant parfois à peine 10 cm à l'âge adulte. Principalement Amérique du Sud 	<img src=http://www.quizypedia.fr/site_media/images/singes/ouistiti.jpg>			botanimaux quizypedia
-Saïmiri (ou singe-écureuil) 	Singes d'Amérique 	Singe dont les femelles font partie des rares mammifères à posséder un pseudo-pénis, utilisé afin d'affirmer leur rang dans le groupe. Amérique centrale et Amérique du Sud 	<img src=http://www.quizypedia.fr/site_media/images/singes/saimiri.jpg>			botanimaux quizypedia
-Tamarin-lion 	Singes d'Amérique 	Singe dont le pelage orangé est abondant autour de la face, possédant des doigts très allongés, notamment utilisés pour attraper des insectes. Forêts de l'est du Brésil 	<img src=http://www.quizypedia.fr/site_media/images/singes/tamarin-lion.jpg>			botanimaux quizypedia
-Arnica 	Fleurs des champs et forêts  	Plante des montagnes réputée efficace pour soigner les petits hématomes Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/arnica.jpg>			botanimaux quizypedia
-Bardane 	Fleurs des champs et forêts  	Plante dont les graines sont dispersées par les animaux grâce aux crochets présents sur les fleurs , a ainsi inspiré le velcro Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/bardane.jpg>			botanimaux quizypedia
-Bleuet 	Fleurs des champs et forêts  	Plante dite messicole car elle pousse dans les champs de céréales , en France, elle symbolise la solidarité avec les anciens combattants Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/bleuet.jpg>			botanimaux quizypedia
-Camomille 	Fleurs des champs et forêts  	Plante principalement connue pour aromatiser des tisanes Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/camomille.jpg>			botanimaux quizypedia
-Carline à feuilles d'acanthe 	Fleurs des champs et forêts  	Plante aussi nommée cardabelle et qui symbolise les causses, notamment celui du Larzac Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/carline.jpg>			botanimaux quizypedia
-Chardon 	Fleurs des champs et forêts  	Plante qui symbolise l'Ecosse Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/chardon.jpg>			botanimaux quizypedia
-Chélidoine 	Fleurs des champs et forêts  	Plante dont le latex orangé est efficace pour soigner les verrues Papavéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/chelidoine.jpg>			botanimaux quizypedia
-Coquelicot 	Fleurs des champs et forêts  	Plante dite messicole car elle pousse dans les champs de céréales , au Royaume-Uni, elle symbolise la solidarité avec les anciens combattants Papavéracées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/coquelicot.jpg>			botanimaux quizypedia
-Digitale 	Fleurs des champs et forêts  	Plante très toxique parfois utilisée en cardiologie et nommée en référence à la forme de ses fleurs, dans lesquelles on peut glisser un doigt Scrofulariacées (ou Plantaginacées) 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/digitale.jpg>			botanimaux quizypedia
-Genêt 	Fleurs des champs et forêts  	Plante qui servait à faire des balais , à l'origine du nom de la dynastie des Plantagenêts. Fabacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/genet.jpg>			botanimaux quizypedia
-Gentiane jaune 	Fleurs des champs et forêts  	Plante dont les racines sont utilisées dans divers alcools, telle la Suze. Gentianacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/gentiane.jpg>			botanimaux quizypedia
-Hellébore noir 	Fleurs des champs et forêts  	Fleur qui malgré son surnom de rose de Noël n'appartient pas aux rosacées et fleurit naturellement en hiver, mais après Noël. Renonculacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/hellebore.jpg>			botanimaux quizypedia
-Lamier pourpre 	Fleurs des champs et forêts  	Plante commune aussi appelée ortie rouge et généralement considérée comme une mauvaise herbe. Lamiacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/lamier-pourpre.jpg>			botanimaux quizypedia
-Lupin 	Fleurs des champs et forêts  	Plante dont certaines variétés produisent des graines non toxiques particulièrement riches en protéines. Fabacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/lupin-jaune.jpg>			botanimaux quizypedia
-Marguerite 	Fleurs des champs et forêts  	"Fleur parfois utilisée dans un jeu associé à la phrase ""il/elle m'aime un peu, beaucoup, passionnément, à la folie, pas du tout"". Astéracées "	<img src=http://www.quizypedia.fr/site_media/images/fleurs/marguerite.jpg>			botanimaux quizypedia
-Mauve sylvestre 	Fleurs des champs et forêts  	Plante qui était utilisée pour apaiser les maux de gorge. Malvacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/mauve-sylvestre.jpg>			botanimaux quizypedia
-Monnaie-du-pape 	Fleurs des champs et forêts  	Plante aussi appelée lunaire annuelle et qui tient son nom de ses fruits ronds évoquant des pièces de monnaie. Brassicacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/monnaie-du-pape.jpg>			botanimaux quizypedia
-Moutarde 	Fleurs des champs et forêts  	Plante aussi appelée sénevé, cultivée pour la préparation d'un condiment auquel elle a donné son nom. Brassicacées 	<img src=http://www.quizypedia.fr/site_media/images/fleurs/moutarde.jpg>			botanimaux quizypedia
-Muguet 	Fleurs des champs et forêts  	Plante toxique très odorante associée depuis la Renaissance au 1er mai. Liliacées 	<img src=http://www.quizypedia.fr/site_media/images/835/835924674695.jpeg>			botanimaux quizypedia
-Muscari 	Fleurs des champs et forêts  	Plante dont les fleurs sont petites, ovoïdes et regroupées en grappes serrées. Liliacées 	<img src=http://www.quizypedia.fr/site_media/images/655/655001257021.jpeg>			botanimaux quizypedia
-Myosotis 	Fleurs des champs et forêts  	Fleur surnommée oreille-de-souris (son nom en grec) ou encore ne-m'oubliez-pas. Boraginacées 	<img src=http://www.quizypedia.fr/site_media/images/717/717910221071.jpeg>			botanimaux quizypedia
-Pâquerette 	Fleurs des champs et forêts  	Plante dont le nom viendrait d'une fête chrétienne se produisant aux environs de sa floraison. Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/868/868902297093.jpeg>			botanimaux quizypedia
-Pavot somnifère 	Fleurs des champs et forêts  	Plante contenant des alcaloïdes opiacés tels que la morphine et la codéine. Papavéracées 	<img src=http://www.quizypedia.fr/site_media/images/721/721341902905.jpeg>			botanimaux quizypedia
-Pervenche 	Fleurs des champs et forêts  	Plante qui, comme le fraisier, se multiplie par stolons (des tiges courent sur le sol puis prennent racine en certains points). Apocynacées 	<img src=http://www.quizypedia.fr/site_media/images/979/979910665868.jpeg>			botanimaux quizypedia
-Pissenlit 	Fleurs des champs et forêts  	Plante dont l'un des surnoms est dent-de-lion et qui produit un latex blanc lorsque l'on casse sa tige. Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/036/036991237163.jpeg>			botanimaux quizypedia
-Primevère officinale 	Fleurs des champs et forêts  	Plante également surnommée coucou ou herbe de Saint-Paul et dont les fleurs peuvent être consommées. Primulacées 	<img src=http://www.quizypedia.fr/site_media/images/768/768873880582.jpeg>			botanimaux quizypedia
-Renoncule 	Fleurs des champs et forêts  	Plante aussi surnommée bouton-d'or. Renonculacées 	<img src=http://www.quizypedia.fr/site_media/images/125/125354068042.jpeg>			botanimaux quizypedia
-Sauge officinale 	Fleurs des champs et forêts  	"Plante aromatique dont le nom vient du latin signifiant ""sauver"" et dont les feuilles sont utilisées depuis l'Antiquité dans des préparations médicinales. Lamiacées "	<img src=http://www.quizypedia.fr/site_media/images/335/335889725029.jpeg>			botanimaux quizypedia
-Ablette 	Poissons connus sous plusieurs noms 	Petit poisson de la famille des cyprinidés vivant en eau douce en Europe. Il possède une nageoire caudale allongée et des écailles argentées. 	Vif-argent 	<img src=http://www.quizypedia.fr/site_media/images/poissons/ablette.jpg>		botanimaux quizypedia
-Aiglefin 	Poissons connus sous plusieurs noms 	Poisson proche de la morue qui s'appelle haddock quand il est fumé. 	Haddock 	<img src=http://www.quizypedia.fr/site_media/images/poissons/aiglefin.jpg>		botanimaux quizypedia
-Bar 	Poissons connus sous plusieurs noms 	Poisson marin à chair estimée voisin de la perche. 	Loup 	<img src=http://www.quizypedia.fr/site_media/images/poissons/bar.jpg>		botanimaux quizypedia
-Exocet 	Poissons connus sous plusieurs noms 	Poisson des mers chaudes réputé pour ses longs sauts planés au-dessus de l'eau. 	Poisson volant 	<img src=http://www.quizypedia.fr/site_media/images/poissons/exocet.jpg>		botanimaux quizypedia
-Germon 	Poissons connus sous plusieurs noms 	Thon de l'Atlantique tempéré et de la Méditerranée. 	Thon blanc 	<img src=http://www.quizypedia.fr/site_media/images/poissons/germon.jpg>		botanimaux quizypedia
-Julienne 	Poissons connus sous plusieurs noms 	Ce poisson décrit par Pennant en 1784 vit dans les premières couches de grandes profondeurs. Il est pour cette raison encore très mal connu. Il porte le nom d'une manière de tailler les légumes. 	Lingue bleue 	<img src=http://www.quizypedia.fr/site_media/images/895/895517908260.jpeg>		botanimaux quizypedia
-Môle 	Poissons connus sous plusieurs noms 	Très gros poisson des mers d'Europe occidentale au corps presque circulaire. 	Poisson lune 	<img src=http://www.quizypedia.fr/site_media/images/poissons/m%C3%B4le.jpg>		botanimaux quizypedia
-Morue 	Poissons connus sous plusieurs noms 	Poisson de l'ordre des Gadiformes vivant dans les eaux froides. Sa chair est appréciée et dépourvue de fines arêtes. 	Cabillaud 	<img src=http://www.quizypedia.fr/site_media/images/037/037772790796.jpeg>		botanimaux quizypedia
-Pageot rose 	Poissons connus sous plusieurs noms 	"Poisson de la famille des sparidés. Les dimensions de ses yeux lui ont valu le surnom de ""beaux yeux"". "	Dorade rose 	<img src=http://www.quizypedia.fr/site_media/images/poissons/pageot%20rose.jpg>		botanimaux quizypedia
-Plie 	Poissons connus sous plusieurs noms 	Poisson plat à chair estimée de la famille des pleuronectidés. 	Carrelet 	<img src=http://www.quizypedia.fr/site_media/images/poissons/plie.jpg>		botanimaux quizypedia
-Cyprin doré 	Poissons connus sous plusieurs noms 	Poisson souvent présent dans les aquariums et bassins du monde entier. 	Poisson rouge 	<img src=http://www.quizypedia.fr/site_media/images/poissons/poisson%20rouge.jpg>		botanimaux quizypedia
-Rascasse 	Poissons connus sous plusieurs noms 	Poisson de la famille des scorpénidés à tête épineuse. 	Scorpion de mer, crapaud de mer 	<img src=http://www.quizypedia.fr/site_media/images/poissons/rascasse.jpg>		botanimaux quizypedia
-Sebastes 	Poissons connus sous plusieurs noms 		Perche de mer 	<img src=http://www.quizypedia.fr/site_media/images/947/947821951390.jpeg>		botanimaux quizypedia
-Silure 	Poissons connus sous plusieurs noms 	Poisson à peau sans écailles possédant une bouche entourée de six barbillons. 	Poisson-chat 	<img src=http://www.quizypedia.fr/site_media/images/101/101352382683.jpeg>		botanimaux quizypedia
-Tétrodon 	Poissons connus sous plusieurs noms 	Apprécié au Japon pour sa chair délicate, il renferme cependant un poison mortel. 	Poisson-globe, fugu 	<img src=http://www.quizypedia.fr/site_media/images/poissons/t%C3%A9trodon.jpg>		botanimaux quizypedia
-Zée 	Poissons connus sous plusieurs noms 	Poisson à corps haut et comprimé, marqué d'une tache circulaire sombre sur les flancs. 	Saint-pierre 	<img src=http://www.quizypedia.fr/site_media/images/poissons/z%C3%A9e.jpg>		botanimaux quizypedia
-Aneth 	Plantes connues sous plusieurs noms  	Apiacée cultivée comme plante condimentaire pour ses feuilles et ses graines très aromatiques. Proche du fenouil par son odeur et ses propriétés. 	Fenouil bâtard, faux anis 	<img src=http://www.quizypedia.fr/site_media/images/botanique/aneth.jpg>		botanimaux quizypedia
-Aubépine 	Plantes connues sous plusieurs noms  	Arbuste épineux de la famille des Rosacées dont les fruits sont appelés cenelles. 	Cenellier, épine blanche 	<img src=http://www.quizypedia.fr/site_media/images/botanique/aub%C3%A9pine.jpg>		botanimaux quizypedia
-Azalée 	Plantes connues sous plusieurs noms  	Arbuste de la famille des Éricacées. On le rencontre souvent dans les régions montagneuses. 	Rhododendron 	<img src=http://www.quizypedia.fr/site_media/images/botanique/azal%C3%A9e.jpg>		botanimaux quizypedia
-Belle-de-nuit 	Plantes connues sous plusieurs noms  	Plante herbacée vivace, de la famille des Nyctaginacées, poussant aussi bien dans les jardins que dans les milieux incultes. 	Merveille du Pérou 	<img src=http://www.quizypedia.fr/site_media/images/botanique/belle-de-nuit.jpg>		botanimaux quizypedia
-Buddléia 	Plantes connues sous plusieurs noms  	Arbuste de la famille des Loganiacées originaire de Chine, aux petites fleurs en grappes très parfumées attirant les papillons. 	Arbre aux papillons 	<img src=http://www.quizypedia.fr/site_media/images/botanique/buddleia.jpg>		botanimaux quizypedia
-Chélidoine 	Plantes connues sous plusieurs noms  	Plante de la famille des Papavéracées dont le latex jaune-orangé toxique passe pour éliminer les verrues. 	Herbe aux verrues 	<img src=http://www.quizypedia.fr/site_media/images/botanique/ch%C3%A9lidoine.jpg>		botanimaux quizypedia
-Ciboulette 	Plantes connues sous plusieurs noms  	Liliacée cultivée pour ses feuilles creuses et cylindriques servant de condiment. 	Civette 	<img src=http://www.quizypedia.fr/site_media/images/botanique/ciboulette.jpg>		botanimaux quizypedia
-Colchique 	Plantes connues sous plusieurs noms  	Plante des prés humides fleurissant en automne vénéneuse par la colchicine qu'elle contient. 	Tue-chien, safran des prés, safran bâtard 	<img src=http://www.quizypedia.fr/site_media/images/botanique/colchique.jpg>		botanimaux quizypedia
-Hellébore noir 	Plantes connues sous plusieurs noms  	Renonculacée qui était autrefois considérée comme une plante magique associée à la magie noire. 	Rose de Noël 	<img src=http://www.quizypedia.fr/site_media/images/botanique/hell%C3%A9bore.jpg>		botanimaux quizypedia
-Heuchère 	Plantes connues sous plusieurs noms  	Ce genre de plantes, de la famille des Saxifragacées, est constitué d'une abondance de fleurettes minuscules. 	Désespoir-du-peintre 	<img src=http://www.quizypedia.fr/site_media/images/590/590177866502.jpeg>		botanimaux quizypedia
-Jusquiame 	Plantes connues sous plusieurs noms  	Solanacée très toxique. Plante des décombres, à feuilles visqueuses et à fleurs jaunâtres rayées de pourpre. 	Herbe de Sainte-Apolline 	<img src=http://www.quizypedia.fr/site_media/images/botanique/jusquiame.jpg>		botanimaux quizypedia
-Lunaire 	Plantes connues sous plusieurs noms  	Plante ornementale de la famille des Brassicacées dont les fruits ont la forme de disques blanc argenté de 5 cm de diamètre. 	Monnaie-du-pape, herbe aux écus 	<img src=http://www.quizypedia.fr/site_media/images/botanique/lunaire.jpg>		botanimaux quizypedia
-Coriandre 	Plantes connues sous plusieurs noms  	Plante méditerranéenne de la famille des Ombellifères utilisée en tant que condiment ou pour son huile essentielle en parfumerie. 	Persil chinois 	<img src=http://www.quizypedia.fr/site_media/images/botanique/coriandre.jpg>		botanimaux quizypedia
-Edelweiss 	Plantes connues sous plusieurs noms  	"Plante vivace des montagnes de la famille des Composées dont le nom vient de l'allemand signifiant ""blanc"" et ""noble"". "	Pied-de-lion, étoile-d'argent 	<img src=http://www.quizypedia.fr/site_media/images/botanique/edelweiss.jpg>		botanimaux quizypedia
-Muflier 	Plantes connues sous plusieurs noms  	Plante méditerranéenne de la famille des Scrofulariacées dont les fleurs décoratives rappellent la gueule d'un animal. 	Gueule-de-loup 	<img src=http://www.quizypedia.fr/site_media/images/botanique/muflier.jpg>		botanimaux quizypedia
-Myosotis 	Plantes connues sous plusieurs noms  	Ce genre de plantes a pour surnom la traduction de son étymologie grecque. 	Oreille de souris, ne m'oubliez pas 	<img src=http://www.quizypedia.fr/site_media/images/163/163919160837.jpeg>		botanimaux quizypedia
-Onagre 	Plantes connues sous plusieurs noms  	Plante herbacée dont l'huile est utilisée par l'industrie cosmétique. On disait que sa racine permettait d'apprivoiser les animaux sauvages. 	Herbe aux ânes, œnothère 	<img src=http://www.quizypedia.fr/site_media/images/botanique/onagre.jpg>		botanimaux quizypedia
-Origan 	Plantes connues sous plusieurs noms  	"Plante aromatique de la famille des Labiées utilisée comme condiment , son nom est tiré du grec signifiant ""qui se plaît sur la montagne"". "	Marjolaine 	<img src=http://www.quizypedia.fr/site_media/images/botanique/origan.jpg>		botanimaux quizypedia
-Pélargonium 	Plantes connues sous plusieurs noms  	"Plante à fleurs ornementales et parfumées originaire des régions chaudes dont le nom est tiré du grec signifiant ""cigogne"". "	Géranium des fleuristes 	<img src=http://www.quizypedia.fr/site_media/images/botanique/p%C3%A9largonium.jpg>		botanimaux quizypedia
-Pissenlit 	Plantes connues sous plusieurs noms  	Astéracée du genre Taraxacum à fleurs jaunes qui tire son nom de ses vertus diurétiques. 	Dent-de-lion 	<img src=http://www.quizypedia.fr/site_media/images/botanique/pissenlit.jpg>		botanimaux quizypedia
-Sarriette 	Plantes connues sous plusieurs noms  	"Plante aromatique méditerranéenne de la famille des Labiées aussi appelée ""poivrette"" en Suisse. "	Poivre d'âne, herbe de Saint Julien 	<img src=http://www.quizypedia.fr/site_media/images/botanique/sarriette.jpg>		botanimaux quizypedia
-Tamier 	Plantes connues sous plusieurs noms  	Plante grimpante de la famille des Dioscoréacées à petits fruits rouge vif et toxiques, autrefois utilisée pour soigner les contusions. 	Herbe aux femmes battues 	<img src=http://www.quizypedia.fr/site_media/images/botanique/tamier.jpg>		botanimaux quizypedia
-Thym 	Plantes connues sous plusieurs noms  	Plante vivace ligneuse, rampante, à très petites feuilles odoriférantes , utilisée comme aromate. 	Farigoule 	<img src=http://www.quizypedia.fr/site_media/images/botanique/thym.jpg>		botanimaux quizypedia
-Valériane 	Plantes connues sous plusieurs noms  	Plante des lieux humides employée dans les tisanes soporifiques ou pour attirer les chats dans leur bac afin de leur apprendre la propreté. 	Herbe-aux-chats, herbe de Saint-Georges 	<img src=http://www.quizypedia.fr/site_media/images/botanique/val%C3%A9riane.jpg>		botanimaux quizypedia
-Glatir, trompeter 	Cris d'oiseaux  	Aigle Accipitridés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/aigle.jpg>			botanimaux leech quizypedia
-Piauler 	Cris d'oiseaux  	Albatros Diomédéidés 	<img src=http://www.quizypedia.fr/site_media/images/236/236975268288.jpeg>			botanimaux quizypedia
-Grisoller, tire-lirer, turluter 	Cris d'oiseaux  	Alouette Alaudidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/alouette.jpg>			botanimaux leech quizypedia
-Crouler 	Cris d'oiseaux  	Bécasse Scolopacidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/b%C3%A9casse.jpg>			botanimaux quizypedia
-Piauter 	Cris d'oiseaux  	Buse Accipitridés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/buse.jpg>			botanimaux leech quizypedia
-Carcailler, courcailler, margotter, pituiter, cacaber 	Cris d'oiseaux  	Caille Phasianidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/caille.jpg>			botanimaux quizypedia
-Cancaner, canquetter, nasiller 	Cris d'oiseaux  	Canard Anatidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/canard.jpg>			botanimaux quizypedia
-Chuinter, huer, hululer 	Cris d'oiseaux  	Chouette Strigidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/chouette.jpg>			botanimaux quizypedia
-Claquetter, craquer, craqueter, glottorer 	Cris d'oiseaux  	Cigogne Ciconiidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/cigogne.jpg>			botanimaux quizypedia
-Chanter, coqueliner, coqueriquer 	Cris d'oiseaux  	Coq Phasianidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/coq.jpg>			botanimaux quizypedia
-Dodeldirer 	Cris d'oiseaux  	Coq de bruyère Phasianidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/coq%20de%20bruy%C3%A8re.jpg>			botanimaux quizypedia
-Corailler, croasser 	Cris d'oiseaux  	Corbeau Corvidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/corbeau.jpg>			botanimaux quizypedia
-Babiller, corbiner, crailler, grailler 	Cris d'oiseaux  	Corneille Corvidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/corneille.jpg>			botanimaux quizypedia
-Coucouer, coucouler 	Cris d'oiseaux  	Coucou Cuculidés 	<img src=http://www.quizypedia.fr/site_media/images/oiseaux/coucou.jpg>			botanimaux quizypedia
-Roucouler 	Cris d'oiseaux  	Tourterelle Colombidés 	<img src=http://www.quizypedia.fr/site_media/images/179/179319352471.jpeg>			botanimaux quizypedia
-drenser, lamenter, siffler, trompetter 	Cris d'oiseaux  	Cygne Anatidae 	<img src=http://www.quizypedia.fr/site_media/images/563/563402339795.jpeg>			botanimaux quizypedia
-glouglouter, glousser 	Cris d'oiseaux  	Dindon Phasianidae 	<img src=http://www.quizypedia.fr/site_media/images/724/724847623920.jpeg>			botanimaux quizypedia
-pisoter 	Cris d'oiseaux  	Etourneau Sturnidae 	<img src=http://www.quizypedia.fr/site_media/images/263/263654912928.jpeg>			botanimaux quizypedia
-huir, réclamer 	Cris d'oiseaux  	Faucon Falconidae 	<img src=http://www.quizypedia.fr/site_media/images/297/297973482087.jpeg>			botanimaux quizypedia
-zinzinuler 	Cris d'oiseaux  	Fauvette Sylviidae 	<img src=http://www.quizypedia.fr/site_media/images/635/635673630071.jpeg>			botanimaux quizypedia
-babiller 	Cris d'oiseaux  	Grive Turdidae 	<img src=http://www.quizypedia.fr/site_media/images/472/472263201568.jpeg>			botanimaux quizypedia
-claquetter, craquer, craquetter 	Cris d'oiseaux  	Grue Gruidae 	<img src=http://www.quizypedia.fr/site_media/images/529/529061952150.jpeg>			botanimaux quizypedia
-huer 	Cris d'oiseaux  	Héron Ardeidae 	<img src=http://www.quizypedia.fr/site_media/images/556/556437059837.jpeg>			botanimaux quizypedia
-boubouler, bubuler, frouer, tutuber, (h)ululer 	Cris d'oiseaux  	Hibou Strigidae 	<img src=http://www.quizypedia.fr/site_media/images/604/604046016875.jpeg>			botanimaux quizypedia
-gazouiller, ramager, triduler, trisser, truisotter 	Cris d'oiseaux  	Hirondelle Hirundinidae 	<img src=http://www.quizypedia.fr/site_media/images/719/719894812121.jpeg>			botanimaux quizypedia
-parler 	Cris d'oiseaux  	Mainate Sturnidae 	<img src=http://www.quizypedia.fr/site_media/images/394/394127243335.jpeg>			botanimaux quizypedia
-appeler, babiller, chanter, flûter, jaser, siffler 	Cris d'oiseaux  	Merle Turdidae 	<img src=http://www.quizypedia.fr/site_media/images/177/177092366384.jpeg>			botanimaux quizypedia
-titiner, zinzibuler, zinzinuler 	Cris d'oiseaux  	Mésange Paridae 	<img src=http://www.quizypedia.fr/site_media/images/177/177489589956.jpeg>			botanimaux quizypedia
-chucheter, chuchoter, pépier, piailler 	Cris d'oiseaux  	Moineau Passeridae 	<img src=http://www.quizypedia.fr/site_media/images/571/571832995537.jpeg>			botanimaux quizypedia
-cacarder, cagnarder, criailler, jargonner 	Cris d'oiseaux  	Oie Anatidae 	<img src=http://www.quizypedia.fr/site_media/images/578/578862854130.jpeg>			botanimaux quizypedia
-braire 	Les animaux domestiques et leur cri 	âne Équidés 				botanimaux quizypedia
-blatérer / bêler 	Les animaux domestiques et leur cri 	bélier / brebis Bovidés 				botanimaux quizypedia
-bégueter, bêler, chevroter 	Les animaux domestiques et leur cri 	bouc / chèvre Bovidés 				botanimaux quizypedia
-miauler 	Les animaux domestiques et leur cri 	chat Félidés 				botanimaux quizypedia
-hennir 	Les animaux domestiques et leur cri 	cheval Équidés 				botanimaux quizypedia
-aboyer, japper, clabauder, gronder, hurler 	Les animaux domestiques et leur cri 	chien Canidés 				botanimaux quizypedia
-clapir, couiner, glapir 	Les animaux domestiques et leur cri 	lapin Léporidés 				botanimaux quizypedia
-couiner, grogner, grouiner 	Les animaux domestiques et leur cri 	porc / truie Suidés 				botanimaux quizypedia
-caqueter, glousser (et d'autres) / chanter, coqueliner, coqueriquer 	Les animaux domestiques et leur cri 	poule / coq Phasianidés 				botanimaux quizypedia
-beugler, meugler, mugir 	Les animaux domestiques et leur cri 	taureau (bœuf) / vache Bovidés 				botanimaux quizypedia
-"Boulet <br><br><img src=""https://lh5.googleusercontent.com/proxy/NmzUjQysrar3R8Pd6C9TdUOgKJFdUowiggz9DnGdhfdAXU6rb3B4jJompvVXoyyOUWCCW4U-eNTCgA3ADCxSbbUIRu3WPNSWsirZCumWv6iJuFsZ"">"	Anatomie du cheval 	Zone arrondie de la jambe du cheval située entre le canon et le paturon. 				botanimaux quizypedia
-"Canon <br><br><img src=""https://lh5.googleusercontent.com/proxy/NmzUjQysrar3R8Pd6C9TdUOgKJFdUowiggz9DnGdhfdAXU6rb3B4jJompvVXoyyOUWCCW4U-eNTCgA3ADCxSbbUIRu3WPNSWsirZCumWv6iJuFsZ"">"	Anatomie du cheval 	Partie de la jambe, longue et fine, située entre l'articulation du genou ou du jarret et celle du boulet. 				botanimaux quizypedia
-Chanfrein 	Anatomie du cheval 	Partie avant de la tête, entre le front et les naseaux. 				botanimaux quizypedia
-Crinière 	Anatomie du cheval 	Ensemble des crins du cou du cheval. 				botanimaux quizypedia
-Croupe 	Anatomie du cheval 	Partie du corps entre le rein et la queue. 				botanimaux quizypedia
-Encolure 	Anatomie du cheval 	Partie du corps comprise entre la tête, le garrot et le poitrail. 				botanimaux quizypedia
-Fanon 	Anatomie du cheval 	Touffe de crins derrière le boulet du cheval. 				botanimaux quizypedia
-Ganache 	Anatomie du cheval 	Partie latérale et postérieure de la mâchoire inférieure du cheval. 				botanimaux quizypedia
-Garrot 	Anatomie du cheval 	Région du corps surmontant les épaules et délimitée par l'encolure, le dos et le plat des épaules. 				botanimaux quizypedia
-Grasset 	Anatomie du cheval 	Région du membre postérieur située à la limite de la cuisse et de la jambe et ayant pour base la rotule. 				botanimaux quizypedia
-Jarret 	Anatomie du cheval 	Endroit où se plie la jambe postérieure des chevaux. 				botanimaux quizypedia
-Paturon 	Anatomie du cheval 	Partie de la jambe, entre le boulet et le sabot, correspondant à la première phalange. 				botanimaux quizypedia
-Poitrail 	Anatomie du cheval 	Devant du corps du cheval situé en dessous de l'encolure, entre les épaules. 				botanimaux quizypedia
-Sabot 	Anatomie du cheval 	Ongle développé entourant l’extrémité des doigts du cheval. 				botanimaux quizypedia
-Caracal 	Les félins sauvages 	Lynx d'Afrique et d'Asie du Sud-Ouest à oreilles noires prolongées par une longue touffe de poils. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/caracal.jpg>			botanimaux quizypedia
-Guépard 	Les félins sauvages 	Seul félin dont les griffes ne sont pas rétractiles. Son nom scientifique est Acinonyx jubatus. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/gu%C3%A9pard.jpg>			botanimaux quizypedia
-Jaguar 	Les félins sauvages 	Ce félin au nom tupi-guarani a pour nom scientifique Panthera onca. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/jaguar.jpg>			botanimaux quizypedia
-Léopard/Panthère 	Les félins sauvages 	De nom scientifique Panthera pardus, on le trouve dans les régions d'Afrique tropicale et d'Asie méridionale. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/l%C3%A9opard.jpg>			botanimaux quizypedia
-Lynx 	Les félins sauvages 	Félin aux oreilles triangulaires surmontées d'une touffe de poils, proche du caracal. Son corps est doté d'une courte queue et de longues pattes. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/lynx.jpg>			botanimaux quizypedia
-Margay 	Les félins sauvages 	Chat sauvage du Mexique et d'Amérique du Sud, proche de l'ocelot, de nom scientifique Leopardus wiedii. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/margay.jpg>			botanimaux quizypedia
-Ocelot 	Les félins sauvages 	Félin sauvage d'Amérique tropicale, proche du margay, de nom scientifique Leopardus pardalis. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/ocelot.jpg>			botanimaux quizypedia
-Once 	Les félins sauvages 	Félin des hautes montagnes d'Asie centrale et de Sibérie centrale, de nom scientifique Panthera uncia et parfois appelé panthère des neiges. 	<img src=http://www.quizypedia.fr/site_media/images/699/699986351753.jpeg>			botanimaux quizypedia
-Oncille 	Les félins sauvages 	Félin d'Amérique tropicale de petite taille surnommé chat-tigre et chat-tacheté, de nom scientifique Leopardus tigrinus. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/oncille.jpg>			botanimaux quizypedia
-Puma/Cougar 	Les félins sauvages 	Félin des forêts, prairies et déserts américains de nom scientifique Felis concolor. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/puma.jpg>			botanimaux quizypedia
-Serval 	Les félins sauvages 	Félin africain proche du caracal, haut sur pattes, au pelage brun orangé tacheté de noir. 	<img src=http://www.quizypedia.fr/site_media/images/f%C3%A9lins/serval.jpg>			botanimaux quizypedia
-Agami 	Oiseaux connus sous plusieurs noms 	Oiseau originaire d'Amérique du Sud, de la taille d'un coq, qui tient son surnom du cri éclatant du mâle. 	Oiseau-trompette 	<img src=http://www.quizypedia.fr/site_media/images/490/490372178846.jpeg>		botanimaux quizypedia
-Bergeronnette 	Oiseaux connus sous plusieurs noms 	Doté d'une longue queue toujours en mouvement, cet oiseau insectivore doit son nom au fait qu'il se plaît au milieu des troupeaux. 	Hochequeue 	<img src=http://www.quizypedia.fr/site_media/images/288/288422816937.jpeg>		botanimaux quizypedia
-Colibri 	Oiseaux connus sous plusieurs noms 	Très petit passereau d'Amérique de la famille des Trochilidés, au plumage éclatant, au long bec avec lequel il aspire, en vol stationnaire, le nectar des fleurs. 	Oiseau-mouche 	<img src=http://www.quizypedia.fr/site_media/images/845/845289589606.jpeg>		botanimaux quizypedia
-Effraie 	Oiseaux connus sous plusieurs noms 	Chouette de la famille des Tytonidés qui niche dans les trous d'arbres et les ruines. 	Dame blanche 	<img src=http://www.quizypedia.fr/site_media/images/417/417907751719.jpeg>		botanimaux quizypedia
-Grand tétras 	Oiseaux connus sous plusieurs noms 	Gros gallinacé habitant les forêts de conifères dans les montagnes. 	Coq de bruyère 	<img src=http://www.quizypedia.fr/site_media/images/657/657945895319.jpeg>		botanimaux quizypedia
-Hulotte 	Oiseaux connus sous plusieurs noms 	Rapace nocturne de la famille des Strigidés commun dans les bois de l'Eurasie. 	Chat-huant 	<img src=http://www.quizypedia.fr/site_media/images/128/128870716630.jpeg>		botanimaux quizypedia
-Ménure 	Oiseaux connus sous plusieurs noms 	Passereau d'Australie qui doit son autre nom aux longues plumes recourbées de la queue des mâles. 	Oiseau-lyre 	<img src=http://www.quizypedia.fr/site_media/images/284/284239485548.jpeg>		botanimaux quizypedia
-Perroquet jaco 	Oiseaux connus sous plusieurs noms 	C'est le meilleur parleur parmi les perroquets et le plus vendu en France. 	Gris du Gabon 	<img src=http://www.quizypedia.fr/site_media/images/803/803425919421.jpeg>		botanimaux quizypedia
-Pigeon ramier 	Oiseaux connus sous plusieurs noms 	Plus grande et plus commune des espèces de pigeons européens. 	Palombe 	<img src=http://www.quizypedia.fr/site_media/images/480/480703423582.jpeg>		botanimaux quizypedia
-Pintade 	Oiseaux connus sous plusieurs noms 	Gallinacé originaire d'Afrique élevé pour sa chair. 	Poule d'Inde 	<img src=http://www.quizypedia.fr/site_media/images/854/854827712699.jpeg>		botanimaux quizypedia
-Pygargue 	Oiseaux connus sous plusieurs noms 	Rapace dont la race à tête blanche est connue pour être l'emblème des États-Unis. 	Orfraie 	<img src=http://www.quizypedia.fr/site_media/images/205/205366154063.jpeg>		botanimaux quizypedia
-Sterne 	Oiseaux connus sous plusieurs noms 	Oiseau palmipède voisin de la mouette mais à bec long, droit et pointu, à tête noire et à dos gris. 	Hirondelle de mer 	<img src=http://www.quizypedia.fr/site_media/images/576/576146682250.jpeg>		botanimaux quizypedia
-Abondance 	Races bovines 	Vache du pays de Savoie. C’est, avec seulement 1,3 % du cheptel laitier, la quatrième race laitière de France. 	<img src=http://www.quizypedia.fr/site_media/images/451/451142737781.jpeg>			botanimaux quizypedia
-Blonde d'Aquitaine 	Races bovines 	Vache originaire du sud-ouest de la France réputée pour ses qualités bouchères. 	<img src=http://www.quizypedia.fr/site_media/images/335/335800146648.jpeg>			botanimaux quizypedia
-Bretonne pie noir 	Races bovines 	Race dont la robe est noir et blanc avec des taches bien délimitées , utilisée pour la production de viande et de lait, ses effectifs sont aujourd'hui réduits. 	<img src=http://www.quizypedia.fr/site_media/images/323/323392378566.jpeg>			botanimaux quizypedia
-Charolaise 	Races bovines 	Vache originaire de Bourgogne vouée principalement à la production de viande. 	<img src=http://www.quizypedia.fr/site_media/images/315/315517358835.jpeg>			botanimaux quizypedia
-Gasconne 	Races bovines 	Vache du sud de la France à vocation bouchère dont la robe est gris argenté, avec les extrémités noires. 	<img src=http://www.quizypedia.fr/site_media/images/394/394678765363.jpeg>			botanimaux quizypedia
-Limousine 	Races bovines 	Vache à la robe froment vif à vocation bouchère. 	<img src=http://www.quizypedia.fr/site_media/images/015/015240753028.jpeg>			botanimaux quizypedia
-Montbéliarde 	Races bovines 	Vache de race laitière originaire de Franche-Comté. 	<img src=http://www.quizypedia.fr/site_media/images/646/646954671776.jpeg>			botanimaux quizypedia
-Normande 	Races bovines 	Deuxième race laitière française en effectif, elle produit également une viande de qualité. 	<img src=http://www.quizypedia.fr/site_media/images/764/764325959301.jpeg>			botanimaux quizypedia
-Prim'Holstein 	Races bovines 	Vache originaire de Hollande. Race laitière la plus répandue en France. 	<img src=http://www.quizypedia.fr/site_media/images/583/583230314597.jpeg>			botanimaux quizypedia
-Salers 	Races bovines 	Vache originaire du Cantal à la robe acajou foncé, à poil long et frisé. 	<img src=http://www.quizypedia.fr/site_media/images/741/741473802922.jpeg>			botanimaux quizypedia
-Vosgienne 	Races bovines 	Vache de l'est de la France dont le lait est à la base du munster (ou munster-géromé). 	<img src=http://www.quizypedia.fr/site_media/images/368/368103031689.jpeg>			botanimaux quizypedia
-Araucaria 	Arbres et arbustes connus sous plusieurs noms 	Désespoir des singes 	Arbre voisin des pins aux feuilles en aiguilles ou en écailles triangulaires leur donnant un aspect tout à fait particulier. 	<img src=http://www.quizypedia.fr/site_media/images/097/097454989364.jpeg>		botanimaux quizypedia
-Arbousier 	Arbres et arbustes connus sous plusieurs noms 	Arbre à fraises 	Petit arbre méditerranéen de la famille des éricacées à feuilles rappelant celles du laurier , de nom scientifique Arbutus unedo. 	<img src=http://www.quizypedia.fr/site_media/images/984/984079272949.jpeg>		botanimaux quizypedia
-Baguenaudier 	Arbres et arbustes connus sous plusieurs noms 	Arbre à vessies 	Arbrisseau de la famille des Fabacées qui se caractérise par ses fruits, gousses brun rougeâtre qui enflent à maturité et deviennent translucides. 	<img src=http://www.quizypedia.fr/site_media/images/733/733414176042.jpeg>		botanimaux quizypedia
-Balsamier 	Arbres et arbustes connus sous plusieurs noms 	Arbre à myrrhe 	Arbre ou arbuste des régions chaudes qui produit une résine aromatique (la myrrhe). 	<img src=http://www.quizypedia.fr/site_media/images/429/429209836692.jpeg>		botanimaux quizypedia
-Buddleia 	Arbres et arbustes connus sous plusieurs noms 	Arbre aux papillons 	Arbuste dont les fleurs de couleur violette produisent une odeur qui attire de nombreux papillons 	<img src=http://www.quizypedia.fr/site_media/images/752/752296166550.jpeg>		botanimaux quizypedia
-Céanothe 	Arbres et arbustes connus sous plusieurs noms 	Lilas de Californie 	Arbuste ornemental à la floraison bleue éclatante, proche du lilas, de la famille des Rhamnacées. 	<img src=http://www.quizypedia.fr/site_media/images/802/802562677878.jpeg>		botanimaux quizypedia
-Chêne vert 	Arbres et arbustes connus sous plusieurs noms 	Yeuse 	Arbre de la famille des fagacées à feuillage persistant très touffu des régions méditerranéennes , de nom scientifique Quercus ilex. 	<img src=http://www.quizypedia.fr/site_media/images/393/393228379375.jpeg>		botanimaux quizypedia
-Davidia involucrata 	Arbres et arbustes connus sous plusieurs noms 	Arbre aux mouchoirs 	Arbre originaire de Chine de la famille des nyssacées qui tire son surnom de ses larges bractées blanches. 	<img src=http://www.quizypedia.fr/site_media/images/799/799612749742.jpeg>		botanimaux quizypedia
-Ginkgo biloba 	Arbres et arbustes connus sous plusieurs noms 	Arbre aux quarante écus / Abricotier d'argent 	Arbre originaire de Chine apparu avant les dinosaures. 	<img src=http://www.quizypedia.fr/site_media/images/171/171755425557.jpeg>		botanimaux quizypedia
-Hêtre 	Arbres et arbustes connus sous plusieurs noms 	Fayard 	Arbre de la famille des fagacées dont les fruits sont les faines. 	<img src=http://www.quizypedia.fr/site_media/images/636/636311636961.jpeg>		botanimaux quizypedia
-Kigelia africana 	Arbres et arbustes connus sous plusieurs noms 	Arbre à saucisses 	Arbre originaire d'Afrique de l'Ouest de la famille des bignonacées , la pollinisation de ses fleurs est assurée par les chauves-souris. 	<img src=http://www.quizypedia.fr/site_media/images/333/333574335063.jpeg>		botanimaux quizypedia
-Liquidambar 	Arbres et arbustes connus sous plusieurs noms 	Copalme d'Amérique 	Grand arbre de la famille des Altingiacées, pouvant être styraciflua et orientalis et qui fournissent des résines balsamiques. Arbre au feuillage vert devenant rouge flamboyant en automne. 	<img src=http://www.quizypedia.fr/site_media/images/318/318803097484.jpeg>		botanimaux quizypedia
-Magnolia à grandes fleurs 	Arbres et arbustes connus sous plusieurs noms 	Laurier-tulipier 	Arbre ornemental originaire d'Asie et d'Amérique devant son nom à un botaniste français. 	<img src=http://www.quizypedia.fr/site_media/images/389/389032096646.jpeg>		botanimaux quizypedia
-Peuplier noir 	Arbres et arbustes connus sous plusieurs noms 	Liard 	Arbre de la famille des salicacées, qui pousse notamment en bordure des cours d'eau. 	<img src=http://www.quizypedia.fr/site_media/images/742/742665955426.jpeg>		botanimaux quizypedia
-Pyracantha 	Arbres et arbustes connus sous plusieurs noms 	Buisson ardent 	Arbuste méditerranéen épineux, ornemental, de la famille des rosacées. Son surnom est une allusion à un épisode de la Bible. 	<img src=http://www.quizypedia.fr/site_media/images/218/218773544535.jpeg>		botanimaux quizypedia
-Robinier 	Arbres et arbustes connus sous plusieurs noms 	Faux acacia 	Arbre épineux de la famille des fabacées, son nom fait référence au botaniste français qui l'introduisit en France en 1601. 	<img src=http://www.quizypedia.fr/site_media/images/917/917300037685.jpeg>		botanimaux quizypedia
-Calice 	Vocabulaire des fleurs  	Ensemble des sépales 				botanimaux quizypedia
-Corolle 	Vocabulaire des fleurs  	Ensemble des pétales 				botanimaux quizypedia
-Étamine 	Vocabulaire des fleurs  	Organe fin au bout duquel se trouve le pollen , il s'agit de l'organe sexuel mâle des fleurs 				botanimaux quizypedia
-Nectar 	Vocabulaire des fleurs  	Suc secrété par des glandes appelées nectaires , attire les insectes et favorise donc la pollinisation 				botanimaux quizypedia
-Pédoncule 	Vocabulaire des fleurs  	Sorte de tige au bout de laquelle se trouve la fleur 				botanimaux quizypedia
-Pétale 	Vocabulaire des fleurs  	Pièce florale souvent de couleur vive qui entoure l'appareil reproducteur des fleurs 				botanimaux quizypedia
-Pistil 	Vocabulaire des fleurs  	Organe fin généralement situé au centre de la fleur , il s'agit de l'organe sexuel femelle des fleurs. 				botanimaux quizypedia
-Pollen 	Vocabulaire des fleurs  	Grains présents à l'extrémité des étamines et capables de produire des gamètes mâles 				botanimaux quizypedia
-Réceptacle 	Vocabulaire des fleurs  	Extrémité plus ou moins élargie du pédoncule sur laquelle sont fixés le calice, la corolle, les étamines et le pistil 				botanimaux quizypedia
-Sépale 	Vocabulaire des fleurs  	Pièce florale souvent de couleur verte qui se situe sous les pétales 				botanimaux quizypedia
-Chacal doré 	Les canidés sauvages 	De son nom latin <i>Canis aureus</i>, ce canidé charognard est aussi un excellent chasseur. 	<img src=http://www.quizypedia.fr/site_media/images/109/109882175467.jpeg>			botanimaux quizypedia
-Chien des buissons 	Les canidés sauvages 	Ce petit canidé aux mœurs semi-aquatiques peuple les forêts et les plaines d’Amérique du Sud. 	<img src=http://www.quizypedia.fr/site_media/images/873/873632865775.jpeg>			botanimaux quizypedia
-Chien viverrin 	Les canidés sauvages 	Appelé tanuki au Japon, cet animal aux faux airs de raton-laveur est le seul canidé à pratiquer l'hibernation. 	<img src=http://www.quizypedia.fr/site_media/images/592/592196788781.jpeg>			botanimaux quizypedia
-Coyote 	Les canidés sauvages 	Appelé <i>Canis latrans</i> en latin, ce canidé emblématique du continent américain porte un nom qui vient du nahuatl. 	<img src=http://www.quizypedia.fr/site_media/images/633/633276826882.jpeg>			botanimaux quizypedia
-Dhole 	Les canidés sauvages 	Canidé au pelage brun-roux vivant en Asie et dont le nom latin est <i>Cuon alpinus</i>. 	<img src=http://www.quizypedia.fr/site_media/images/814/814094363314.jpeg>			botanimaux quizypedia
-Dingo 	Les canidés sauvages 	Canidé australien issu d'un groupe de chiens domestiques retournés à l'état sauvage (marronnage). 	<img src=http://www.quizypedia.fr/site_media/images/798/798684671391.jpeg>			botanimaux quizypedia
-Fennec 	Les canidés sauvages 	Petit renard adapté à la vie dans le désert du Sahara et portant le nom latin <i>Vulpes zerda</i>. 	<img src=http://www.quizypedia.fr/site_media/images/434/434456846554.jpeg>			botanimaux quizypedia
-Renard polaire 	Les canidés sauvages 	Plus petit que le renard roux, ce canidé des régions froides est aussi connu sous le nom d'isatis. 	<img src=http://www.quizypedia.fr/site_media/images/100/100439656256.jpeg>			botanimaux quizypedia
-Loup à crinière 	Les canidés sauvages 	Ressemblant à la fois à un loup et à un grand renard, ce canidé sud-américain est pourtant classé à part, dans le genre Chrysocyon. 	<img src=http://www.quizypedia.fr/site_media/images/047/047945946651.jpeg>			botanimaux quizypedia
-Loup gris 	Les canidés sauvages 	Espèce à l'origine du chien de par sa domestication, ce canidé vivant en meutes peuple l'Eurasie et l'Amérique du Nord. 	<img src=http://www.quizypedia.fr/site_media/images/094/094376614085.jpeg>			botanimaux quizypedia
-Lycaon 	Les canidés sauvages 	Chassant en meute, ce canidé africain de taille moyenne se caractérise par l'originalité de son pelage qui présente des taches asymétriques de couleur brune, noire, jaune et blanche. 	<img src=http://www.quizypedia.fr/site_media/images/099/099519310963.jpeg>			botanimaux quizypedia
-Otocyon 	Les canidés sauvages 	Plus couramment appelé renard à oreilles de chauve-souris, ce petit canidé nocturne vit dans les savanes d'Afrique australe. 	<img src=http://www.quizypedia.fr/site_media/images/609/609514809098.jpeg>			botanimaux quizypedia
-Renard roux 	Les canidés sauvages 	Dénommé <i>Vulpes vulpes</i> en latin, ce canidé réputé pour sa ruse est le protagoniste de nombreuses fables de La Fontaine. 	<img src=http://www.quizypedia.fr/site_media/images/916/916119561223.jpeg>			botanimaux quizypedia
-Belette d'Europe 	Espèces de mustélidés 	De nom latin <i>Mustela nivalis</i>, il s'agit du plus petit représentant de la famille des mustélidés. 	<img src=https://www.quizypedia.fr/site_media/images/866/866949197818.jpeg>			botanimaux quizypedia
-Blaireau américain 	Espèces de mustélidés 	Contrairement à ce que son nom pourrait laisser penser, ce mustélidé n'appartient pas au même genre que son homologue européen. Son nom latin est <i>Taxidea taxus</i>. 	<img src=https://www.quizypedia.fr/site_media/images/517/517419212648.jpeg>			botanimaux quizypedia
-Blaireau européen 	Espèces de mustélidés 	Plus gros mustélidé d'Europe, nommé <i>Meles meles</i> en latin, il est reconnaissable à sa tête striée de bandes noires et blanches. 	<img src=https://www.quizypedia.fr/site_media/images/996/996667443382.jpeg>			botanimaux quizypedia
-Blaireau-furet de Chine 	Espèces de mustélidés 	Ce mustélidé, du genre <i>Melogale</i>, a des mœurs nocturnes et un régime alimentaire omnivore. On le rencontre dans les forêts et les prairies d'Asie du Sud-est. 	<img src=https://www.quizypedia.fr/site_media/images/721/721496996270.jpeg>			botanimaux quizypedia
-Fouine 	Espèces de mustélidés 	"Petite martre eurasiatique, son nom est à l'origine d'un verbe qui signifie ""chercher de manière furtive"". "	<img src=https://www.quizypedia.fr/site_media/images/955/955606932141.jpeg>			botanimaux quizypedia
-Glouton 	Espèces de mustélidés 	Plus imposant de tous les mustélidés, il est appelé <i>Gulo gulo</i> en latin, Carcajou au Canada et Wolverine en anglais. 	<img src=https://www.quizypedia.fr/site_media/images/928/928548713266.jpeg>			botanimaux quizypedia
-Hermine 	Espèces de mustélidés 	Présent sur un célèbre tableau de Léonard de Vinci, ce mustélidé arbore, en hiver, un pelage complètement blanc à l'exception du bout de sa queue qui reste noir. 	<img src=https://www.quizypedia.fr/site_media/images/232/232373657282.jpeg>			botanimaux quizypedia
-Loutre de mer 	Espèces de mustélidés 	Mustélidé aquatique dont l'organisme est adapté à la salinité de son milieu de vie, contrairement à la plupart de ses homologues d'eau douce. 	<img src=https://www.quizypedia.fr/site_media/images/993/993627736787.jpeg>			botanimaux quizypedia
-Putois 	Espèces de mustélidés 	Devant son nom à l'odeur désagréable qu'il libère en état de stress, sa domestication pour la chasse a conduit à la création d'une sous-espèce dénommée furet. 	<img src=https://www.quizypedia.fr/site_media/images/690/690893420454.jpeg>			botanimaux quizypedia
-Ratel 	Espèces de mustélidés 	Appartenant au genre <i>Mellivora</i>, ce mustélidé est résistant à de nombreux venins, ce qui lui permet de s'attaquer à des serpents particulièrement dangereux. 	<img src=https://www.quizypedia.fr/site_media/images/698/698431699803.jpeg>			botanimaux quizypedia
-Vison d'Europe 	Espèces de mustélidés 	Sa fourrure convoitée et la destruction de son habitat expliquent pourquoi ce mustélidé, nommé <i>Mustela lutreola</i> en latin, est aujourd'hui en danger critique d'extinction. 	<img src=https://www.quizypedia.fr/site_media/images/086/086126847618.jpeg>			botanimaux quizypedia
-Zibeline 	Espèces de mustélidés 	Très recherché pour sa fourrure de couleur brune, ce mustélidé, emblématique de la taïga sibérienne, peuple une zone allant de l'Oural jusqu'au nord du Japon. 	<img src=https://www.quizypedia.fr/site_media/images/559/559601184816.jpeg>			botanimaux quizypedia
-Zorille 	Espèces de mustélidés 	Avec son pelage rayé de noir et de blanc, ce mustélidé africain, nommé <i>Ictonyx striatus</i> en latin, est parfois confondu avec la moufette (qui n'est pas un mustélidé). 	<img src=https://www.quizypedia.fr/site_media/images/175/175332219865.jpeg>			botanimaux quizypedia
-Chou 	Plantes de la famille des Brassicacées  	Plante possédant des variétés romanesco, de Bruxelles... Brassica oleracea 	<img src=https://www.quizypedia.fr/site_media/images/010/010037226729.jpeg>			botanimaux quizypedia
-Colza 	Plantes de la famille des Brassicacées  	Plante largement cultivée pour la production d'huile alimentaire et d'agrocarburant. Brassica napus 	<img src=https://www.quizypedia.fr/site_media/images/594/594388275579.jpeg>			botanimaux quizypedia
-Cresson (de fontaine ou officinal) 	Plantes de la famille des Brassicacées  	Plante fréquemment consommée en salade. Nasturtium officinale 	<img src=https://www.quizypedia.fr/site_media/images/772/772865581372.jpeg>			botanimaux quizypedia
-Giroflée des murailles 	Plantes de la famille des Brassicacées  	Elle doit son nom au fait que ses fleurs ont une odeur ressemblant à celle du clou de girofle. Erysimum cheiri 	<img src=https://www.quizypedia.fr/site_media/images/651/651015775052.jpeg>			botanimaux quizypedia
-Moutarde blanche 	Plantes de la famille des Brassicacées  	Plante cultivée pour ses graines servant à la préparation de condiments, également appelée sénevé. Sinapis alba 	<img src=https://www.quizypedia.fr/site_media/images/253/253803305895.jpeg>			botanimaux quizypedia
-Navet 	Plantes de la famille des Brassicacées  	Plante cultivée comme plante potagère pour sa racine charnue allongée ou arrondie, consommée comme légume , souvent présente dans les pot-au-feu. Brassica rapa 	<img src=https://www.quizypedia.fr/site_media/images/734/734392437672.jpeg>			botanimaux quizypedia
-Radis 	Plantes de la famille des Brassicacées  	Plante potagère bisannuelle dont la partie souterraine de la tige, souvent rose et blanche, est consommée crue avec du beurre. Raphanus sativus 	<img src=https://www.quizypedia.fr/site_media/images/660/660385662161.jpeg>			botanimaux quizypedia
-Raifort 	Plantes de la famille des Brassicacées  	Sa racine à la saveur forte, piquante et poivrée est utilisée comme condiment, notamment dans la cuisine allemande. Armoracia rusticana 	<img src=https://www.quizypedia.fr/site_media/images/260/260484187900.jpeg>			botanimaux quizypedia
-Rutabaga 	Plantes de la famille des Brassicacées  	Légume-racine également appelé chou-navet. Brassica napus 	<img src=https://www.quizypedia.fr/site_media/images/697/697484955384.jpeg>			botanimaux quizypedia
-Wasabi 	Plantes de la famille des Brassicacées  	Plante dont la racine est utilisée sous forme de pâte comme condiment dans la cuisine japonaise. Eutrema japonicum 	<img src=https://www.quizypedia.fr/site_media/images/349/349884734804.jpeg>			botanimaux quizypedia
-Arachnologie 	Grandes disciplines zoologiques 	Arachnides : acariens, araignées, scorpions... 				botanimaux quizypedia
-Carcinologie 	Grandes disciplines zoologiques 	Crustacés : cloportes, crabes, homards... 				botanimaux quizypedia
-Malacologie 	Grandes disciplines zoologiques 	Mollusques : calmars, escargots, moules... 				botanimaux quizypedia
-Mammalogie 	Grandes disciplines zoologiques 	Mammifères : écureuils, ours, singes... 				botanimaux quizypedia
-Myriapodologie 	Grandes disciplines zoologiques 	Myriapodes : iules, scolopendres, scutigères... 				botanimaux quizypedia
-Abyssin 	Races de chats  	"Chat originaire d'Asie, au poil court, à la robe piquée et aux oreilles caractéristiques. Aussi appelé ""chat du Nil bleu"" pour sa ressemblance avec les représentations des chats de l'Égypte ancienne. "	<img src=http://www.quizypedia.fr/site_media/images/723/723256561445.jpeg>			botanimaux quizypedia
-Angora turc 	Races de chats  	Chat au poil mi-long et à la robe soyeuse. Race non créée par l'homme et par conséquent très robuste, à l'espérance de vie moyenne supérieure à 15 ans. 	<img src=http://www.quizypedia.fr/site_media/images/473/473854286547.jpeg>			botanimaux quizypedia
-Birman (ou sacré de Birmanie) 	Races de chats  	"Comme son nom ne l'indique pas, ce chat est originaire de France. De taille moyenne et de robe au poil mi-long, son ""coloris"" est voisin de celui du siamois. "	<img src=http://www.quizypedia.fr/site_media/images/144/144976665644.jpeg>			botanimaux quizypedia
-Burmese 	Races de chats  	Race de chat originaire de Thaïlande, caractérisée par une robe au poil court et au motif sépia. Ses deux spécimens les plus répandus sont l'anglais et l'américain. 	<img src=http://www.quizypedia.fr/site_media/images/904/904591768168.jpeg>			botanimaux quizypedia
-Chartreux 	Races de chats  	Race caractérisée par des yeux de couleur or et un pelage court et fourni, entièrement bleu. Sa tête ronde lui donne un aspect souriant. 	<img src=http://www.quizypedia.fr/site_media/images/007/007996483347.jpeg>			botanimaux quizypedia
-Maine coon 	Races de chats  	Chat au poil mi-long, caractérisé par sa grande taille, son museau carré et ses oreilles en plumet. Il constitue la plus ancienne race naturelle du continent nord-américain. Une légende prétend qu'il serait issu d'un croisement avec un raton laveur. 	<img src=http://www.quizypedia.fr/site_media/images/373/373456309855.jpeg>			botanimaux quizypedia
-Manx 	Races de chats  	Originaire d'une île britannique qui lui a donné son nom, la légende prétend qu'il fut le dernier à embarquer sur l'Arche de Noé et que la porte du bateau, en se refermant, lui sectionna la queue. 	<img src=http://www.quizypedia.fr/site_media/images/673/673666911763.jpeg>			botanimaux quizypedia
-Norvégien 	Races de chats  	Race de chat à poil long, caractérisée par sa fourrure très épaisse et son allure sauvage. Dans la mythologie, il serait le chat qui tirait le char de la déesse Freya. 	<img src=http://www.quizypedia.fr/site_media/images/072/072834692998.jpeg>			botanimaux quizypedia
-Persan 	Races de chats  	Chat caractérisé par une silhouette tout en rondeur et un visage au museau très court, voire aplati. Il serait originaire d'Iran, ce qui lui a valu son nom. 	<img src=http://www.quizypedia.fr/site_media/images/648/648719220940.jpeg>			botanimaux quizypedia
-Ragdoll 	Races de chats  	"Race récente, créée en 1963 aux USA. Chat de grande taille dont le nom - signifiant ""poupée de chiffon"" en anglais - provient d'une particularité étonnante : lorsqu'on le porte, il devient effectivement mou comme une poupée de chiffon. "	<img src=http://www.quizypedia.fr/site_media/images/342/342059964504.jpeg>			botanimaux quizypedia
-Siamois 	Races de chats  	Race de chat originaire de Thaïlande, comme son nom l'indique. Doté d'yeux bleus caractéristiques, il n'était auparavant pas rare qu'il soit atteint de strabisme. 	<img src=http://www.quizypedia.fr/site_media/images/656/656351389371.jpeg>			botanimaux quizypedia
-Sphynx 	Races de chats  	Chat au visage triangulaire et aux oreilles pointues, caractérisée par sa quasi-absence de fourrure. Également dépourvu de moustaches, il n'en reste pas moins un très bon chasseur. 	<img src=http://www.quizypedia.fr/site_media/images/864/864978315468.jpeg>			botanimaux quizypedia
-Cormoran huppé 	Oiseaux marins  	Cet oiseau plongeur de la famille des Phalacrocoracidés ne se rencontre que sur la rive est de l'Atlantique nord et en Méditerranée. Il habite principalement les zones rocheuses du littoral. 	<img src=http://www.quizypedia.fr/site_media/images/725/725426376749.jpeg>			botanimaux quizypedia
-Fou de Bassan 	Oiseaux marins  	Il s'agit du plus grand des oiseaux marins d'Europe. Ses colonies ne se trouvent que dans l'Atlantique nord. En France, la plus importante se trouve sur l'île Rouzic, au large de Perros-Guirec. 	<img src=http://www.quizypedia.fr/site_media/images/906/906411413621.jpeg>			botanimaux quizypedia
-Goéland argenté 	Oiseaux marins  	Représentant très commun de la famille des Laridés en Europe, cet oiseau dont le nom latin est Larus argentatus a été l'objet de campagnes de régulation à cause des nuisances qu'il provoquait. 	<img src=http://www.quizypedia.fr/site_media/images/218/218683459281.jpeg>			botanimaux quizypedia
-Guillemot de Troïl 	Oiseaux marins  	Cet oiseau au bec fin et pointu constitue des colonies sur les corniches des falaises côtières. Maupassant met en scène la chasse dont il est victime aux abords d'Étretat dans une nouvelle parue en 1882. 	<img src=http://www.quizypedia.fr/site_media/images/788/788370013230.jpeg>			botanimaux quizypedia
-Labbe parasite 	Oiseaux marins  	"Cet oiseau de la famille des Stercorariidés ressemble fortement à ses cousins ""à longue queue"" et ""pomarin"". Il a pour particularité de harceler d'autres oiseaux marins dans le but de manger leurs poissons. "	<img src=http://www.quizypedia.fr/site_media/images/688/688370879964.jpeg>			botanimaux quizypedia
-Macareux moine 	Oiseaux marins  	Cet oiseau de la famille des Alcidés possède un plumage d'été caractéristique avec un bec multicolore. Aussi reconnaissable à l'arrondi de sa poitrine, il est l’emblème de la Ligue pour la protection des oiseaux. 	<img src=http://www.quizypedia.fr/site_media/images/829/829423052792.jpeg>			botanimaux quizypedia
-Mouette rieuse 	Oiseaux marins  	Nommé Larus ridibundus en latin, cet oiseau prospère dans les terres où il se nourrit de déchets des humains. Le capuchon brun chocolat qu'il arbore en plumage nuptial le caractérise. 	<img src=http://www.quizypedia.fr/site_media/images/550/550097376360.jpeg>			botanimaux quizypedia
-Océanite tempête 	Oiseaux marins  	Membre unique du genre Hydrobates, cet oiseau pélagique est le plus petit des oiseaux marins en Europe. Volant très près des vagues, il peut donner l'impression de marcher sur l'eau. 	<img src=http://www.quizypedia.fr/site_media/images/943/943611008529.jpeg>			botanimaux quizypedia
-Petit pingouin 	Oiseaux marins  	De son nom latin Alca torda, cet oiseau niche dans des cavités, souvent à proximité des guillemots. Dans le langage courant, son nom est souvent employé de façon abusive pour désigner les manchots. 	<img src=http://www.quizypedia.fr/site_media/images/197/197678143416.jpeg>			botanimaux quizypedia
-Sterne arctique 	Oiseaux marins  	"Cet oiseau aussi appelé hirondelle de mer a des cousins dont les espèces sont appelées ""pierregarin"", ""de Dougall"" ou encore ""caugek"". Sa migration peut l'amener à parcourir jusqu'à 70 000 km. "	<img src=http://www.quizypedia.fr/site_media/images/280/280686118554.jpeg>			botanimaux quizypedia
-Basset hound 	Races de chiens  	Chien de petite taille, court sur pattes et de forte corpulence. Bien qu'il soit au départ un chien de chasse, il est devenu un animal de compagnie très populaire pour son caractère doux et placide. 	<img src=https://www.quizypedia.fr/site_media/images/991/991283938296.jpeg>			botanimaux quizypedia
-Berger allemand 	Races de chiens  	Chien à la robe généralement noire-marron-fauve, agile, élégant et sportif. Un de ses spécimens les plus célèbres est le Rintintin de la série TV américaine. 	<img src=https://www.quizypedia.fr/site_media/images/078/078736395689.jpeg>			botanimaux quizypedia
-Bouledogue 	Races de chiens  	Chien de taille moyenne à la face aplatie, au poil ras et à la mâchoire puissante. Fidèle et amical, il en existe deux types : le français et l'anglais. 	<img src=https://www.quizypedia.fr/site_media/images/944/944117645904.jpeg>			botanimaux quizypedia
-Boxer 	Races de chiens  	Chien d'origine allemande, de taille moyenne, au poil ras, d'aspect ramassé et au physique athlétique. Il est en général de couleur fauve ou bringé. 	<img src=https://www.quizypedia.fr/site_media/images/135/135373697859.jpeg>			botanimaux quizypedia
-Caniche 	Races de chiens  	"Chien à la robe frisée, initialement utilisé pour la chasse aux canards, ce qui lui a valu son nom. Très connu pour être l'objet de ""toilettages"" caractéristiques. "	<img src=https://www.quizypedia.fr/site_media/images/248/248207422905.jpeg>			botanimaux quizypedia
-Cocker anglais 	Races de chiens  	"Chien compact et musclé, aux oreilles tombantes caractéristiques et au caractère fort. Énergique et appréciant la vie en extérieur, il est très apprécié des chasseurs. Le chien Bill de la BD ""Boule et Bill"" en est un des plus célèbres spécimens. "	<img src=https://www.quizypedia.fr/site_media/images/369/369914953066.jpeg>			botanimaux quizypedia
-Colley 	Races de chiens  	Chien de berger d'origine britannique (Écosse), généralement à poil long, dont la race a été popularisée par le chien Lassie. Existe surtout avec une robe tricolore ou couleur zibeline. 	<img src=https://www.quizypedia.fr/site_media/images/341/341167868333.jpeg>			botanimaux quizypedia
-Dalmatien 	Races de chiens  	Chien originaire de Croatie, de taille moyenne, à la ligne élancée et au tempérament actif. Il est reconnaissable à sa robe blanche piquée de taches noires ou foie. Mis à l'honneur dans un dessin animé de Walt Disney. 	<img src=https://www.quizypedia.fr/site_media/images/225/225224172760.jpeg>			botanimaux quizypedia
-Épagneul breton 	Races de chiens  	Chien originaire de Bretagne, apprécié des chasseurs pour ses capacités de chien d'arrêt et de rapport. Il s'agit du plus petit des chiens d'arrêt. 	<img src=https://www.quizypedia.fr/site_media/images/820/820165470909.jpeg>			botanimaux quizypedia
-Fox-Terrier 	Races de chiens  	Chien à poil lisse ou à poil dur, de petite taille, jadis utilisé pour faire sortir les renards de leur terrier - ce qui lui a valu son nom. Le Milou de Tintin en est un des plus célèbres spécimens. 	<img src=https://www.quizypedia.fr/site_media/images/191/191574295319.jpeg>			botanimaux quizypedia
-Husky de Sibérie 	Races de chiens  	"Originaire de Sibérie orientale, proche du malamute et du samoyède. Abusivement appelé ""chien-loup"", il est utilisé comme chien de traîneau par les mushers. "	<img src=https://www.quizypedia.fr/site_media/images/399/399798100849.jpeg>			botanimaux quizypedia
-Labrador (retriever) 	Races de chiens  	Chien de taille moyenne à l'allure ronde et robuste pouvant être de robe sable, chocolat ou noire. Son nom fait référence à une région du Canada et il constitue l'une des plus courantes races de chiens pour aveugles. 	<img src=https://www.quizypedia.fr/site_media/images/272/272544432806.jpeg>			botanimaux quizypedia
-Lévrier 	Races de chiens  	Chien longiligne aux pattes fines et au corps musclé et tendineux, son temps hors norme de détente en l'air lors de la course en fait le champion des cynodromes. Le barzoï, l'afghan et le whippet en sont quelques-unes des races les plus communes. 	<img src=https://www.quizypedia.fr/site_media/images/075/075662905341.jpeg>			botanimaux quizypedia
-Saint-Bernard 	Races de chiens  	Grand chien de montagne, affublé d'un tonnelet de rhum dans l'imaginaire populaire. Souvent utilisé dans les opérations de secourisme pour sa force et sa résistance, il compte Cujo et Beethoven parmi ses spécimens de fiction les plus connus. 	<img src=https://www.quizypedia.fr/site_media/images/580/580724109620.jpeg>			botanimaux quizypedia
-Teckel 	Races de chiens  	"Race de basset originaire d'Allemagne. Son physique au corps et au museau allongés et aux courtes pattes, lui vaut - aussi affectueusement qu'ironiquement - le surnom de ""saucisson à pattes"" ou ""chien saucisse"". "	<img src=https://www.quizypedia.fr/site_media/images/197/197674504695.jpeg>			botanimaux quizypedia
-Bichon 	Races de chiens  	Originaire d'Italie, il s'agit d'un petit chien au poil long et blanc très apprécié comme chien de compagnie. La race se décline sous quatre types : le maltais, le bolonais, le frisé, et le havanais. 	<img src=https://www.quizypedia.fr/site_media/images/586/586517214851.jpeg>			botanimaux quizypedia
-Bobtail 	Races de chiens  	Aussi appelé chien de berger anglais ancestral, il s'agit d'une race de chien originaire d'outre-Manche, au poil hirsute et très dense. 	<img src=https://www.quizypedia.fr/site_media/images/399/399933982100.jpeg>			botanimaux quizypedia
-Cavalier King Charles 	Races de chiens  	Chien de compagnie d'origine anglaise et dérivé de l'épagneul, très apprécié par les enfants. Son modèle roux et blanc est appelé Blenheim en référence au duc de Marlborough. 	<img src=https://www.quizypedia.fr/site_media/images/678/678350495792.jpeg>			botanimaux quizypedia
-Chihuahua 	Races de chiens  	Plus petit chien du monde, il serait originaire d'un État du Mexique dont il porte le nom. Plutôt résistant malgré son apparente fragilité, son espérance de vie moyenne est de 14 ans. 	<img src=https://www.quizypedia.fr/site_media/images/008/008070990962.jpeg>			botanimaux quizypedia
-Chow-chow 	Races de chiens  	Chien de taille moyenne originaire de Chine, il se caractérise par sa langue bleue, son allure léonine et sa fourrure dense. 	<img src=https://www.quizypedia.fr/site_media/images/886/886663146282.jpeg>			botanimaux quizypedia
-Doberman 	Races de chiens  	Race de chien apparue vers 1860 en Allemagne. Utilisé comme chien de garde et chien policier, il s'agit d'un chien puissant à l'allure fière et décidée. Sa robe la plus représentative est noir et feu. 	<img src=https://www.quizypedia.fr/site_media/images/073/073908508891.jpeg>			botanimaux quizypedia
-Dogue allemand 	Races de chiens  	"Très grand chien à poil court, aussi appelé Grand Danois. Surnommé ""l'Apollon de la gent canine"", c'est un de ses représentants, Gibson, qui est à ce jour considéré comme le plus grand chien ayant jamais existé. "	<img src=https://www.quizypedia.fr/site_media/images/731/731903514496.jpeg>			botanimaux quizypedia
-Golden retriever 	Races de chiens  	Chien ressemblant au labrador mais possédant une robe à poil long, de couleur crème à doré foncé. Il est devenu très populaire au début des années 1990. 	<img src=https://www.quizypedia.fr/site_media/images/234/234131462936.jpeg>			botanimaux quizypedia
-Jack Russell Terrier 	Races de chiens  	Chien de petite taille initialement destiné à la chasse, il tire son nom du pasteur anglais qui mit la race au point au 18ème siècle. 	<img src=https://www.quizypedia.fr/site_media/images/530/530423392470.jpeg>			botanimaux quizypedia
-Pékinois 	Races de chiens  	Petit chien originaire de Chine, au poil long et droit avec une crinière abondante formant une collerette qui n'est pas sans lui donner des allures de petit lion. 	"<img src=""https://www.quizypedia.fr/site_media/images/886/886240712421.jpeg"">"			botanimaux quizypedia
-Rottweiler 	Races de chiens  	Chien de type molossoïde originaire d'Allemagne, de taille moyenne à grande, à la robe noir et feu. Autrefois utilisé pour garder les troupeaux, il est d'allure robuste et doté d'une musculature athlétique. 	<img src=https://www.quizypedia.fr/site_media/images/057/057942988510.jpeg>			botanimaux quizypedia
-Setter 	Races de chiens  	Race de chiens de chasse et d'arrêt originaire des îles britanniques. Il en existe quatre modèles : l'anglais, l'irlandais, l'irlandais rouge et blanc et le Gordon. 	<img src=https://www.quizypedia.fr/site_media/images/590/590187659636.jpeg>			botanimaux quizypedia
-Sharpei 	Races de chiens  	"Chien d'origine chinoise dont la peau retombe en plis, notamment au niveau de la tête - dite en ""hippopotame"". La race était en voie de disparition dans les années 1960. "	<img src=https://www.quizypedia.fr/site_media/images/280/280520164237.jpeg>			botanimaux quizypedia
-Terre-neuve 	Races de chiens  	"Chien à forte taille, à l'épaisse fourrure noire, apprécié pour sa force, sa loyauté et ses aptitudes aquatiques. Originaire d'une île du Canada, il est surnommé le ""Saint-Bernard des mers"". "	<img src=https://www.quizypedia.fr/site_media/images/593/593976555148.jpeg>			botanimaux quizypedia
-Yorkshire 	Races de chiens  	Chien de petite taille originaire du comté anglais du même nom. Il se caractérise par son pelage long et soyeux de couleur bleue et feu. 	<img src=https://www.quizypedia.fr/site_media/images/237/237314582860.jpeg>			botanimaux quizypedia
-Baleine bleue 	Cétacés et siréniens 	Victime d'une chasse intensive jusqu'à sa protection en 1966, ce cétacé est d'après l'état actuel de la science le plus gros animal ayant jamais vécu sur Terre. 	<img src=http://www.quizypedia.fr/site_media/images/737/737503097862.jpeg>			botanimaux quizypedia
-Béluga 	Cétacés et siréniens 	Ce cétacé partageant son nom avec une espèce d'esturgeon est aussi appelé baleine blanche. Vivant dans l'Arctique, il ne dispose pas d'aileron mais d'une crête dorsale. 	<img src=http://www.quizypedia.fr/site_media/images/383/383262538164.jpeg>			botanimaux quizypedia
-Dugong 	Cétacés et siréniens 	Ce mammifère marin herbivore de l'ordre des siréniens dispose d'une nageoire caudale triangulaire. On le trouve dans l'océan Indien et le Pacifique ouest. 	<img src=http://www.quizypedia.fr/site_media/images/390/390805971879.jpeg>			botanimaux quizypedia
-Grand cachalot 	Cétacés et siréniens 	De nom latin Physeter macrocephalus, ce cétacé peut mesurer plus de 20 mètres de long. Il a longtemps été chassé pour un de ses organes, le spermaceti. 	<img src=http://www.quizypedia.fr/site_media/images/755/755756718786.jpeg>			botanimaux quizypedia
-Grand dauphin 	Cétacés et siréniens 	De nom latin Tursiops truncatus, ce cétacé curieux des humains nous est bien connu par certains de ses représentants de fiction comme Ecco ou Flipper. 	<img src=http://www.quizypedia.fr/site_media/images/619/619661623016.jpeg>			botanimaux quizypedia
-Jubarte 	Cétacés et siréniens 	Ce cétacé atteignant généralement une taille de 13 à 14 mètres est caractérisé par les tubercules de sa tête qui lui valent son surnom de baleine à bosse. 	<img src=http://www.quizypedia.fr/site_media/images/737/737966553592.jpeg>			botanimaux quizypedia
-Lamantin des Caraïbes 	Cétacés et siréniens 	"Il s'agit de la plus grande espèce de l'ordre des siréniens. Son aire de répartition diffère de ses cousines ""d'Afrique de l'Ouest"" et ""d'Amazonie"". "	<img src=http://www.quizypedia.fr/site_media/images/238/238519391904.jpeg>			botanimaux quizypedia
-Marsouin commun 	Cétacés et siréniens 	"Ce cétacé au nom latin de Phocoena phocoena est le mieux connu de sa famille, qui inclut également une espèce ""à lunettes"" et une ""du golfe de Californie"". "	<img src=http://www.quizypedia.fr/site_media/images/802/802425956939.jpeg>			botanimaux quizypedia
-Narval 	Cétacés et siréniens 	Ce cétacé est surnommé licorne de mer en raison de sa longue défense torsadée - une dent que les scientifiques analysent comme un organe sensoriel. 	<img src=http://www.quizypedia.fr/site_media/images/129/129083820710.jpeg>			botanimaux quizypedia
-Orque 	Cétacés et siréniens 	"Aussi appelé épaulard, ce cétacé a une répartition cosmopolite sur le globe. Malgré son nom anglais de ""killer whale"", il n'a pas tendance à attaquer l'homme. "	<img src=http://www.quizypedia.fr/site_media/images/415/415277495686.jpeg>			botanimaux quizypedia
-Rorqual commun 	Cétacés et siréniens 	Après la baleine bleue, il s'agit du deuxième plus grand animal vivant sur Terre (longueur d'environ 20 mètres). Il s'agit lui aussi d'un cétacé à fanons (ou mysticète). 	<img src=http://www.quizypedia.fr/site_media/images/138/138182791667.jpeg>			botanimaux quizypedia
-Sousouc 	Cétacés et siréniens 	Ce cétacé à dents (ou odontocète) vit principalement dans le bassin du Gange. Comme la plupart des dauphins d'eau douce, son rostre est long et étroit. 	<img src=http://www.quizypedia.fr/site_media/images/108/108551732561.jpeg>			botanimaux quizypedia
-Aulne blanc 	Arbres feuillus d'Europe tempérée  	Le nom de cet arbre désigne un roi dans le titre d'un des plus célèbres poèmes de Goethe, repris dans un roman de Michel Tournier. Bétulacées 	<img src=http://www.quizypedia.fr/site_media/images/102/102473651196.jpeg>			botanimaux quizypedia
-Bouleau verruqueux 	Arbres feuillus d'Europe tempérée  	L'écorce de cet arbre blanchit et se craquelle avec le temps. Des protubérances résineuses peuvent se former sur les jeunes rameaux. Bétulacées 	<img src=http://www.quizypedia.fr/site_media/images/535/535820463925.jpeg>			botanimaux quizypedia
-Châtaignier commun 	Arbres feuillus d'Europe tempérée  	La bogue épineuse de cet arbre au nom latin de Castanea sativa dissuade certains prédateurs de s'attaquer à ses fruits. Fagacées 	<img src=http://www.quizypedia.fr/site_media/images/147/147929523078.jpeg>			botanimaux quizypedia
-Chêne pédonculé 	Arbres feuillus d'Europe tempérée  	De nom latin Quercus robur, cet arbre se plaisant dans les forêts humides d'Europe porte un fruit qui nourrit notamment les sangliers. Fagacées 	<img src=http://www.quizypedia.fr/site_media/images/236/236977103388.jpeg>			botanimaux quizypedia
-Érable sycomore 	Arbres feuillus d'Europe tempérée  	"Cet arbre parfois appelé ""faux platane"" ne doit pas être confondu avec ses cousins ""plane"" ou ""platane"" dont le bout des feuilles est plus acéré. Acéracées / Sapindacées "	<img src=http://www.quizypedia.fr/site_media/images/721/721415789677.jpeg>			botanimaux quizypedia
-Frêne élevé 	Arbres feuillus d'Europe tempérée  	Cet arbre de nom latin Fraxinus excelsior a pour fruit des samares aplaties. Il est parasité par un coléoptère du nom d'agrile. Oléacées 	<img src=http://www.quizypedia.fr/site_media/images/267/267295536092.jpeg>			botanimaux quizypedia
-Orme champêtre 	Arbres feuillus d'Europe tempérée  	Cet arbre est décimé, depuis le début du XXe siècle, par la graphiose, maladie issue d'un champignon propagé par des coléoptères, les scolytes. Ulmacées 	<img src=http://www.quizypedia.fr/site_media/images/434/434403601723.jpeg>			botanimaux quizypedia
-Platane commun 	Arbres feuillus d'Europe tempérée  	"C'est l'ampleur du houppier de cet arbre qui lui a donné son nom, du grec signifiant ""large"". Peu fertile, on le trouve souvent le long des rues. Platanacées "	<img src=http://www.quizypedia.fr/site_media/images/883/883147269653.jpeg>			botanimaux quizypedia
-Saule blanc 	Arbres feuillus d'Europe tempérée  	La coupe de cet arbre en têtard sert à la production d'osier. De fines soies donnent à ses feuilles une couleur argentée, surtout sur leur face inférieure. Salicacées 	<img src=http://www.quizypedia.fr/site_media/images/500/500000294796.jpeg>			botanimaux quizypedia
-Sorbier des oiseleurs 	Arbres feuillus d'Europe tempérée  	Les fruits de cet arbre voisin du cormier ne sont pas comestibles crus pour l'homme mais font le régal des oiseaux en automne. Rosacées 	<img src=http://www.quizypedia.fr/site_media/images/710/710011663566.jpeg>			botanimaux quizypedia
-Tilleul à petites feuilles 	Arbres feuillus d'Europe tempérée  	Les bractées de cet arbre, dont la cochenille pulvinaire est un parasite répandu, sont utilisées pour produire des infusions aux vertus apaisantes. Malvacées / Tiliacées 	<img src=http://www.quizypedia.fr/site_media/images/150/150636976894.jpeg>			botanimaux quizypedia
-Tremble 	Arbres feuillus d'Europe tempérée  	Cet arbre répandu dans toute l'Eurasie est la seule espèce de peuplier forestier. Il a une durée de vie limitée, généralement entre 70 et 80 ans. Salicacées 	<img src=http://www.quizypedia.fr/site_media/images/789/789635154405.jpeg>			botanimaux quizypedia
-Charme commun 	Arbres feuillus d'Europe tempérée  	Cet arbre, du genre Carpinus, est souvent utilisé en haie. Il appartient à la famille des Bétulacées. Carpinus betulus 	<img src=http://www.quizypedia.fr/site_media/images/712/712144748615.jpeg>			botanimaux quizypedia
-Charme-houblon 	Arbres feuillus d'Europe tempérée  	Cet arbre reconnaissable à ses infrutescences brunes est également appelé ostrier. Il est souvent utilisé comme plante ornementale dans les parcs et jardins. Il appartient à la famille des Bétulacées. Ostrya carpinifolia 	<img src=http://www.quizypedia.fr/site_media/images/142/142073141896.jpeg>			botanimaux quizypedia
-Chêne des Pyrénées 	Arbres feuillus d'Europe tempérée  	Cet arbre, du genre Quercus, est également appelé tauzin. Il produit des fruits appelés glands. Il appartient à la famille des Fagacées. Quercus pyrenaica 	<img src=http://www.quizypedia.fr/site_media/images/780/780005860495.jpeg>			botanimaux quizypedia
-Érable champêtre 	Arbres feuillus d'Europe tempérée  	Cet arbre, du genre Acer, est également appelé acéraille ou auzerelle. Il présente des feuilles vert foncé qui deviennent orangées à l'automne. Acer campestre 	<img src=http://www.quizypedia.fr/site_media/images/968/968058645939.jpeg>			botanimaux quizypedia
-Marronnier d'Inde 	Arbres feuillus d'Europe tempérée  	Cet arbre, du genre Aesculus, est parfois appelé faux-châtaignier. Il fournit un fruit non comestible. Il appartient à la famille des Hippocastanacées. Aesculus hippocastanum 	<img src=http://www.quizypedia.fr/site_media/images/090/090795265680.jpeg>			botanimaux quizypedia
-Micocoulier de Provence 	Arbres feuillus d'Europe tempérée  	Cet arbre, du genre Celtis, appartient à la famille des Ulmacées. Il fournit une petite baie noire au goût très sucré. Celtis australis 	<img src=http://www.quizypedia.fr/site_media/images/437/437466532167.jpeg>			botanimaux quizypedia
-Noisetier commun 	Arbres feuillus d'Europe tempérée  	Cet arbre, du genre Corylus, est également appelé coudrier ou avelinier. Il fournit un petit fruit sec. Il appartient à la famille des Bétulacées. Corylus avellana 	<img src=http://www.quizypedia.fr/site_media/images/966/966799387038.jpeg>			botanimaux quizypedia
-Noyer commun 	Arbres feuillus d'Europe tempérée  	Cet arbre, du genre Juglans, fournit un bois très utilisé en menuiserie. Il produit des fruits à coque dont la partie comestible est appelée cerneau. Juglans regia 	<img src=http://www.quizypedia.fr/site_media/images/185/185448982483.jpeg>			botanimaux quizypedia
-Peuplier blanc 	Arbres feuillus d'Europe tempérée  	"Cet arbre, de la famille des Salicacées, est également dit ""de Hollande"". Il doit une partie de son nom à la couleur de ses feuilles : vert foncé sur le dessus et blanches sur le dessous. Populus alba "	<img src=http://www.quizypedia.fr/site_media/images/824/824906176191.jpeg>			botanimaux quizypedia
-Platane d'Orient 	Arbres feuillus d'Europe tempérée  	Cette plante d'ornement présente des feuilles palmées. Elle fournit des fruits non comestibles, ovoïdes et hérissés. Platanus orientalis 	<img src=http://www.quizypedia.fr/site_media/images/233/233858971883.jpeg>			botanimaux quizypedia
-Saule pleureur 	Arbres feuillus d'Europe tempérée  	Cet arbre est reconnaissable à son port retombant. On le retrouve surtout près de l'eau. Salix babylonica 	<img src=http://www.quizypedia.fr/site_media/images/603/603280700337.jpeg>			botanimaux quizypedia
-Tilleul à grandes feuilles 	Arbres feuillus d'Europe tempérée  	"Cet arbre est également dit ""d'été"". Il fournit des fleurs mellifères parfumées. Il présente des feuilles en forme de cœur. Tilia platyphyllos "	<img src=http://www.quizypedia.fr/site_media/images/379/379343163178.jpeg>			botanimaux quizypedia
-Bergamote 	Les agrumes 	Citrus bergamia Fruit récolté principalement pour l'huile contenue dans son écorce, notamment pour la fabrication de l'eau de Cologne. 	<img src=http://www.quizypedia.fr/site_media/images/450/450607742225.jpeg>			botanimaux quizypedia
-Bigarade 	Les agrumes 	"Citrus aurantium Fruit appelé également ""orange amère"", à la base de la fabrication de nombreux alcools. "	<img src=http://www.quizypedia.fr/site_media/images/160/160371028765.jpeg>			botanimaux quizypedia
-Cédrat 	Les agrumes 	"Citrus medica Le nom de ce fruit vient de son écorce épaisse et rugueuse qui sent le cèdre. En anglais, il se dit ""citron"". "	<img src=http://www.quizypedia.fr/site_media/images/061/061012002545.jpeg>			botanimaux quizypedia
-Citron 	Les agrumes 	Citrus limon Les navigateurs utilisaient ce fruit pour prévenir le scorbut et son jus peut servir comme encre invisible. 	<img src=http://www.quizypedia.fr/site_media/images/401/401248970343.jpeg>			botanimaux quizypedia
-Clémentine 	Les agrumes 	Citrus clementina Fruit sans pépins, hybride entre une mandarine et une orange, qui doit son nom à un religieux français. 	<img src=http://www.quizypedia.fr/site_media/images/566/566946734184.jpeg>			botanimaux quizypedia
-Combava 	Les agrumes 	Citrus hystrix Fruit à l'écorce verte, il est plus petit et plus acide que le citron et possède un arôme très intense, rappelant la citronnelle. 	<img src=http://www.quizypedia.fr/site_media/images/249/249536908069.jpeg>			botanimaux quizypedia
-Kumquat 	Les agrumes 	Fortunella margarita Fruit qui peut supporter une température de -10 °C, sa peau est comestible. 	<img src=http://www.quizypedia.fr/site_media/images/256/256478149793.jpeg>			botanimaux quizypedia
-Lime 	Les agrumes 	"Citrus latifolia et Citrus aurantiifolia Fruit plus connu sous le nom de ""citron vert"", il est très utilisé dans les cocktails tropicaux. "	<img src=http://www.quizypedia.fr/site_media/images/298/298791705474.jpeg>			botanimaux quizypedia
-Main de Bouddha 	Les agrumes 	Citrus medica sarcodactylis Variété asiatique de cédrat, c'est un agrume aromatique dont les quartiers ne se soudent pas entre eux et semblent évoquer des doigts. 	<img src=http://www.quizypedia.fr/site_media/images/508/508425050279.jpeg>			botanimaux quizypedia
-Mandarine 	Les agrumes 	Citrus reticulata Fruit dont la chair, sucrée et parfumée, est l’une des moins acides parmi les agrumes, 				botanimaux quizypedia
-mais qui possède de nombreux pépins. 	<img src=http://www.quizypedia.fr/site_media/images/902/902127345024.jpeg>					botanimaux quizypedia
-Minneola 	Les agrumes 	Citrus tangelo Fruit très juteux, hybride d'un pamplemoussier et d'un mandarinier, cultivé surtout en Israël, en Turquie et en Floride. 	<img src=http://www.quizypedia.fr/site_media/images/341/341531144201.jpeg>			botanimaux quizypedia
-Pamplemousse 	Les agrumes 	Citrus maxima Fruit qui peut peser de 500 grammes à 8 kilogrammes, ce qui en fait le plus volumineux 				botanimaux quizypedia
-"des agrumes. Se dit ""shaddock"" en anglais. "	<img src=http://www.quizypedia.fr/site_media/images/097/097366043546.jpeg>					botanimaux quizypedia
-Pomélo 	Les agrumes 	Citrus paradisi Fruit souvent confondu avec le pamplemousse, il n'en a ni la peau épaisse ni les nombreux pépins. 	<img src=http://www.quizypedia.fr/site_media/images/971/971345523647.jpeg>			botanimaux quizypedia
-Tangerine 	Les agrumes 	Citrus tangerina Fruit très proche de la mandarine mais avec une écorce plus foncée, il doit son nom à un port marocain. 	<img src=http://www.quizypedia.fr/site_media/images/580/580851505832.jpeg>			botanimaux quizypedia
-Yuzu 	Les agrumes 	Citrus junos Fruit qui ressemble à un petit pamplemousse, il est très utilisé dans les cuisines japonaise et coréenne et sert également à aromatiser de la bière. 	<img src=http://www.quizypedia.fr/site_media/images/660/660475952002.jpeg>			botanimaux quizypedia
-Grand requin blanc 	Espèces de requins 	"Il est l'un des plus grands prédateurs vivant dans les océans. Sa taille peut atteindre les 6 mètres. Devenu célèbre grâce aux ""Dents de la mer"" de Steven Spielberg. Carcharodon carcharias "	<img src=https://www.quizypedia.fr/site_media/images/844/844338800193.jpeg>			botanimaux quizypedia
-Requin-baleine 	Espèces de requins 	Considéré comme le plus grand poisson du monde, ce requin tout à fait inoffensif peut mesurer jusqu'à 20 mètres et dépasser les 30 tonnes. Rhincodon typus 	<img src=https://www.quizypedia.fr/site_media/images/318/318067789024.jpeg>			botanimaux quizypedia
-Requin bleu 	Espèces de requins 	Ce requin à forme très effilée est caractérisé par la couleur bleue de la partie supérieure de son corps. Sa taille peut atteindre 4 mètres. Prionace glauca 	<img src=https://www.quizypedia.fr/site_media/images/787/787067190663.jpeg>			botanimaux quizypedia
-Requin-bouledogue 	Espèces de requins 	Aussi appelé requin du Zambèze, il doit son nom à son apparence massive et à son museau aplati. Sa taille peut atteindre les 3 mètres 50. Carcharhinus leucas 	<img src=https://www.quizypedia.fr/site_media/images/783/783708140770.jpeg>			botanimaux quizypedia
-Requin-citron 	Espèces de requins 	Ce requin peu agressif peut être cependant dangereux pour l'homme car il vit près des côtes. Il peut atteindre 3 mètres 40 et doit son nom à sa couleur un peu jaunâtre. Negaprion brevirostris 	<img src=https://www.quizypedia.fr/site_media/images/784/784794938447.jpeg>			botanimaux quizypedia
-Requin-épée 	Espèces de requins 	Petit requin au museau pointu. Il vit dans les eaux peu profondes et sa taille maximum est d'un mètre. Scoliodon laticaudus 	<img src=https://www.quizypedia.fr/site_media/images/406/406639712462.jpeg>			botanimaux quizypedia
-Grand requin-marteau 	Espèces de requins 	Requin atypique avec un museau aplati et les yeux dans les coins. Il peut atteindre une taille de 5,5 mètres. Sphyrna mokarran 	<img src=https://www.quizypedia.fr/site_media/images/343/343207137432.jpeg>			botanimaux quizypedia
-Requin-pèlerin 	Espèces de requins 	Gigantesque poisson pouvant atteindre 12 mètres, il est reconnaissable à sa bouche distendue. Tout à fait inoffensif, il se nourrit exclusivement de plancton. Cetorhinus maximus 	<img src=https://www.quizypedia.fr/site_media/images/405/405037347147.jpeg>			botanimaux quizypedia
-Requin-tigre 	Espèces de requins 	Grand prédateur pouvant être dangereux pour l'homme, c'est un chasseur solitaire dont la taille peut atteindre 4 mètres et le poids, 500 kg. Les jeunes ont la peau tachetée et les adultes des rayures. Galeocerdo cuvieri 	<img src=https://www.quizypedia.fr/site_media/images/014/014994073733.jpeg>			botanimaux quizypedia
-Petite roussette 	Espèces de requins 	Petit requin inoffensif qu'on trouve notamment en Méditerranée. Sa taille avoisine le mètre. Dans l'assiette, il peut prendre le nom de saumonette. Scyliorhinus canicula 	<img src=https://www.quizypedia.fr/site_media/images/386/386195587724.jpeg>			botanimaux quizypedia
-Capybara ou cabiai 	Espèces de rongeurs  	Vivant en Amérique du Sud, cet animal semi-aquatique est le plus gros rongeur existant. Il vit en petits groupes. Hydrochoerus hydrochaeris 	"<img src=""https://www.quizypedia.fr/site_media/images/361/361847738349.jpeg"">"			botanimaux quizypedia
-Castor du Canada 	Espèces de rongeurs  	Vivant en Amérique du Nord, cet animal semi-aquatique est connu pour aménager son environnement, notamment en construisant des barrages. Castor canadensis 	"<img src=""https://www.quizypedia.fr/site_media/images/783/783735389267.jpeg"">"			botanimaux quizypedia
-Chien de prairie à queue noire 	Espèces de rongeurs  	Son nom est lié à son cri qui rappelle celui d'un canidé. C'est un animal grégaire qui vit dans des terriers. Il vit en Amérique du Nord. Cynomys ludovicianus 	"<img src=""https://www.quizypedia.fr/site_media/images/224/224163544557.jpeg"">"			botanimaux quizypedia
-Chinchilla 	Espèces de rongeurs  	Vivant à l'état sauvage en Amérique du Sud, cet animal nocturne est élevé pour sa fourrure. Considéré comme éteinte à l'état sauvage, son espèce fut redécouverte en 1975. Chinchilla lanigera 	"<img src=""https://www.quizypedia.fr/site_media/images/557/557786063435.jpeg"">"			botanimaux quizypedia
-Cochon d'Inde ou cobaye 	Espèces de rongeurs  	Espèce domestique originaire d'Amérique du Sud. C'est un animal social qui fut élevé  pour sa chair puis comme animal de laboratoire et enfin comme animal de compagnie. Une de ses appellations sert aussi à désigner un sujet d'expérience. Cavia porcellus 	"<img src=""https://www.quizypedia.fr/site_media/images/569/569028108954.jpeg"">"			botanimaux quizypedia
-Écureuil roux 	Espèces de rongeurs  	Animal eurasiatique, granivore et arboricole, il est reconnaissable grâce à sa queue en panache. Il vit dans des nids appelés hottes. Il oublie régulièrement le lieu où il cache sa nourriture contribuant ainsi à la dispersion des graines. Sciurus vulgaris 	"<img src=""https://www.quizypedia.fr/site_media/images/217/217451260446.jpeg"">"			botanimaux quizypedia
-Loir commun 	Espèces de rongeurs  	Rongeur européen nocturne et omnivore, il se nourrit essentiellement de fruits, de graines ou de fleurs. Il hiberne six mois par an. Son nom peut désigner une personne dormant beaucoup. Glis glis 	<img src=https://www.quizypedia.fr/site_media/images/934/934384451064.jpeg>			botanimaux quizypedia
-Mara 	Espèces de rongeurs  	Deuxième rongeur le plus gros du monde, originaire d'Amérique du Sud. Cet animal monogame a une tête semblable à celle d'un lagomorphe d'où son autre nom : lièvre de Patagonie. Dolichotis patagonum 	<img src=https://www.quizypedia.fr/site_media/images/387/387450517575.jpeg>			botanimaux quizypedia
-Porc-épic 	Espèces de rongeurs  	Animal solitaire, myope, herbivore, pouvant se nourrir d'écorces, reconnaissable à ses longs piquants, il fut choisi comme emblème par Louis XII. Hystrix cristata 	<img src=https://www.quizypedia.fr/site_media/images/708/708116371924.jpeg>			botanimaux quizypedia
-Ragondin 	Espèces de rongeurs  	Animal semi-aquatique originaire d'Amérique du Sud. Importé en Europe pour sa fourrure, c'est une espèce invasive et nuisible notamment parce qu'en construisant son terrier, elle dégrade les berges. Parfois appelé myocastor. Myocastor coypus 	<img src=https://www.quizypedia.fr/site_media/images/242/242999621251.jpeg>			botanimaux quizypedia
-Rat d'égout 	Espèces de rongeurs  	Animal social présent sur tous les continents, considéré comme nuisible, il peut également être un animal de compagnie ou de laboratoire. Extrêmement intelligent, il est très utilisé en psychologie. En argot, son nom désigne quelqu'un de radin. Rattus norvegicus 	<img src=https://www.quizypedia.fr/site_media/images/492/492067782354.jpeg>			botanimaux quizypedia
-Rat-taupe nu 	Espèces de rongeurs  	C'est l'un des seuls mammifères à avoir une organisation sociale semblable à celle des insectes sociaux (avec une reine et des ouvriers). Il serait l'un des rares animaux non touchés par le cancer. En captivité, il vit jusqu'à 35 ans. Heterocephalus glaber 	<img src=https://www.quizypedia.fr/site_media/images/787/787614344116.jpeg>			botanimaux quizypedia
-brochet 	Espèces de poissons 	de l'Amour, d'Amérique, maillé 				botanimaux quizypedia
-perche 	Espèces de poissons 	arc-en-ciel, du Nil, ardoise 				botanimaux quizypedia
-carpe 	Espèces de poissons 	koï, cuir, miroir 				botanimaux quizypedia
-truite 	Espèces de poissons 	marbrée, arc-en-ciel, fario 				botanimaux quizypedia
-anguille 	Espèces de poissons 	à bec de canard, électrique, de vase 				botanimaux quizypedia
-raie 	Espèces de poissons 	manta, guitare, pastenague 				botanimaux quizypedia
-thon 	Espèces de poissons 	rouge, albacore, germon 				botanimaux quizypedia
-murène 	Espèces de poissons 	zèbre, géante, étoilée 				botanimaux quizypedia
-requin 	Espèces de poissons 	marteau, scie, pèlerin 				botanimaux quizypedia
-dorade 	Espèces de poissons 	grise, royale, rose 				botanimaux quizypedia
-saumon 	Espèces de poissons 	atlantique, rouge, royal 				botanimaux quizypedia
-Aigle 	Espèces d'oiseaux  	de Bonelli, martial, royal 				botanimaux quizypedia
-Cigogne 	Espèces d'oiseaux  	noire, épiscopale, blanche 				botanimaux quizypedia
-Caille 	Espèces d'oiseaux  	arlequin, des blés, peinte 				botanimaux quizypedia
-Corbeau 	Espèces d'oiseaux  	calédonien, de Tasmanie, freux 				botanimaux quizypedia
-Pintade 	Espèces d'oiseaux  	noire, de Numidie, vulturine 				botanimaux quizypedia
-Cygne 	Espèces d'oiseaux  	tuberculé, siffleur, trompette 				botanimaux quizypedia
-Chouette 	Espèces d'oiseaux  	effraie, harfang, hulotte 				botanimaux quizypedia
-Hibou 	Espèces d'oiseaux  	des marais, malgache, grand-duc 				botanimaux quizypedia
-Faisan 	Espèces d'oiseaux  	prélat, doré, de Lady Amherst 				botanimaux quizypedia
-Pélican 	Espèces d'oiseaux  	gris, frisé, à lunettes 				botanimaux quizypedia
-Moineau 	Espèces d'oiseaux  	friquet, domestique, espagnol 				botanimaux quizypedia
-Mésange 	Espèces d'oiseaux  	boréale, charbonnière, huppée 				botanimaux quizypedia
-Albatros 	Espèces d'oiseaux  	À sourcils noirs, hurleur, royal 				botanimaux quizypedia
-Faucon 	Espèces d'oiseaux  	Crécerelle, gerfaut, pèlerin 				botanimaux quizypedia
-Fauvette 	Espèces d'oiseaux  	Babillarde, des jardins, grisette 				botanimaux quizypedia
-Manchot 	Espèces d'oiseaux  	Empereur, de Humboldt, pygmée 				botanimaux quizypedia
-Perdrix 	Espèces d'oiseaux  	Bartavelle, rouge, grise 				botanimaux quizypedia
-Perruche 	Espèces d'oiseaux  	À collier, de Sparrman, ondulée 				botanimaux quizypedia
-Pigeon 	Espèces d'oiseaux  	Biset, gris, ramier 				botanimaux quizypedia
-Tourterelle 	Espèces d'oiseaux  	À collier, des bois, turque 				botanimaux quizypedia
-Vautour 	Espèces d'oiseaux  	Fauve, moine, royal 				botanimaux quizypedia
-Apiculture 	Noms des élevages d'animaux  	Abeilles 				botanimaux quizypedia
-Aviculture 	Noms des élevages d'animaux  	Oiseaux et volailles 				botanimaux quizypedia
-Colombiculture 	Noms des élevages d'animaux  	Pigeons 				botanimaux quizypedia
-Héliciculture 	Noms des élevages d'animaux  	Escargots 				botanimaux quizypedia
-Herpétoculture 	Noms des élevages d'animaux  	Reptiles et amphibiens 				botanimaux quizypedia
-Lombriculture 	Noms des élevages d'animaux  	Vers de terre 				botanimaux quizypedia
-Mytiliculture 	Noms des élevages d'animaux  	Moules 				botanimaux quizypedia
-Ostréiculture 	Noms des élevages d'animaux  	Huîtres 				botanimaux quizypedia
-Pisciculture 	Noms des élevages d'animaux  	Poissons 				botanimaux quizypedia
-Salmoniculture 	Noms des élevages d'animaux  	Saumons 				botanimaux quizypedia
-Trutticulture 	Noms des élevages d'animaux  	Truites 				botanimaux quizypedia
-Astaciculture 	Noms des élevages d'animaux  	Ecrevisses 				botanimaux quizypedia
-Coturniculture 	Noms des élevages d'animaux  	Cailles 				botanimaux quizypedia
-Cuniculiculture (ou cuniculture) 	Noms des élevages d'animaux  	Lapins 				botanimaux quizypedia
-Echiniculture 	Noms des élevages d'animaux  	Oursins 				botanimaux quizypedia
-Esociculture 	Noms des élevages d'animaux  	Brochets 				botanimaux quizypedia
-Hirudiniculture 	Noms des élevages d'animaux  	Sangsues 				botanimaux quizypedia
-Perliculture ou nacroculture 	Noms des élevages d'animaux  	Huîtres perlières 				botanimaux quizypedia
-Pectiniculture 	Noms des élevages d'animaux  	Coquilles Saint-Jacques et pétoncles 				botanimaux quizypedia
-Sériciculture 	Noms des élevages d'animaux  	Vers à soie 				botanimaux quizypedia
-Bignone 	Plantes grimpantes 	Arbrisseau lianescent cultivé pour ses longues fleurs orangées en doigt de gant. Il est aussi appelé trompette de Virginie ou jasmin de Virginie. 	<img src=http://www.quizypedia.fr/site_media/images/082/082434677101.jpeg>			botanimaux quizypedia
-Bougainvillier 	Plantes grimpantes 	Plante grimpante aux larges bractées rouge violacé, cultivée pour l'ornement. Son premier spécimen a été découvert par le botaniste Philibert Commerson au Brésil. 	<img src=http://www.quizypedia.fr/site_media/images/646/646810740307.jpeg>			botanimaux quizypedia
-Chèvrefeuille 	Plantes grimpantes 	Du genre Lonicera, cette plante a des feuilles dentelées et pousse aux lisières des forêts et aux bords de chemins. Certaines espèces sont aussi nommées camérisiers. 	<img src=http://www.quizypedia.fr/site_media/images/802/802221718753.jpeg>			botanimaux quizypedia
-Clématite 	Plantes grimpantes 	Renonculacée commune dans les haies qui conserve tout l'hiver son fruit, surmonté d'une aigrette duveteuse. 	<img src=http://www.quizypedia.fr/site_media/images/892/892465494412.jpeg>			botanimaux quizypedia
-Glycine 	Plantes grimpantes 	Arbuste originaire de Chine et cultivé pour ses longues grappes de fleurs mauves et odorantes. 	<img src=http://www.quizypedia.fr/site_media/images/048/048375947035.jpeg>			botanimaux quizypedia
-Houblon 	Plantes grimpantes 	Plante de la famille des Cannabacées cultivée pour ses inflorescences femelles employées pour aromatiser la bière. 	<img src=http://www.quizypedia.fr/site_media/images/812/812807921900.jpeg>			botanimaux quizypedia
-Jasmin étoilé 	Plantes grimpantes 	Plante à fleurs blanches de la famille des Apocynacées et du genre Trachelospermum, originaire d'Asie, cultivée dans les jardins des régions au climat doux. 	<img src=http://www.quizypedia.fr/site_media/images/886/886769830457.jpeg>			botanimaux quizypedia
-Lierre 	Plantes grimpantes 	"Liane à baies noires toxiques qui se fixe aux arbres ou aux murs par des racines crampons. Parfois appelée ""drienne"", ""herbe de saint Jean"" ou ""rondelette"". "	<img src=http://www.quizypedia.fr/site_media/images/733/733921195714.jpeg>			botanimaux quizypedia
-Passiflore 	Plantes grimpantes 	Plante aux fleurs spectaculaires dont l'abondance n'est garantie que dans les régions au climat doux. Son nom vient du fait que les missionnaires jésuites d'Amérique du Sud l'utilisaient pour représenter la Passion du Christ. 	<img src=http://www.quizypedia.fr/site_media/images/500/500600368270.jpeg>			botanimaux quizypedia
-Vanillier 	Plantes grimpantes 	Orchidée lianescente des régions tropicales, cultivée pour son fruit en gousse. 	<img src=http://www.quizypedia.fr/site_media/images/189/189040301158.jpeg>			botanimaux quizypedia
-Vigne vierge 	Plantes grimpantes 	Arbrisseau souvent ornemental, appartenant au genre Ampelopsis, qui s'accroche aux surfaces lisses par des vrilles formant ventouses. 	<img src=http://www.quizypedia.fr/site_media/images/005/005018830826.jpeg>			botanimaux quizypedia
-Volubilis 	Plantes grimpantes 	Plante herbacée annuelle de la famille des Convolvulacées, cultivée comme fleur de jardin, appréciée pour sa végétation exubérante et ses grandes fleurs en entonnoir. 	<img src=http://www.quizypedia.fr/site_media/images/297/297101788807.jpeg>			botanimaux quizypedia
-Allosaure 	Les dinosaures  	"Ce ""lézard différent"", théropode ayant vécu en Amérique du Nord au Jurassique, était un redoutable prédateur bipède muni d'une longue queue et pouvant mesurer jusqu'à 12 m. "	<img src=http://www.quizypedia.fr/site_media/images/933/933111865121.jpeg>			botanimaux quizypedia
-Ankylosaure 	Les dinosaures  	"Avec ses plaques osseuses et sa queue en forme de massue capable de terrasser un tyrannosaure, ce grand ""lézard rigide"" d'Amérique du Nord, quadrupède et herbivore, était l'archétype du dinosaure à armure. "	<img src=http://www.quizypedia.fr/site_media/images/805/805100309855.jpeg>			botanimaux quizypedia
-Archéoptéryx 	Les dinosaures  	Ce dinosaure-oiseau d’une soixantaine de cm de long a vécu à la fin du Jurassique. Premier fossile découvert avec des plumes bien conservées, il est à la base de la théorie de l'évolution des oiseaux à partir des dinosaures théropodes. 	<img src=http://www.quizypedia.fr/site_media/images/016/016725102374.jpeg>			botanimaux quizypedia
-Brachiosaure 	Les dinosaures  	"Avec ses 25 m de long, 12 m de haut et son poids de 32 à 50 tonnes, ce ""lézard à bras"", herbivore de l'ordre des saurischiens, vivant en troupeaux, est l'un des plus grands dinosaures connus. "	<img src=http://www.quizypedia.fr/site_media/images/788/788146041452.jpeg>			botanimaux quizypedia
-Brontosaure 	Les dinosaures  	"Ce grand herbivore dont l'étymologie signifie ""lézard tonnerre"", longtemps confondu avec l'apatosaure, vivait et se nourrissait près de l'eau, refuge naturel contre son principal prédateur, l'allosaure. "	<img src=http://www.quizypedia.fr/site_media/images/997/997404936991.jpeg>			botanimaux quizypedia
-Diplodocus 	Les dinosaures  	"Ce mastodonte, herbivore ""à la double poutre"" en référence à la forme des os chevrons de sa queue, est avec ses 30 m l'un des plus longs dinosaures connus, ne pesant pourtant ""que"" 10 à 12 tonnes. "	<img src=http://www.quizypedia.fr/site_media/images/691/691903135053.jpeg>			botanimaux quizypedia
-Iguanodon 	Les dinosaures  	Cet ornithischien herbivore possédait des pattes à cinq doigts, dont trois terminés par des sortes de sabot pour ses déplacements, et un pouce pointu constituant une arme redoutable lorsqu'il se dressait. 	<img src=http://www.quizypedia.fr/site_media/images/744/744973511051.jpeg>			botanimaux quizypedia
-Mégalosaure 	Les dinosaures  	"Ce ""grand lézard"", puissant carnivore saurischien du Jurassique, fut le premier dinosaure baptisé, par le professeur Buckland en 1824, suite à la découverte d'un fossile quelques années plus tôt dans une carrière proche d'Oxford. "	<img src=http://www.quizypedia.fr/site_media/images/784/784682363552.jpeg>			botanimaux quizypedia
-Plésiosaure 	Les dinosaures  	Ce grand diapside aquatique n'est pas un dinosaure au sens strict. Appelé élasmosaure ou kronosaure selon sa taille, il aurait selon la légende un illustre représentant en Ecosse, le monstre du Loch Ness. 	<img src=http://www.quizypedia.fr/site_media/images/273/273091504920.jpeg>			botanimaux quizypedia
-Stégosaure 	Les dinosaures  	"Ce ""lézard à toit"", quadrupède herbivore de 9 m de long, possédait une double rangée de plaques osseuse sur le dos, ainsi qu'une queue à pointes qui, en raison de sa lenteur, était plus dissuasive qu'efficace. "	<img src=http://www.quizypedia.fr/site_media/images/665/665862722717.jpeg>			botanimaux quizypedia
-Tricératops 	Les dinosaures  	"Cet herbivore de 9 m de long et 3 m de haut environ possédait une ""tête à trois cornes"" entourée d'une grande collerette osseuse, davantage utilisée d'après les scientifiques pour la parade amoureuse que pour se défendre contre ses prédateurs. "	<img src=http://www.quizypedia.fr/site_media/images/189/189021146803.jpeg>			botanimaux quizypedia
-Tyrannosaure rex 	Les dinosaures  	"Ce ""lézard tyran"", théropode du Crétacé, était avec ses 13 m de long l'un des plus grands carnivores terrestres ayant jamais existé, mais on pense qu'il était probablement plus charognard que chasseur. "	<img src=http://www.quizypedia.fr/site_media/images/951/951273226847.jpeg>			botanimaux quizypedia
-Vélociraptor 	Les dinosaures  	"Ce ""voleur rapide"", petit dinosaure carnivore bipède de 1.50 à 2 m pour 15 à 20 kg qui vivait à la fin du Crétacé, était couvert de plumes, contrairement aux idées reçues. Jurassic Park a assuré sa célébrité. "	<img src=http://www.quizypedia.fr/site_media/images/734/734095133326.jpeg>			botanimaux quizypedia
-Aulnaie 	Plantes et plantations 	Aulne 				botanimaux quizypedia
-Bambousaie, bambouseraie 	Plantes et plantations 	Bambou 				botanimaux quizypedia
-Boulaie 	Plantes et plantations 	Bouleau 				botanimaux quizypedia
-Chènevière 	Plantes et plantations 	Chanvre 				botanimaux quizypedia
-Charmille, charmaie, charmeraie 	Plantes et plantations 	Charme 				botanimaux quizypedia
-Suberaie 	Plantes et plantations 	Chêne-liège 				botanimaux quizypedia
-Pessière 	Plantes et plantations 	Epicéa 				botanimaux quizypedia
-Ivaie 	Plantes et plantations 	If 				botanimaux quizypedia
-Jonchère, jonchaie, joncheraie 	Plantes et plantations 	Jonc 				botanimaux quizypedia
-Orangeraie 	Plantes et plantations 	Oranger 				botanimaux quizypedia
-Pinède, pineraie, pinaie 	Plantes et plantations 	Pin 				botanimaux quizypedia
-Roselière 	Plantes et plantations 	Roseau 				botanimaux quizypedia
-Saussaie, saulaie 	Plantes et plantations 	Saule 				botanimaux quizypedia
-Araignée de mer 	Des crustacés  	Crabe de la famille des majidés, ce crustacé de grande taille possède une carapace ovoïde plus longue que large, rouge, hérissée d'épines et possédant un double rostre à l'avant. 	<img src=http://www.quizypedia.fr/site_media/images/172/172982852162.jpeg>			botanimaux quizypedia
-Bernard-l'ermite 	Des crustacés  	Crustacé décapode, très commun sur les côtes de l'Europe occidentale, et qui protège son abdomen mou dans la coquille d'un gastéropode. 	<img src=http://www.quizypedia.fr/site_media/images/951/951384149139.jpeg>			botanimaux quizypedia
-Cloporte 	Des crustacés  	De l'ordre des isopodes, ce crustacé terrestre atteint 2 cm de long et vit sous les pierres dans les lieux sombres et humides. 	<img src=http://www.quizypedia.fr/site_media/images/343/343791708606.jpeg>			botanimaux quizypedia
-Crevette grise 	Des crustacés  	Crustacé de la famille des crangonidés mesurant de 50 à 80 mm. Sa carapace est munie de trois épines. Sa couleur est brune et peut varier selon le fond sur lequel elle est posée. 	<img src=http://www.quizypedia.fr/site_media/images/547/547168138218.jpeg>			botanimaux quizypedia
-Crevette rose 	Des crustacés  	Crustacé de la famille des palaemonidés ayant la particularité de posséder un rostre très développé en avant de la tête. Il possède des yeux pédonculés, fortement divergents. 	<img src=http://www.quizypedia.fr/site_media/images/974/974107507676.jpeg>			botanimaux quizypedia
-Ecrevisse 	Des crustacés  	Crustacé d'eau douce muni de pinces, apprécié pour sa chair et dont on fait parfois l'élevage (astaciculture). 	<img src=http://www.quizypedia.fr/site_media/images/765/765355587429.jpeg>			botanimaux quizypedia
-Étrille 	Des crustacés  	Crabe comestible du littoral atlantique, à pattes postérieures aplaties en palette, à carapace recouverte d'une fine pilosité, aux yeux rouges. 	<img src=http://www.quizypedia.fr/site_media/images/747/747780788393.jpeg>			botanimaux quizypedia
-Homard 	Des crustacés  	Crustacé décapode marin à grosses pinces dont le corps, bleu marbré de jaune, atteint parfois 50 cm de long. 	<img src=http://www.quizypedia.fr/site_media/images/246/246421032325.jpeg>			botanimaux quizypedia
-Krill 	Des crustacés  	Plancton des mers froides formé de petits crustacés transparents, et qui constitue la nourriture principale des baleines à fanons. 	<img src=http://www.quizypedia.fr/site_media/images/650/650115723673.jpeg>			botanimaux quizypedia
-Langouste 	Des crustacés  	Crustacé marcheur à fortes antennes, mais sans pinces, atteignant 40 cm de long, très apprécié pour sa chair. 	<img src=http://www.quizypedia.fr/site_media/images/505/505787457492.jpeg>			botanimaux quizypedia
-Pouce-pied 	Des crustacés  	Crustacé voisin de l'anatife, dont le pédoncule est comestible. 	<img src=http://www.quizypedia.fr/site_media/images/495/495213634407.jpeg>			botanimaux quizypedia
-Talitre 	Des crustacés  	"Petit crustacé sauteur, aussi appelé ""puce de mer"", vivant dans le sable des plages. "	<img src=http://www.quizypedia.fr/site_media/images/865/865664465023.jpeg>			botanimaux quizypedia
-Tourteau 	Des crustacés  	Gros crabe à large carapace elliptique brun-rouge dont les puissantes pinces ont l'extrémité noire. 	<img src=http://www.quizypedia.fr/site_media/images/889/889148170015.jpeg>			botanimaux quizypedia
-Ananas 	Fruits exotiques  	Gros fruit composé, dont le nom vient d'un mot tupi-guarani signifiant « parfum des parfums », provient d'une plante herbacée xérophyte découverte en 1493 en Guadeloupe par Christophe Colomb. Ananas comosus Broméliacées 	<img src=http://www.quizypedia.fr/site_media/images/047/047214350614.jpeg>			botanimaux quizypedia
-Avocat 	Fruits exotiques  	Ce fruit climactérique originaire du Mexique, dont le nom est dérivé du mot nahuatl signifiant testicule, par analogie à la forme, est à la base de la recette du guacamole. Persea americana Lauracées 	<img src=http://www.quizypedia.fr/site_media/images/307/307503648231.jpeg>			botanimaux quizypedia
-Banane 	Fruits exotiques  	"Ce fruit climactérique d'une plante herbacée tropicale pouvant atteindre 7 m de haut se récolte en inflorescences appelées ""régimes"" et se répartit en trois catégories dites ""dessert"", ""à cuire"" (plantain) et ""à bière"". Musa acuminata, Musa ×paradisiaca Musacées "	<img src=http://www.quizypedia.fr/site_media/images/721/721766664192.jpeg>			botanimaux quizypedia
-Carambole 	Fruits exotiques  	Cette baie à cinq carpelles soudés, dont la section forme une étoile, est utilisée en jus ou salade de fruits, en confiture ou dans des sauces. Sa consommation est déconseillée aux insuffisants rénaux en raison de la présence d'acide oxalique. Averrhoa carambola Oxalidacées 	<img src=http://www.quizypedia.fr/site_media/images/908/908457288295.jpeg>			botanimaux quizypedia
-Figue de Barbarie 	Fruits exotiques  	"Cette ""poire cactus"", dont la couleur dépend de la variété, est une baie charnue produite par un cactus originaire du Mexique. Sa peau est pourvue de minuscules épines, les glochides, et son huile est l'une des plus chères au monde. Opuntia ficus-indica Cactacées "	<img src=http://www.quizypedia.fr/site_media/images/091/091086285093.jpeg>			botanimaux quizypedia
-Fruit de la passion 	Fruits exotiques  	Ce fruit issu d'une liane, la grenadille, également appelé maracudja, existe sous deux formes, la jaune dont les fruits sont consommés frais, et la pourpre qui sert à élaborer des jus. Il est également très consommé en glaces et sorbets. Passiflora edulis Passifloracées 	<img src=http://www.quizypedia.fr/site_media/images/647/647410282719.jpeg>			botanimaux quizypedia
-Goyave 	Fruits exotiques  	"Ce fruit dont le nom est dérivé de l'arawak signifiant ""fruit"", particulièrement riche en vitamine C et en calcium, possède une peau verte, fine et fragile, et une chair de couleur crème à orange saumon. Psidium guajava Myrtacées "	<img src=http://www.quizypedia.fr/site_media/images/493/493757559050.jpeg>			botanimaux quizypedia
-Grenade 	Fruits exotiques  	Chez ce fruit originaire d'Asie en forme de pomme, passant avec le temps du vert au rouge orange, la pulpe est divisée en loges contenant environ 400 graines entourées d'une enveloppe juteuse, l'arille. Punica granatum Lythracées 	<img src=http://www.quizypedia.fr/site_media/images/767/767091171999.jpeg>			botanimaux quizypedia
-Kaki 	Fruits exotiques  	Ce fruit du plaqueminier du Japon, de teinte orangée, peut peser plus de 500 grammes. Ses variétés sont classées en quatre types en fonction de la teneur en tanins du fruit, de son astringence et de l'influence de la pollinisation sur cette astringence. Diospyros kaki Ébénacées 	<img src=http://www.quizypedia.fr/site_media/images/411/411811254158.jpeg>			botanimaux quizypedia
-Kiwi 	Fruits exotiques  	Ce fruit climactérique très consommé en dessert, poussant sur une liane originaire de Chine, possède une peau brune et duveteuse et une pulpe verte contenant une centaine de minuscules graines noires comestibles. Actinidia chinensis Actinidiacées 	<img src=http://www.quizypedia.fr/site_media/images/190/190169713392.jpeg>			botanimaux quizypedia
-Litchi 	Fruits exotiques  	Chez ce fruit originaire de Chine, la partie consommée est l'arille juteux qui entoure une graine unique, laquelle par contre est toxique. Les Chinois l'utilisent, une fois séché, pour sucrer le thé. Litchi chinensis Sapindacées 	<img src=http://www.quizypedia.fr/site_media/images/449/449242966920.jpeg>			botanimaux quizypedia
-Mangue 	Fruits exotiques  	Sixième fruit le plus produit au monde, cette drupe ovale originaire des forêts du sous-continent indien possède une chair onctueuse jaune foncé, grasse et sucrée. Elle est généralement consommée nature, en salade de fruits ou en sorbet. Mangifera indica Anacardiacées 	<img src=http://www.quizypedia.fr/site_media/images/932/932582382414.jpeg>			botanimaux quizypedia
-Papaye 	Fruits exotiques  	Cette baie à la pulpe savoureuse, originaire du Mexique, est également utilisée pour son latex recueilli sur les fruits encore verts, servant dans la fabrication de chewing-gum ainsi que d'une protéase proposée en thérapeutique digestive. Carica papaya Caricacées 	<img src=http://www.quizypedia.fr/site_media/images/477/477786974404.jpeg>			botanimaux quizypedia
-Physalis 	Fruits exotiques  	Cette plante originaire d'Amérique fournit une baie protégée par son calice, comestible chez certaines variétés, exquise et hautement décorative, plus connue sous les noms d'amour en cage, coqueret ou lanterne japonaise. Physalis peruviana, Physalis alkekengi Solanacées 	<img src=http://www.quizypedia.fr/site_media/images/987/987890093292.jpeg>			botanimaux quizypedia
-Ramboutan 	Fruits exotiques  	Chez ce fruit également appelé litchi chevelu, la pulpe, dont le goût s'apparente à celui du raisin, est souvent collée au noyau. Ce dernier, également comestible, peut être consommé en même temps ou à part et parfois grillé. Nephelium lappaceum Sapindacées 	<img src=http://www.quizypedia.fr/site_media/images/303/303757292161.jpeg>			botanimaux quizypedia
-Acérola 	Fruits exotiques  	Fruit, du genre Malpighia, aussi appelé cerise de la Barbade ou cerise des Antilles. Il est très riche en vitamine C. Malpighia emarginata Malpighiacées 	<img src=http://www.quizypedia.fr/site_media/images/904/904080038254.jpeg>			botanimaux quizypedia
-Baie de Goji 	Fruits exotiques  	Ce fruit du lyciet se présente sous la forme d'une petite baie orange, allongée, de saveur légèrement sucrée. Souvent commercialisé sous forme séchée ou sous forme de jus, on lui prête en Asie des vertus médicinales exceptionnelles. Lycium barbarum, Lycium chinense Solanacées 	<img src=http://www.quizypedia.fr/site_media/images/324/324114937718.jpeg>			botanimaux quizypedia
-Corossol 	Fruits exotiques  	Ce fruit vert sombre également appelé cachiment, pouvant mesurer jusqu'à 1 m de long et peser jusqu'à 2,5 kg, possède une écorce piquée d'épines et une chair blanche et pulpeuse contenant des graines noires indigestes. Annona muricata Annonacées 	<img src=http://www.quizypedia.fr/site_media/images/344/344727294025.jpeg>			botanimaux quizypedia
-Datte 	Fruits exotiques  	Cette baie charnue et très énergétique provenant de la variété de palmier éponyme se récolte en régime. C'est avec ce fruit du paradis dans la tradition musulmane, que se rompt le jeûne du Ramadan. Phœnix dactylifera Arécacées 	<img src=http://www.quizypedia.fr/site_media/images/961/961945822644.jpeg>			botanimaux quizypedia
-Durian 	Fruits exotiques  	Ce fruit très répandu dans le sud-est de l'Asie se présente comme une grosse baie ovoïde pesant jusqu'à 5 kg recouverte d'une carapace de grosses épines. Son goût délicieux n'a d'égal que son odeur épouvantable lorsqu'il arrive à maturité. Durio zibethinus Bombacacées 	<img src=http://www.quizypedia.fr/site_media/images/940/940142546113.jpeg>			botanimaux quizypedia
-Fruit à pain 	Fruits exotiques  	Ce fruit originaire d'Océanie, appelé uru en tahitien, a été introduit au XVIIIe siècle par William Bligh, capitaine du célèbre Bounty, aux Antilles où il existe une variété nommée châtaignier-pays. Artocarpus altilis Moracées 	"<img src=""http://www.quizypedia.fr/site_media/images/979/979912397921.jpeg"">"			botanimaux quizypedia
-Jacque 	Fruits exotiques  	"Ce ""fruit du pauvre"", proche de l’arbre à pain, est une polydrupe pouvant peser plus de 30 kg. Sa chair peut être consommée crue ou préparée en confiture et ses graines, toxiques crues, sont comestibles grillées ou bouillies. Artocarpus heterophyllus Moracées "	<img src=http://www.quizypedia.fr/site_media/images/511/511569529165.jpeg>			botanimaux quizypedia
-Jujube 	Fruits exotiques  	Ce fruit au noyau dur, lorsqu'il est vert, a le goût et la consistance de la pomme. Une fois mûr, il s’assombrit pour devenir violet-noir et atteindre la consistance et le goût d’une datte, d’où son surnom de datte chinoise. Ziziphus jujuba Rhamnacées 	<img src=http://www.quizypedia.fr/site_media/images/069/069419557316.jpeg>			botanimaux quizypedia
-Kiwano 	Fruits exotiques  	Ce fruit de couleur orange à la peau parsemée d'épines, originaire d'Afrique et du Yémen, est également appelé melon à corne, métulon ou melano. Sa pulpe gluante a un goût rappelant la banane et le kiwi. Cucumis metulifer Cucurbitacées 	<img src=http://www.quizypedia.fr/site_media/images/964/964169263804.jpeg>			botanimaux quizypedia
-Longane 	Fruits exotiques  	"Ce petit fruit proche du litchi, dont l'étymologie en vietnamien signifie ""œil de dragon"", se récolte en grappes d'environ 30 fruits. Il se consomme frais ou en conserve, en jus ou alcool, voire séché ou en infusion. Dimocarpus longan Sapindacées "	<img src=http://www.quizypedia.fr/site_media/images/945/945070434293.jpeg>			botanimaux quizypedia
-Mangoustan 	Fruits exotiques  	"Ce ""fruit des dieux"" violacé et de la taille d'une balle de golf, originaire d'Asie du Sud-Est, renferme une chair blanche à la fois acide et sucrée divisée en quartiers. Il est particulièrement riche en antioxydants naturels. Garcinia mangostana Clusiacées "	<img src=http://www.quizypedia.fr/site_media/images/681/681501723202.jpeg>			botanimaux quizypedia
-Pain de singe 	Fruits exotiques  	Ce fruit oblong du baobab africain, au goût acidulé, est employé dans la fabrication de bonbons, d'une boisson appelée bouye en wolof, ainsi que dans les industries cosmétique et pharmaceutique (traitement du diabète). Adansonia digitata Bombacacées 	<img src=http://www.quizypedia.fr/site_media/images/305/305820240798.jpeg>			botanimaux quizypedia
-Pitaya 	Fruits exotiques  	"Ce ""fruit écailleux"" d'après son étymologie taïno, aussi appelé ""fruit du dragon"", est produit par plusieurs espèces de cactus. Il pèse environ 350 g, et sa chair ressemble par sa texture et la présence de petits pépins noirs à celle du kiwi. Hylocereus undatus Cactacées "	<img src=http://www.quizypedia.fr/site_media/images/086/086165187302.jpeg>			botanimaux quizypedia
-Sapotille 	Fruits exotiques  	Cette baie ressemblant à une pomme ovoïde à la peau brune et crevassée, est dotée d'une chair jaunâtre à brun rougeâtre, succulente à maturité et dont le goût est comparable à celui du caramel. Manilkara zapota Sapotacées 	<img src=http://www.quizypedia.fr/site_media/images/202/202686025230.jpeg>			botanimaux quizypedia
-Abricot des Antilles 	Fruits exotiques  	Fruit de la famille des Clusiacées, du genre Mammea. Il possède une pulpe orange foncé au goût acide. Mammea americana 	<img src=http://www.quizypedia.fr/site_media/images/603/603487729753.jpeg>			botanimaux quizypedia
-Amla 	Fruits exotiques  	"Cette ""groseille indienne"" issue d'un arbre considéré comme sacré au Sri Lanka, à la peau fine et à la pulpe aigre, est préparée en confitures, gélatines et pickles, et une huile est extraite de ses noyaux. Phyllanthus emblica "	<img src=http://www.quizypedia.fr/site_media/images/411/411843345511.jpeg>			botanimaux quizypedia
-Awara 	Fruits exotiques  	"Ce petit fruit de couleur orangée provenant d'un palmier cultivé en Amérique du Sud, est à la base d'un ""bouillon"" traditionnel, sorte de pot-au-feu consommé le lundi de Pâques en Guyane. Astrocaryum vulgare "	<img src=http://www.quizypedia.fr/site_media/images/792/792678519059.jpeg>			botanimaux quizypedia
-Citron caviar 	Fruits exotiques  	Petit agrume, du genre Microcitrus, originaire d'Australie. Il doit son nom imagé aux nombreuses vésicules qu'il présente quand on l'ouvre. Microcitrus australasica 	<img src=http://www.quizypedia.fr/site_media/images/013/013404507386.jpeg>			botanimaux quizypedia
-Icaque 	Fruits exotiques  	Fruit de la famille des Chrysobalanacées aussi appelé prune de coton. La couleur de sa peau varie du rose au violet. Chrysobalanus icaco 	<img src=http://www.quizypedia.fr/site_media/images/113/113912322428.jpeg>			botanimaux quizypedia
-Jambose 	Fruits exotiques  	Fruit de la famille des Myrtacées également appelé jamalac. Il possède une peau rosâtre et une chair blanche très croquante. Syzygium samarangense 	<img src=http://www.quizypedia.fr/site_media/images/814/814865560691.jpeg>			botanimaux quizypedia
-Main de Bouddha 	Fruits exotiques  	Agrume très parfumé, variété de cédrat, originaire d'Asie, qui doit son nom imagé à sa forme. Citrus medica var. sarcodactylis 	<img src=http://www.quizypedia.fr/site_media/images/731/731737116181.jpeg>			botanimaux quizypedia
-Nèfle du Japon 	Fruits exotiques  	Fruit d'une plante aussi appelée bibassier, appartenant à la famille des Rosacées. Il est de forme ovoïde, de couleur jaune-orangé à maturité. Eriobotrya japonica 	<img src=http://www.quizypedia.fr/site_media/images/574/574426281428.jpeg>			botanimaux quizypedia
-Pomme cannelle 	Fruits exotiques  	Fruit du genre Annona, proche du corossol, aussi appelé attier. Il est couvert d'écailles épaisses. Sa chair blanche est très sucrée. Annona squamosa 	<img src=http://www.quizypedia.fr/site_media/images/393/393736975925.jpeg>			botanimaux quizypedia
-Aigle 	Animaux et leurs petits  	Aigle Aiglon 				botanimaux quizypedia
-Anesse 	Animaux et leurs petits  	Ane Anon 				botanimaux quizypedia
-Baleine 	Animaux et leurs petits  	Baleine Baleineau /Baleinon 				botanimaux quizypedia
-Chatte 	Animaux et leurs petits  	Chat Chaton 				botanimaux quizypedia
-Cigogne 	Animaux et leurs petits  	Cigogne Cigogneau 				botanimaux quizypedia
-Eléphante 	Animaux et leurs petits  	Eléphant Eléphanteau 				botanimaux quizypedia
-Girafe 	Animaux et leurs petits  	Girafe Girafon/Girafeau 				botanimaux quizypedia
-Lionne 	Animaux et leurs petits  	Lion Lionceau 				botanimaux quizypedia
-Ourse 	Animaux et leurs petits  	Ours Ourson 				botanimaux quizypedia
-Perdrix 	Animaux et leurs petits  	Perdrix Perdreau 				botanimaux quizypedia
-Pintade 	Animaux et leurs petits  	Pintade Pintadeau 				botanimaux quizypedia
-Rate 	Animaux et leurs petits  	Rat Raton 				botanimaux quizypedia
-Renarde 	Animaux et leurs petits  	Renard Renardeau 				botanimaux quizypedia
-Serpent 	Animaux et leurs petits  	Serpent Serpenteau 				botanimaux quizypedia
-Souris 	Animaux et leurs petits  	Souris Souriceau 				botanimaux quizypedia
-Bufflonne 	Animaux et leurs petits  	Buffle Bufflon/Buffletin 				botanimaux quizypedia
-Cane 	Animaux et leurs petits  	Canard Caneton 				botanimaux quizypedia
-Chienne 	Animaux et leurs petits  	Chien Chiot 				botanimaux quizypedia
-Corbeau ou corbelle 	Animaux et leurs petits  	Corbeau Corbillat 				botanimaux quizypedia
-Daine 	Animaux et leurs petits  	Daim Faon 				botanimaux quizypedia
-Dinde 	Animaux et leurs petits  	Dindon Dindonneau 				botanimaux quizypedia
-Faisane 	Animaux et leurs petits  	Faisan Faisandeau 				botanimaux quizypedia
-Hirondelle 	Animaux et leurs petits  	Hirondelle Hirondeau 				botanimaux quizypedia
-Lapine 	Animaux et leurs petits  	Lapin Lapereau 				botanimaux quizypedia
-Louve 	Animaux et leurs petits  	Loup Louveteau 				botanimaux quizypedia
-Merlette 	Animaux et leurs petits  	Merle Merleau 				botanimaux quizypedia
-Oiselle 	Animaux et leurs petits  	Oiseau Oisillon 				botanimaux quizypedia
-Paonne 	Animaux et leurs petits  	Paon Paonneau 				botanimaux quizypedia
-Pigeonne 	Animaux et leurs petits  	Pigeon Pigeonneau 				botanimaux quizypedia
-Tigresse 	Animaux et leurs petits  	Tigre Tigreau 				botanimaux quizypedia
-Brebis 	Animaux et leurs petits  	Bélier Agneau 				botanimaux quizypedia
-Chèvre 	Animaux et leurs petits  	Bouc Chevreau 				botanimaux quizypedia
-Etagne 	Animaux et leurs petits  	Bouquetin Cabri 				botanimaux quizypedia
-Biche 	Animaux et leurs petits  	Cerf Faon 				botanimaux quizypedia
-Chamelle 	Animaux et leurs petits  	Chameau Chamelon 				botanimaux quizypedia
-Jument 	Animaux et leurs petits  	Cheval Poulain 				botanimaux quizypedia
-Chevrette 	Animaux et leurs petits  	Chevreuil Faon/Chevrotin 				botanimaux quizypedia
-Guenon 	Animaux et leurs petits  	Gorille Gorillon 				botanimaux quizypedia
-Oie 	Animaux et leurs petits  	Jars Oison 				botanimaux quizypedia
-Hase 	Animaux et leurs petits  	Lièvre Levraut 				botanimaux quizypedia
-Moinelle 	Animaux et leurs petits  	Moineau Moineau 				botanimaux quizypedia
-Truie 	Animaux et leurs petits  	Porc/Cochon Porcelet 				botanimaux quizypedia
-Laie 	Animaux et leurs petits  	Sanglier Marcassin 				botanimaux quizypedia
-Vache 	Animaux et leurs petits  	Taureau Veau 				botanimaux quizypedia
-Autruche 	Les oiseaux coureurs  	Grand oiseau du genre Struthio, il peut approcher la vitesse de 80 km/h (un record pour un bipède) et ses œufs sont les plus gros du règne animal actuel. Afrique 	<img src=http://www.quizypedia.fr/site_media/images/988/988534662162.jpeg>			botanimaux quizypedia
-Casoar 	Les oiseaux coureurs  	"Oiseau au plumage majoritairement noir, il se distingue des autres ratites par la proéminence cornée qui forme un ""casque"" au-dessus de sa tête et par son cou coloré. Nouvelle-Guinée et nord-est de l'Australie "	<img src=http://www.quizypedia.fr/site_media/images/411/411768414109.jpeg>			botanimaux quizypedia
-Emeu 	Les oiseaux coureurs  	"Du genre Dromaius, c'est le deuxième plus grand oiseau après l'autruche. Considéré comme nuisible sur l'île où il vit, il fut l'objet d'une ""guerre"" visant à réduire sa population dans les années 1930. Australie "	<img src=http://www.quizypedia.fr/site_media/images/993/993232253497.jpeg>			botanimaux quizypedia
-Kiwi 	Les oiseaux coureurs  	Oiseau coureur de petite taille, du genre Apteryx, il possède des ailes atrophiées et un bec relativement long. Nouvelle-Zélande 	<img src=http://www.quizypedia.fr/site_media/images/851/851051015331.jpeg>			botanimaux quizypedia
-Moa 	Les oiseaux coureurs  	Oiseau disparu, victime de la chasse intensive menée par les Maoris, il était plus grand que l'autruche. Nouvelle-Zélande 	<img src=http://www.quizypedia.fr/site_media/images/954/954722837611.jpeg>			botanimaux quizypedia
-Nandou 	Les oiseaux coureurs  	"Oiseau de la famille des Rheidae, pouvant atteindre la hauteur d'1m40 grâce à son cou particulièrement long, l'une de ses espèces est dite ""de Darwin"". Amérique du Sud "	<img src=http://www.quizypedia.fr/site_media/images/140/140901307506.jpeg>			botanimaux quizypedia
-Anthurium 	Plantes ornementales 	Cette plante de la même famille que les arums, originaire des forêts tropicales humides d'Amérique centrale et d'Amérique du Sud, est une plante dépolluante extrêmement efficace pour éliminer l'ammoniac. Anthurium x Aracées 	<img src=http://www.quizypedia.fr/site_media/images/605/605917553626.jpeg>			botanimaux quizypedia
-Bégonia 	Plantes ornementales 	Cette tubéreuse originaire des Antilles a été baptisée au XVIIe siècle par le père Charles Plumier en hommage au gouverneur de Saint-Domingue, devenu intendant de la Marine à Rochefort, où se trouve le conservatoire de cette plante. Begonia x Bégoniacées 	<img src=http://www.quizypedia.fr/site_media/images/238/238751079135.jpeg>			botanimaux quizypedia
-Camélia 	Plantes ornementales 	Cette plante originaire d'Asie, baptisée par Linné en l'honneur d'un frère jésuite, a été rendue célèbre par un roman d'Alexandre Dumas fils. Elle symbolise la longévité, la fidélité et le bonheur dans le langage des fleurs. Camellia x Théacées 	<img src=http://www.quizypedia.fr/site_media/images/894/894750268764.jpeg>			botanimaux quizypedia
-Chrysanthème 	Plantes ornementales 	"Cette ""fleur d'or"" traditionnellement associée au fleurissement des tombes lors du jour des défunts depuis l'armistice de 1918, est un symbole d'immortalité en Orient, devenu insigne officiel des empereurs japonais depuis la restauration Meiji. Chrysanthemum x Astéracées "	<img src=http://www.quizypedia.fr/site_media/images/794/794939032756.jpeg>			botanimaux quizypedia
-Dahlia 	Plantes ornementales 	Cette plante originaire d'Amérique centrale, baptisée en l'honneur d'un botaniste suédois et chère à James Ellroy, a été introduite en France en 1802 pour son tubercule utilisé comme féculent, avant de s'imposer pour ses qualités ornementales. Dahlia x Astéracées 	<img src=http://www.quizypedia.fr/site_media/images/583/583362304825.jpeg>			botanimaux quizypedia
-Fuchsia 	Plantes ornementales 	Cet arbrisseau aux fleurs pendantes très décoratives, originaire d'Amérique latine, a été baptisé par le botaniste Charles Plumier en l'honneur d'un botaniste allemand. Son espèce néo-zélandaise peut atteindre 15 m de haut. Fuchsia x Onagracées 	<img src=http://www.quizypedia.fr/site_media/images/013/013255981901.jpeg>			botanimaux quizypedia
-Géranium 	Plantes ornementales 	"Cette plante des régions tempérées doit être distinguée de sa variété originaire d'Afrique australe dite ""des fleuristes"", issue du genre Pelargonium et très utilisée pour l'ornement des balcons. Geranium x, Pelargonium x Géraniacées "	<img src=http://www.quizypedia.fr/site_media/images/347/347851277710.jpeg>			botanimaux quizypedia
-Glaïeul 	Plantes ornementales 	"La plupart des espèces de cette plante proche de l'iris, dont le nom est une déformation du latin signifiant ""glaive"" en raison des ses feuilles lancéolées, sont originaires d'Afrique du Sud. Gladiolus x Iridacées "	<img src=http://www.quizypedia.fr/site_media/images/611/611536501466.jpeg>			botanimaux quizypedia
-Hibiscus 	Plantes ornementales 	"Cette plante dont le nom est dérivé du grec signifiant ""guimauve"", cultivée depuis l'Antiquité pour ses fruits comestibles et ses propriétés médicinales, est la fleur nationale de la Corée du Sud et de la Malaisie. Hibiscus x Malvacées "	<img src=http://www.quizypedia.fr/site_media/images/459/459534703721.jpeg>			botanimaux quizypedia
-Hortensia 	Plantes ornementales 	"Cette plante appartenant à une famille au nom signifiant étymologiquement ""vase d'eau"" en référence à ses capsules en forme de coupe, a été baptisée par le botaniste Philibert Commerson du prénom d'une dame dont on n'est pas sûr de l'identité. Hydrangea macrophylla Hydrangéacées "	<img src=http://www.quizypedia.fr/site_media/images/818/818529142437.jpeg>			botanimaux quizypedia
-Laurier-rose 	Plantes ornementales 	Cette plante méditerranéenne, très toxique en raison de la présence d'hétérosides dont l'oléandrine qui lui vaut son autre nom d'oléandre, apprécie les situations ensoleillées où s'épanouissent ses fleurs semblables à des roses. Nerium oleander Apocynacées 	<img src=http://www.quizypedia.fr/site_media/images/990/990330349340.jpeg>			botanimaux quizypedia
-Magnolia 	Plantes ornementales 	Cette plante dont on a recensé des spécimens fossilisés datant de 95 millions d'années, a été baptisée en l'honneur d'un médecin et botaniste français, et mise à l'honneur dans une célèbre chanson de Claude François. Magnolia x Magnoliacées 	<img src=http://www.quizypedia.fr/site_media/images/824/824260935739.jpeg>			botanimaux quizypedia
-Pétunia 	Plantes ornementales 	"Cette plante à l'étymologie tupi-guarani signifiant ""tabac"" en raison de son utilisation primitive, fut baptisée par Antoine-Laurent de Jussieu suite à sa découverte par Philibert Commerson en Uruguay à la fin du XVIIIe siècle. Petunia x Solanacées "	<img src=http://www.quizypedia.fr/site_media/images/212/212167303004.jpeg>			botanimaux quizypedia
-Phalaenopsis 	Plantes ornementales 	"On ne compte plus les milliers d'hybrides de cette espèce d'orchidée, la plus cultivée au monde, dont l'étymologie puise ses racines dans le grec ancien signifiant ""qui a l’aspect d’un papillon de nuit"". Phalaenopsis x Orchidacées "	<img src=http://www.quizypedia.fr/site_media/images/465/465096778429.jpeg>			botanimaux quizypedia
-Pivoine 	Plantes ornementales 	Baptisée pour ses vertus médicinales du nom d'un ancien dieu guérisseur grec, Péon, cette plante à racines tubéreuses originaire d'Europe et d’Extrême-Orient se décline en variétés herbacées et arbustives. Paeonia x Paeoniacées 	<img src=http://www.quizypedia.fr/site_media/images/585/585405869911.jpeg>			botanimaux quizypedia
-Rose trémière 	Plantes ornementales 	"Également appelée passerose ou rose papale, cette plante bisannuelle pouvant atteindre plus de 4 m de haut aurait été rapportée de Chine ou du Levant lors des croisades, son nom actuel étant la déformation de ""rose d'outre-mer"". Alcea rosea Malvacées "	<img src=http://www.quizypedia.fr/site_media/images/415/415016416073.jpeg>			botanimaux quizypedia
-Bréchet 	Vocabulaire du monde animal : anatomie des oiseaux 	Os de la cage thoracique auquel sont rattachés les muscles des ailes. Les oiseaux inaptes au vol en sont dépourvus. 				botanimaux quizypedia
-Caroncule 	Vocabulaire du monde animal : anatomie des oiseaux 	Excroissance de chair située près du bec de certains oiseaux. 				botanimaux quizypedia
-Crête 	Vocabulaire du monde animal : anatomie des oiseaux 	Excroissance de chair située sur la tête de certains oiseaux. 				botanimaux quizypedia
-Ergot 	Vocabulaire du monde animal : anatomie des oiseaux 	Excroissance cornée située sur les pattes de certains oiseaux. 				botanimaux quizypedia
-Gésier 	Vocabulaire du monde animal : anatomie des oiseaux 	Poche gastrique des oiseaux servant à broyer les aliments. 				botanimaux quizypedia
-Glande uropygienne 	Vocabulaire du monde animal : anatomie des oiseaux 	Organe situé près du croupion. Il sécrète une substance que les oiseaux utilisent pour entretenir leur plumage. 				botanimaux quizypedia
-Lore 	Vocabulaire du monde animal : anatomie des oiseaux 	Espace compris entre la partie antérieure de l'œil et les narines. 				botanimaux quizypedia
-Penne 	Vocabulaire du monde animal : anatomie des oiseaux 	Plume rigide et longue également appelée plume de couverture. 				botanimaux quizypedia
-Pépie 	Vocabulaire du monde animal : anatomie des oiseaux 	Pellicule qui recouvre la langue de certains oiseaux. 				botanimaux quizypedia
-Rectrices 	Vocabulaire du monde animal : anatomie des oiseaux 	Pennes de la queue des oiseaux. Elles servent à diriger le vol et à freiner. 				botanimaux quizypedia
-Rémiges 	Vocabulaire du monde animal : anatomie des oiseaux 	Pennes des ailes des oiseaux. Selon leur niveau de couverture, elles peuvent être primaires, secondaires ou tertiaires. 				botanimaux quizypedia
-Serre 	Vocabulaire du monde animal : anatomie des oiseaux 	Griffe des oiseaux rapaces. 				botanimaux quizypedia
-Syrinx 	Vocabulaire du monde animal : anatomie des oiseaux 	Organe permettant aux oiseaux d'émettre des vocalises et de chanter. Il se situe entre la trachée et les bronches. 				botanimaux quizypedia
-Tectrices 	Vocabulaire du monde animal : anatomie des oiseaux 	Plumes courtes et délicates qui couvrent le corps, la base des ailes et la base de la queue des oiseaux. Elles peuvent être grandes, moyennes ou petites. 				botanimaux quizypedia
-Amanite tue-mouches 	Espèces de champignons  	Ce champignon toxique, de l'ordre des Agaricales, est reconnaissable à son chapeau rouge parsemé de points blanchâtres. Il est aussi appelé fausse oronge. 	<img src=https://www.quizypedia.fr/site_media/images/813/813463736298.jpeg>			botanimaux quizypedia
-Bolet satan 	Espèces de champignons  	"Ce gros champignon toxique, proche de l'espèce dite ""à pied rouge"", présente généralement un pied rouge vif à violet clair. Il présente un chapeau blanchâtre. "	<img src=https://www.quizypedia.fr/site_media/images/171/171536156859.jpeg>			botanimaux quizypedia
-Cèpe comestible 	Espèces de champignons  	"Ce champignon, du genre Boletus, est très apprécié en cuisine. Il présente un chapeau généralement brun. Il est également dit ""de Bordeaux"". "	<img src=https://www.quizypedia.fr/site_media/images/300/300597335685.jpeg>			botanimaux quizypedia
-Coprin chevelu 	Espèces de champignons  	"Ce champignon comestible, de la famille des Agaricacées, présente généralement un chapeau blanchâtre de forme cylindrique couvert de cuticule. Il appartient au même genre que le ""noir d'encre"". "	<img src=https://www.quizypedia.fr/site_media/images/106/106522394585.jpeg>			botanimaux quizypedia
-Coulemelle 	Espèces de champignons  	Ce champignon comestible, du genre Macrolepiota, est également appelé lépiote élevée. Il est reconnaissable à son long pied et à son chapeau en forme de parasol. 	<img src=https://www.quizypedia.fr/site_media/images/682/682392698154.jpeg>			botanimaux quizypedia
-Mérule des maisons 	Espèces de champignons  	"Ce champignon, du genre Serpula, se nourrit de bois humide. Il est surnommé ""cancer du bâtiment"". "	<img src=https://www.quizypedia.fr/site_media/images/283/283809026233.jpeg>			botanimaux quizypedia
-Morille 	Espèces de champignons  	Ce champignon comestible, de l'ordre des Pézizales, est reconnaissable à son chapeau alvéolé. Il appartient au genre Morchella. 	<img src=https://www.quizypedia.fr/site_media/images/706/706552155816.jpeg>			botanimaux quizypedia
-Pied-de-mouton 	Espèces de champignons  	Ce champignon comestible, du genre Hydnum, est également appelé barbe-de-vache ou langue-de-chat. Il peut être confondu avec l'hydne roussissant. 	<img src=https://www.quizypedia.fr/site_media/images/224/224644712239.jpeg>			botanimaux quizypedia
-Pleurote 	Espèces de champignons  	"Ce genre de champignons appartient à l'ordre des Agaricales. Ces champignons se fixent souvent sur le tronc ou sur les branches de certains feuillus. Il en existe plusieurs espèces comme le ""pulmonaire"" ou le ""voilé"". "	<img src=https://www.quizypedia.fr/site_media/images/184/184754147789.jpeg>			botanimaux quizypedia
-Vesse-de-loup 	Espèces de champignons  	Ce nom vernaculaire est commun à plusieurs espèces de champignons appartenant principalement au genre Lycoperdon et possédant généralement une peau blanchâtre. 	<img src=https://www.quizypedia.fr/site_media/images/386/386075623762.jpeg>			botanimaux quizypedia
-Bousier 	Les coléoptères  	Nom désignant plusieurs coléoptères coprophages généralement capables de fabriquer des boules de bouse qu'ils font rouler avec leurs pattes 	<img src=http://www.quizypedia.fr/site_media/images/271/271273119218.jpeg>			botanimaux quizypedia
-Capricorne 	Les coléoptères  	Nom plus commun de la famille des Cerambycidae, aussi surnommée longicornes , se nourrissent de bois et doivent leur nom à leurs grandes antennes, parfois plus longues que leur corps 	<img src=http://www.quizypedia.fr/site_media/images/101/101271340357.jpeg>			botanimaux quizypedia
-Carabe doré 	Les coléoptères  	Coléoptère souvent carnivore nommé d'après sa couleur et aussi surnommé jardinière, en raison de son rôle positif contre les mauvaises herbes 	<img src=http://www.quizypedia.fr/site_media/images/071/071103624513.jpeg>			botanimaux quizypedia
-Charançon 	Les coléoptères  	Insecte ravageur dont chaque espèce s'attaque plus spécialement à un type de culture ou de végétation , aussi appelé balanin 	<img src=http://www.quizypedia.fr/site_media/images/138/138549280449.jpeg>			botanimaux quizypedia
-Coccinelle 	Les coléoptères  	Aussi surnommée bête à bon Dieu, l'espèce la plus commune de cet insecte est rouge avec sept points noirs , se nourrit notamment de pucerons 	<img src=http://www.quizypedia.fr/site_media/images/963/963634393661.jpeg>			botanimaux quizypedia
-Doryphore 	Les coléoptères  	Coléoptère aux élytres jaunes rayées de noir , amateur des solanacées pouvant en particulier grandement nuire à la culture de pommes de terre 	<img src=http://www.quizypedia.fr/site_media/images/974/974353368043.jpeg>			botanimaux quizypedia
-Hanneton 	Les coléoptères  	"Gros insecte brunâtre se nourrissant de feuilles à l'état adulte et de racines à l'état larvaire, et donc nuisible à l'agriculture. Ses larves sont appelées ""vers blancs"". "	<img src=http://www.quizypedia.fr/site_media/images/034/034801225473.jpeg>			botanimaux quizypedia
-Lampyre 	Les coléoptères  	Aussi surnommé ver luisant bien que ce ne soit pas un ver , les femelles, dénuées d'ailes, peuvent produire de la lumière avec la partie terminale de leur abdomen 	<img src=http://www.quizypedia.fr/site_media/images/540/540046532152.jpeg>			botanimaux quizypedia
-Lucane 	Les coléoptères  	Gros coléoptère dont les mâles ont de grandes cornes évoquant les bois d'un cerf , aussi surnommé cerf-volant 	<img src=http://www.quizypedia.fr/site_media/images/214/214436666509.jpeg>			botanimaux quizypedia
-Luciole 	Les coléoptères  	Coléoptère dont les mâles et les femelles possèdent des ailes et peuvent produire de la lumière 	<img src=http://www.quizypedia.fr/site_media/images/622/622196912612.jpeg>			botanimaux quizypedia
-Scarabée 	Les coléoptères  	"Terme désignant de nombreuses espèces, certaines étant communes en Europe , dans l'Égypte antique, son espèce dite ""sacrée"" était un animal vénéré "				botanimaux quizypedia
-Absinthe 	Plantes de la famille des Astéracées  	"Cette plante, du genre Artemisia, présente de petites fleurs jaunes. Elle est utilisée pour la production d'une boisson surnommée ""la fée verte"". Artemisia absinthium "	<img src=https://www.quizypedia.fr/site_media/images/236/236853463377.jpeg>			botanimaux quizypedia
-Artichaut 	Plantes de la famille des Astéracées  	"Cette plante, du genre Cynara, est très proche du cardon cultivé. Elle fournit un fruit pouvant être préparé ""à la barigoule"". Cynara cardunculus var. scolymus "	<img src=https://www.quizypedia.fr/site_media/images/596/596042286935.jpeg>			botanimaux quizypedia
-Bardane officinale 	Plantes de la famille des Astéracées  	Cette plante, du genre Arctium, présente des bractées violettes pourvues de petits crochets. Elle est à l'origine de l'invention du Velcro. Arctium lappa 	<img src=https://www.quizypedia.fr/site_media/images/499/499206789440.jpeg>			botanimaux quizypedia
-Camomille romaine 	Plantes de la famille des Astéracées  	Cette plante, du genre Chamaemelum, présente des pétales blancs. Elle est très utilisée en tisane. Chamaemelum nobile 	<img src=https://www.quizypedia.fr/site_media/images/185/185164644200.jpeg>			botanimaux quizypedia
-Cardon 	Plantes de la famille des Astéracées  	Légume ancien proche de l'artichaut dont on consomme les parties charnues. Cynara cardunculus var. altilis 	<img src=https://www.quizypedia.fr/site_media/images/502/502223859694.jpeg>			botanimaux quizypedia
-Chicorée sauvage 	Plantes de la famille des Astéracées  	Cette plante, aussi appelée barbe-de-capucin, présente des fleurs bleu clair. Il en existe plusieurs sous-espèces dont l'endive ou la puntarelle. Cichorium intybus 	<img src=https://www.quizypedia.fr/site_media/images/556/556632116329.jpeg>			botanimaux quizypedia
-Génépi noir 	Plantes de la famille des Astéracées  	Cette plante, du genre Artemisia, présente des écailles noires sur ses sépales. Elle entre dans la composition d'une célèbre liqueur. Artemisia genipi 	<img src=https://www.quizypedia.fr/site_media/images/882/882351399877.jpeg>			botanimaux quizypedia
-Laitue 	Plantes de la famille des Astéracées  	"Cette plante, du genre Lactuca, peut être des variétés ""Batavia"" ou ""romaine"". Elle est parfois appelée tout simplement salade. Lactuca sativa "	<img src=https://www.quizypedia.fr/site_media/images/807/807823456759.jpeg>			botanimaux quizypedia
-Salsifis cultivé 	Plantes de la famille des Astéracées  	Cette plante, du genre Tragopogon, est très proche de la scorsonère. Ses feuilles et ses racines peuvent être consommées en salade. Tragopogon porrifolius 	<img src=https://www.quizypedia.fr/site_media/images/978/978821617318.jpeg>			botanimaux quizypedia
-Topinambour 	Plantes de la famille des Astéracées  	Cette plante, du genre Helianthus, est aussi appelée artichaut de Jérusalem. Elle produit des tubercules comestibles. Helianthus tuberosus 	<img src=https://www.quizypedia.fr/site_media/images/424/424170307773.jpeg>			botanimaux quizypedia
-Tournesol 	Plantes de la famille des Astéracées  	Cette plante, du genre Helianthus, est utilisée pour la production d'une huile alimentaire. Elle est sujette à l'héliotropisme. Helianthus annuus 	<img src=https://www.quizypedia.fr/site_media/images/798/798416230531.jpeg>			botanimaux quizypedia
-Ablette 	Poissons d'eau douce  	Ce poisson est reconnaissable à ses écailles blanc argenté. Il est également appelé alburne. Alburnus alburnus 	<img src=http://www.quizypedia.fr/site_media/images/023/023164633633.jpeg>			botanimaux quizypedia
-Anguille européenne 	Poissons d'eau douce  	Ce poisson serpentiforme vit en eau douce mais se reproduit uniquement dans la mer des Sargasses. Son alevin est appelé pibale ou civelle. Anguilla anguilla 	<img src=http://www.quizypedia.fr/site_media/images/571/571945069853.jpeg>			botanimaux quizypedia
-Brochet 	Poissons d'eau douce  	"Ce poisson, du genre Esox, est élevé par un ésociculteur. Il possède plus de 500 dents très acérées. Il est surnommé ""bec-de-canard"" en raison de la forme de son museau. Esox lucius "	<img src=http://www.quizypedia.fr/site_media/images/247/247494568149.jpeg>			botanimaux quizypedia
-Carpe commune 	Poissons d'eau douce  	"Ce poisson, du genre Cyprinus, présente des écailles brunâtres à reflets argentés. Il en existe plusieurs formes domestiquées comme la ""koï"" ou la ""miroir"". Cyprinus carpio "	<img src=http://www.quizypedia.fr/site_media/images/230/230635010169.jpeg>			botanimaux quizypedia
-Esturgeon d'Europe 	Poissons d'eau douce  	Ce poisson, du genre Acipenser, est aujourd'hui très menacé. Il peut dépasser trois mètres de longueur. Ses œufs sont utilisés pour la production de caviar. Acipenser sturio 	<img src=http://www.quizypedia.fr/site_media/images/455/455957881770.jpeg>			botanimaux quizypedia
-Gardon 	Poissons d'eau douce  	"Ce poisson, du genre Rutilus, est reconnaissable à ses nageoires rouges. Dans une célèbre expression populaire, on l'associe à quelqu'un de ""frais"". Rutilus rutilus "	<img src=http://www.quizypedia.fr/site_media/images/557/557614149190.jpeg>			botanimaux quizypedia
-Perche commune 	Poissons d'eau douce  	Ce poisson carnassier appartient au genre Perca. Il présente des écailles grisâtres. Il est reconnaissable aux bandes noires qui traversent ses flancs. Perca fluviatilis 	<img src=http://www.quizypedia.fr/site_media/images/883/883549982060.jpeg>			botanimaux quizypedia
-Tanche 	Poissons d'eau douce  	Ce poisson, du genre Tinca, appartient à la famille des Cyprinidés. Il présente une peau jaune-verdâtre et des yeux rouge orangé. Tinca tinca 	<img src=http://www.quizypedia.fr/site_media/images/666/666529999871.jpeg>			botanimaux quizypedia
-Truite commune 	Poissons d'eau douce  	Ce poisson, du genre Salmo, est proche du saumon. Il présente une peau gris-verdâtre couverte de points noirs. Salmo trutta 	<img src=http://www.quizypedia.fr/site_media/images/246/246888483717.jpeg>			botanimaux quizypedia
-Chanter 	Cris de mammifères sauvages  	Baleine 				botanimaux quizypedia
-Blatérer 	Cris de mammifères sauvages  	Chameau 				botanimaux quizypedia
-Grincer 	Cris de mammifères sauvages  	Chauve-souris 				botanimaux quizypedia
-Siffler 	Cris de mammifères sauvages  	Dauphin 				botanimaux quizypedia
-Hennir 	Cris de mammifères sauvages  	Lama 				botanimaux quizypedia
-Couiner, vagir 	Cris de mammifères sauvages  	Lièvre 				botanimaux quizypedia
-Hurler, grogner 	Cris de mammifères sauvages  	Loup 				botanimaux quizypedia
-Grogner, rugir, bêler 	Cris de mammifères sauvages  	Otarie 				botanimaux quizypedia
-Grogner, gronder, grommeler 	Cris de mammifères sauvages  	Ours 				botanimaux quizypedia
-Glapir, japper, trompeter 	Cris de mammifères sauvages  	Renard 				botanimaux quizypedia
-Belotter 	Cris de mammifères sauvages  	Belette 				botanimaux quizypedia
-Japper, hurler, aboyer, glapir 	Cris de mammifères sauvages  	Coyote 				botanimaux quizypedia
-Crier, hurler 	Cris de mammifères sauvages  	Gorille 				botanimaux quizypedia
-Siffler 	Cris de mammifères sauvages  	Marmotte 				botanimaux quizypedia
-Chanter 	Cris de mammifères sauvages  	Orque 				botanimaux quizypedia
-Bêler, grogner, rugir 	Cris de mammifères sauvages  	Phoque 				botanimaux quizypedia
-Grommeler, grogner 	Cris de mammifères sauvages  	Sanglier 				botanimaux quizypedia
-Feuler, miauler, râler, rauquer 	Cris de mammifères sauvages  	Tigre 				botanimaux quizypedia
-Aneth 	Plantes aromatiques  	"Plante de la famille des Apiacées, au goût d'anis, qui accompagne les sauces, marinades et poissons. On l'appelle aussi ""faux anis"" ou ""fenouil bâtard"". Anethum graveolens "	<img src=http://www.quizypedia.fr/site_media/images/997/997236172013.jpeg>			botanimaux quizypedia
-Ciboulette 	Plantes aromatiques  	Plante de la famille des Amaryllidacées qui se développe en petites touffes denses. On l'utilise pour accompagner les salades, les omelettes, les crudités ou le fromage blanc. Allium schoenoprasum 	<img src=http://www.quizypedia.fr/site_media/images/915/915327999953.jpeg>			botanimaux quizypedia
-Estragon 	Plantes aromatiques  	"Plante vivace semi-persistante de la famille des Astéracées originaire d'Asie centrale. On utilise ses feuilles fraîches pour parfumer les salades, les poissons, les omelettes, les sauces. On l'appelle aussi ""herbe dragon"". Artemisia dracunculus "	<img src=http://www.quizypedia.fr/site_media/images/149/149852804479.jpeg>			botanimaux quizypedia
-Menthe 	Plantes aromatiques  	Genre de plantes vivaces herbacées de la famille des Lamiacées. On trouve toutes sortes de parfums dans ses nombreuses variétés. On l'utilise notamment dans le taboulé. Mentha 	<img src=http://www.quizypedia.fr/site_media/images/329/329639311093.jpeg>			botanimaux quizypedia
-Origan 	Plantes aromatiques  	"Plante herbacée vivace de la famille des Lamiacées utilisée notamment dans la cuisine italienne, par exemple dans les pizzas. On l'appelle aussi ""marjolaine bâtarde"". Origanum vulgare "	<img src=http://www.quizypedia.fr/site_media/images/734/734965603083.jpeg>			botanimaux quizypedia
-Persil 	Plantes aromatiques  	Espèce de plante herbacée de la famille des Apiacées et du genre Petroselinum. On l'utilise dans les crudités, avec des pommes de terre ou de la viande de bœuf. Petroselinum crispum 	<img src=http://www.quizypedia.fr/site_media/images/844/844897424585.jpeg>			botanimaux quizypedia
-Romarin 	Plantes aromatiques  	Arbrisseau de la famille des Lamiacées, poussant à l’état sauvage sur le pourtour méditerranéen. On l'utilise pour aromatiser les viandes, les poissons, les gratins de légumes, les fromages de chèvre. Rosmarinus officinalis 	<img src=http://www.quizypedia.fr/site_media/images/608/608573143241.jpeg>			botanimaux quizypedia
-Thym 	Plantes aromatiques  	Plante de la famille des Lamiacées qui constitue un ingrédient essentiel dans les tisanes et les fumigations. On l'appelle farigoule dans le sud de la France. Thymus 	<img src=http://www.quizypedia.fr/site_media/images/753/753516204218.jpeg>			botanimaux quizypedia
-Cerfeuil 	Plantes aromatiques  	Plante herbacée de la famille des Apiacées, probablement originaire de Russie, cultivée comme plante condimentaire pour ses feuilles au goût légèrement anisé. Visuellement proche du persil. Anthriscus cerefolium 	<img src=http://www.quizypedia.fr/site_media/images/273/273922611509.jpeg>			botanimaux quizypedia
-Citronnelle 	Plantes aromatiques  	Aussi appelée verveine des Indes ou lemon-grass, c'est une plante herbacée tropicale de la famille des Poacées cultivée pour ses tiges et feuilles. C'est un ingrédient traditionnel de la cuisine du Sud-Est asiatique. Cymbopogon citratus 	<img src=http://www.quizypedia.fr/site_media/images/121/121503710469.jpeg>			botanimaux quizypedia
-Coriandre 	Plantes aromatiques  	"Plante herbacée de la famille des Apiacées. Également appelée ""persil arabe"", elle est utilisée dans des currys verts et dans la chorba algérienne. Coriandrum sativum "	<img src=http://www.quizypedia.fr/site_media/images/270/270923596716.jpeg>			botanimaux quizypedia
-Fenouil commun 	Plantes aromatiques  	Généralement vivace, parfois bisannuelle, cette plante est cultivée pour le renflement bulbeux et charnu de ses feuilles utilisées en alimentation pour accompagner les poissons et fabriquer l'absinthe et le pastis. Foeniculum vulgare 	<img src=http://www.quizypedia.fr/site_media/images/153/153448218239.jpeg>			botanimaux quizypedia
-Gingembre 	Plantes aromatiques  	Espèce de plantes originaire d'Inde, de la famille des Zingiberacées dont on utilise le rhizome en cuisine et en médecine traditionnelle. Ce rhizome est une épice employée dans la cuisine asiatique, et en particulier dans la cuisine indienne. Zingiber officinale 	<img src=http://www.quizypedia.fr/site_media/images/883/883253917003.jpeg>			botanimaux quizypedia
-Mélisse 	Plantes aromatiques  	"Plante herbacée vivace de la famille des Lamiacées. On l'appelle aussi ""citronnelle"", à ne pas confondre avec la citronnelle utilisée en cuisine asiatique. Melissa officinalis "	<img src=http://www.quizypedia.fr/site_media/images/706/706269029380.jpeg>			botanimaux quizypedia
-Sarriette 	Plantes aromatiques  	Genre de plantes à fleurs de la famille des Lamiacées, que l'on trouve sur les bords des chemins méditerranéens. Elles sont parfois appelées pèbre d'ai, pèbre d'ase ou poivrette. Elles relèvent les grillades, les sauces et les légumes. Satureja 	<img src=http://www.quizypedia.fr/site_media/images/242/242876723291.jpeg>			botanimaux quizypedia
-Sauge officinale 	Plantes aromatiques  	Sous-arbrisseau de la famille des Lamiacées, souvent cultivé dans les jardins comme plante condimentaire et officinale. On l'appelle aussi herbe sacrée ou thé d'Europe. On l'utilise dans les marinades et pour assaisonner le gibier. Salvia officinalis 	<img src=http://www.quizypedia.fr/site_media/images/160/160833392239.jpeg>			botanimaux quizypedia
-Astérie 	Surnoms d'animaux marins  	Étoile de mer 	<img src=http://www.quizypedia.fr/site_media/images/285/285541865870.jpeg>			botanimaux quizypedia
-Baudroie 	Surnoms d'animaux marins  	Crapaud de mer 	<img src=http://www.quizypedia.fr/site_media/images/841/841491973756.jpeg>			botanimaux quizypedia
-Cormoran 	Surnoms d'animaux marins  	Corbeau de mer 	<img src=http://www.quizypedia.fr/site_media/images/282/282342553496.jpeg>			botanimaux quizypedia
-Jorunna 	Surnoms d'animaux marins  	Lapin de mer 	<img src=http://www.quizypedia.fr/site_media/images/305/305871627884.jpeg>			botanimaux quizypedia
-Lamantin 	Surnoms d'animaux marins  	Vache de mer 	<img src=http://www.quizypedia.fr/site_media/images/150/150835065281.jpeg>			botanimaux quizypedia
-Narval 	Surnoms d'animaux marins  	Licorne de mer 	<img src=http://www.quizypedia.fr/site_media/images/478/478072667261.jpeg>			botanimaux quizypedia
-Otarie à crinière 	Surnoms d'animaux marins  	Lion de mer 	<img src=http://www.quizypedia.fr/site_media/images/765/765735127404.jpeg>			botanimaux quizypedia
-Oursin 	Surnoms d'animaux marins  	Hérisson de mer 	<img src=http://www.quizypedia.fr/site_media/images/488/488188203793.jpeg>			botanimaux quizypedia
-Petite roussette 	Surnoms d'animaux marins  	Chat de mer 	<img src=http://www.quizypedia.fr/site_media/images/000/000074984649.jpeg>			botanimaux quizypedia
-Sterne 	Surnoms d'animaux marins  	Hirondelle de mer 	<img src=http://www.quizypedia.fr/site_media/images/680/680327736297.jpeg>			botanimaux quizypedia
-Turbot 	Surnoms d'animaux marins  	Faisan de mer 	<img src=http://www.quizypedia.fr/site_media/images/895/895235474382.jpeg>			botanimaux quizypedia
-Actinie 	Surnoms d'animaux marins  	Anémone de mer 	<img src=http://www.quizypedia.fr/site_media/images/264/264255691281.jpeg>			botanimaux quizypedia
-Bar 	Surnoms d'animaux marins  	Loup de mer 	<img src=http://www.quizypedia.fr/site_media/images/307/307723275240.jpeg>			botanimaux quizypedia
-Bigorneau 	Surnoms d'animaux marins  	Escargot de mer 	<img src=http://www.quizypedia.fr/site_media/images/976/976620225206.jpeg>			botanimaux quizypedia
-Coquille Saint-Jacques 	Surnoms d'animaux marins  	Amande de mer 	<img src=http://www.quizypedia.fr/site_media/images/437/437586436847.jpeg>			botanimaux quizypedia
-Crabe maja 	Surnoms d'animaux marins  	Araignée de mer 	<img src=http://www.quizypedia.fr/site_media/images/013/013738221864.jpeg>			botanimaux quizypedia
-Émissole 	Surnoms d'animaux marins  	Chien de mer 	<img src=http://www.quizypedia.fr/site_media/images/535/535979848953.jpeg>			botanimaux quizypedia
-Gonelle 	Surnoms d'animaux marins  	Papillon de mer 	<img src=http://www.quizypedia.fr/site_media/images/086/086589179752.jpeg>			botanimaux quizypedia
-Holothurie 	Surnoms d'animaux marins  	Concombre de mer 	<img src=http://www.quizypedia.fr/site_media/images/843/843426453196.jpeg>			botanimaux quizypedia
-Macareux 	Surnoms d'animaux marins  	Perroquet de mer 	<img src=http://www.quizypedia.fr/site_media/images/292/292997626186.jpeg>			botanimaux quizypedia
-Marsouin 	Surnoms d'animaux marins  	Cochon de mer 	<img src=http://www.quizypedia.fr/site_media/images/797/797887758367.jpeg>			botanimaux quizypedia
-Pygargue 	Surnoms d'animaux marins  	Aigle de mer 	<img src=http://www.quizypedia.fr/site_media/images/079/079005686823.jpeg>			botanimaux quizypedia
-Requin taupe 	Surnoms d'animaux marins  	Veau de mer 	<img src=http://www.quizypedia.fr/site_media/images/892/892171829054.jpeg>			botanimaux quizypedia
-Talitre 	Surnoms d'animaux marins  	Puce de mer 	<img src=http://www.quizypedia.fr/site_media/images/532/532127371051.jpeg>			botanimaux quizypedia
-Biche 	Femelles d'animaux 	Cerf 				botanimaux quizypedia
-Blairelle 	Femelles d'animaux 	Blaireau 				botanimaux quizypedia
-Brebis 	Femelles d'animaux 	Bélier 				botanimaux quizypedia
-Chèvre 	Femelles d'animaux 	Bouc 				botanimaux quizypedia
-Dri 	Femelles d'animaux 	Yack 				botanimaux quizypedia
-Étagne 	Femelles d'animaux 	Bouquetin 				botanimaux quizypedia
-Guenon 	Femelles d'animaux 	Singe 				botanimaux quizypedia
-Hase 	Femelles d'animaux 	Lièvre 				botanimaux quizypedia
-Jument 	Femelles d'animaux 	Cheval 				botanimaux quizypedia
-Laie 	Femelles d'animaux 	Sanglier 				botanimaux quizypedia
-Levrette 	Femelles d'animaux 	Lévrier 				botanimaux quizypedia
-Maroufle 	Femelles d'animaux 	Gnou 				botanimaux quizypedia
-Truie 	Femelles d'animaux 	Verrat 				botanimaux quizypedia
-Alpaga 	Espèces de camélidés 	Cousin du lama, il est élevé dans les Andes depuis au moins 2000 ans. Ce camélidé domestique est élevé pour sa toison. 	<img src=http://www.quizypedia.fr/site_media/images/438/438163471834.jpeg>			botanimaux quizypedia
-Chameau de Bactriane 	Espèces de camélidés 	Camélidé à deux bosses prédominant dans les steppes et les régions semi-désertiques d'Asie centrale, de Mongolie, et sur certains territoires avoisinant la Russie et la Chine. 	<img src=http://www.quizypedia.fr/site_media/images/350/350050075751.jpeg>			botanimaux quizypedia
-Dromadaire 	Espèces de camélidés 	Aussi appelé chameau d'Arabie, ce camélidé possédant une bosse habite des déserts chauds (Sahara, péninsule Arabique). 	<img src=http://www.quizypedia.fr/site_media/images/274/274943671656.jpeg>			botanimaux quizypedia
-Guanaco 	Espèces de camélidés 	Apparenté au lama, ce camélidé n'a pas été domestiqué. Il possède une fourrure uniformément brun roussâtre, un museau, un visage et des oreilles gris noirâtre, tandis que le ventre ou l'intérieur des pattes sont blancs. 	"<img src=""http://www.quizypedia.fr/site_media/images/152/152477788069.jpeg"">"			botanimaux quizypedia
-Vigogne 	Espèces de camélidés 	Plus petit représentant de la famille des Camélidés, il vit sur les hauts plateaux de la cordillère des Andes. La laine de sa toison particulièrement fine est utilisée pour fabriquer des vêtements de luxe. 	<img src=http://www.quizypedia.fr/site_media/images/618/618289380024.jpeg>			botanimaux quizypedia
-Batavia 	Salades vertes 	Laitue craquante et tendre, dotée d'une grosse pomme vert clair ou vert jaune, gaufrée, avec les bords découpés, au goût légèrement sucré. Son nom provient de l'ancien nom de la capitale de l'Indonésie, d'où est originaire cette laitue. 	<img src=http://www.quizypedia.fr/site_media/images/894/894575402925.jpeg>			botanimaux quizypedia
-Cresson 	Salades vertes 	Plante vivace originaire du Moyen-Orient cultivée pour ses feuilles au goût poivré et à la saveur forte. L'origine de son nom viendrait de la rapidité à laquelle croît cette plante. 	"<img src=""http://www.quizypedia.fr/site_media/images/870/870836423175.jpeg"">"			botanimaux quizypedia
-Endive 	Salades vertes 	Nom commun de la chicorée de Bruxelles ou chicorée Witloof, cette salade est surtout cultivée comme plante annuelle pour ses chicons, pousses blanchies obtenues par forçage et consommées comme légumes crus ou cuits. 	<img src=http://www.quizypedia.fr/site_media/images/657/657121980585.jpeg>			botanimaux quizypedia
-Frisée 	Salades vertes 	Variété de chicorée aux nombreuses feuilles vertes disposées en rosette étalée, très découpées. La forme de ses feuilles lui vaut son nom. 	<img src=http://www.quizypedia.fr/site_media/images/957/957412918167.jpeg>			botanimaux quizypedia
-Feuille de chêne 	Salades vertes 	Laitue tendre et délicate de couleur rouge et verte. Ses feuilles sont plus ou moins lobées ou découpées comme celles de l'arbre qui lui donne son nom. 	<img src=http://www.quizypedia.fr/site_media/images/056/056732884345.jpeg>			botanimaux quizypedia
-Mâche 	Salades vertes 	Petite salade présentant de courtes feuilles vertes avec un goût assez prononcé. On lui donne de nombreux autres noms dont celui de doucette. 	<img src=http://www.quizypedia.fr/site_media/images/836/836676691042.jpeg>			botanimaux quizypedia
-Romaine 	Salades vertes 	Laitue qui pousse avec un cœur ferme et une longue tête de feuilles robustes. Au contraire de la plupart des laitues, elle tolère une chaleur élevée. Son nom vient de son importation d'Italie au XIVe siècle. 	<img src=http://www.quizypedia.fr/site_media/images/799/799266732009.jpeg>			botanimaux quizypedia
-Roquette 	Salades vertes 	Petite salade qui possède un goût légèrement piquant et amer. On récolte les jeunes feuilles tendres pour les cuisiner en salade, ou les feuilles plus développées que l'on cuit dans les pâtes, le risotto, le pesto, les soupes et les ragoûts. 	<img src=http://www.quizypedia.fr/site_media/images/861/861424128597.jpeg>			botanimaux quizypedia
-Scarole 	Salades vertes 	Salade à grandes feuilles frisées et croquantes aux feuilles intérieures plus pâles et beaucoup moins amères que les feuilles extérieures. C'est une sous-espèce de la chicorée endive. 	<img src=http://www.quizypedia.fr/site_media/images/907/907963618720.jpeg>			botanimaux quizypedia
-Anneau 	Parties du champignon 	Membrane entourant le pied, pouvant être ample ou ténu, fugace ou coulissant. 				botanimaux quizypedia
-Chapeau 	Parties du champignon 	Partie supérieure du champignon, il protège les lamelles, pores ou aiguillons. De multiples formes et couleurs existent. 				botanimaux quizypedia
-Hyménium 	Parties du champignon 	C'est un pseudo-tissu porté par l'hyménophore et donnant naissance aux spores. 				botanimaux quizypedia
-Hyphe 	Parties du champignon 	Élément végétatif filamenteux, souvent à plusieurs noyaux cellulaires. C’est le constituant essentiel du sporophore et du mycélium. 				botanimaux quizypedia
-Lamelles 	Parties du champignon 	Feuillets, plus ou moins en forme de lame de couteau, situés sous le chapeau de certains champignons. 				botanimaux quizypedia
-Mycélium 	Parties du champignon 	Partie souterraine du champignon composée d’un réseau de filaments blanchâtres très étendu. 				botanimaux quizypedia
-Pied 	Parties du champignon 	Support du chapeau pouvant être ventru, fin, coriace, bulbeux. 				botanimaux quizypedia
-Sporophore 	Parties du champignon 	Appareil reproducteur des champignons. C'est l'organe de la fructification du champignon. 				botanimaux quizypedia
-Volve 	Parties du champignon 	Membrane entourant la base du pied. Elle enveloppe entièrement le champignon à l’état jeune et s’en détache lors de la croissance. 				botanimaux quizypedia
-Aiglon 	Animaux et leurs petits  	Aigle Aigle 				botanimaux quizypedia
-Anon 	Animaux et leurs petits  	Ane Anesse 				botanimaux quizypedia
-Baleineau /Baleinon 	Animaux et leurs petits  	Baleine Baleine 				botanimaux quizypedia
-Chaton 	Animaux et leurs petits  	Chat Chatte 				botanimaux quizypedia
-Cigogneau 	Animaux et leurs petits  	Cigogne Cigogne 				botanimaux quizypedia
-Eléphanteau 	Animaux et leurs petits  	Eléphant Eléphante 				botanimaux quizypedia
-Girafon/Girafeau 	Animaux et leurs petits  	Girafe Girafe 				botanimaux quizypedia
-Lionceau 	Animaux et leurs petits  	Lion Lionne 				botanimaux quizypedia
-Ourson 	Animaux et leurs petits  	Ours Ourse 				botanimaux quizypedia
-Perdreau 	Animaux et leurs petits  	Perdrix Perdrix 				botanimaux quizypedia
-Pintadeau 	Animaux et leurs petits  	Pintade Pintade 				botanimaux quizypedia
-Raton 	Animaux et leurs petits  	Rat Rate 				botanimaux quizypedia
-Renardeau 	Animaux et leurs petits  	Renard Renarde 				botanimaux quizypedia
-Serpenteau 	Animaux et leurs petits  	Serpent Serpent 				botanimaux quizypedia
-Souriceau 	Animaux et leurs petits  	Souris Souris 				botanimaux quizypedia
-Bufflon/Buffletin 	Animaux et leurs petits  	Buffle Bufflonne 				botanimaux quizypedia
-Caneton 	Animaux et leurs petits  	Canard Cane 				botanimaux quizypedia
-Chiot 	Animaux et leurs petits  	Chien Chienne 				botanimaux quizypedia
-Corbillat 	Animaux et leurs petits  	Corbeau Corbeau ou corbelle 				botanimaux quizypedia
-Faon 	Animaux et leurs petits  	Daim Daine 				botanimaux quizypedia
-Dindonneau 	Animaux et leurs petits  	Dindon Dinde 				botanimaux quizypedia
-Faisandeau 	Animaux et leurs petits  	Faisan Faisane 				botanimaux quizypedia
-Hirondeau 	Animaux et leurs petits  	Hirondelle Hirondelle 				botanimaux quizypedia
-Lapereau 	Animaux et leurs petits  	Lapin Lapine 				botanimaux quizypedia
-Louveteau 	Animaux et leurs petits  	Loup Louve 				botanimaux quizypedia
-Merleau 	Animaux et leurs petits  	Merle Merlette 				botanimaux quizypedia
-Oisillon 	Animaux et leurs petits  	Oiseau Oiselle 				botanimaux quizypedia
-Paonneau 	Animaux et leurs petits  	Paon Paonne 				botanimaux quizypedia
-Pigeonneau 	Animaux et leurs petits  	Pigeon Pigeonne 				botanimaux quizypedia
-Tigreau 	Animaux et leurs petits  	Tigre Tigresse 				botanimaux quizypedia
-Agneau 	Animaux et leurs petits  	Bélier Brebis 				botanimaux quizypedia
-Blaireautin 	Animaux et leurs petits  	Blaireau 				botanimaux quizypedia
-Chevreau 	Animaux et leurs petits  	Bouc Chèvre 				botanimaux quizypedia
-Cabri 	Animaux et leurs petits  	Bouquetin Etagne 				botanimaux quizypedia
-Faon 	Animaux et leurs petits  	Cerf Biche 				botanimaux quizypedia
-Chamelon 	Animaux et leurs petits  	Chameau Chamelle 				botanimaux quizypedia
-Poulain 	Animaux et leurs petits  	Cheval Jument 				botanimaux quizypedia
-Faon/Chevrotin 	Animaux et leurs petits  	Chevreuil Chevrette 				botanimaux quizypedia
-Gorillon 	Animaux et leurs petits  	Gorille Guenon 				botanimaux quizypedia
-Oison 	Animaux et leurs petits  	Jars Oie 				botanimaux quizypedia
-Levraut 	Animaux et leurs petits  	Lièvre Hase 				botanimaux quizypedia
-Moineau 	Animaux et leurs petits  	Moineau Moinelle 				botanimaux quizypedia
-Porcelet 	Animaux et leurs petits  	Porc/Cochon Truie 				botanimaux quizypedia
-Marcassin 	Animaux et leurs petits  	Sanglier Laie 				botanimaux quizypedia
-Veau 	Animaux et leurs petits  	Taureau Vache 				botanimaux quizypedia
+http://www.quizypedia.fr/quiz/Singes%20d%27Afrique%20et%20d%27Asie/  sauf géladas et cercopithèques 
+
+http://www.quizypedia.fr/quiz/Singes%20d%27Am%C3%A9rique/ 
+
+http://www.quizypedia.fr/quiz/Fleurs%20des%20champs%20et%20for%C3%AAts%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Fleurs%20des%20champs%20et%20for%C3%AAts%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Fleurs%20des%20champs%20et%20for%C3%AAts%20(3)/ 
+
+http://www.quizypedia.fr/quiz/Poissons%20connus%20sous%20plusieurs%20noms/ 
+
+http://www.quizypedia.fr/quiz/Plantes%20connues%20sous%20plusieurs%20noms%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Plantes%20connues%20sous%20plusieurs%20noms%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Cris%20d%27oiseaux%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Cris%20d%27oiseaux%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Les%20animaux%20domestiques%20et%20leur%20cri/ 
+
+http://www.quizypedia.fr/quiz/Anatomie%20du%20cheval/ 
+
+http://www.quizypedia.fr/quiz/Les%20f%C3%A9lins%20sauvages/ 
+
+http://www.quizypedia.fr/quiz/Oiseaux%20connus%20sous%20plusieurs%20noms/ 
+
+http://www.quizypedia.fr/quiz/Races%20bovines/ 
+
+http://www.quizypedia.fr/quiz/Arbres%20et%20arbustes%20connus%20sous%20plusieurs%20noms/ 
+
+http://www.quizypedia.fr/quiz/Vocabulaire%20des%20fleurs%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Les%20canid%C3%A9s%20sauvages/
+
+http://www.quizypedia.fr/quiz/Les%20must%C3%A9lid%C3%A9s/  pas les différents blaireaux 
+
+http://www.quizypedia.fr/quiz/Les%20brassicac%C3%A9es%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Grandes%20disciplines%20zoologiques/ 
+
+http://www.quizypedia.fr/quiz/Races%20de%20chats%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Oiseaux%20marins%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Races%20de%20chiens%20(facile)/ 
+
+http://www.quizypedia.fr/quiz/Races%20de%20chiens%20(moyen)/ 
+
+http://www.quizypedia.fr/quiz/C%C3%A9tac%C3%A9s%20et%20sir%C3%A9niens/ 
+
+http://www.quizypedia.fr/quiz/Arbres%20feuillus%20d%27Europe%20temp%C3%A9r%C3%A9e%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Arbres%20feuillus%20d%27Europe%20temp%C3%A9r%C3%A9e%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Les%20agrumes/ 
+
+http://www.quizypedia.fr/quiz/Les%20requins/ 
+
+http://www.quizypedia.fr/quiz/Des%20rongeurs%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Esp%C3%A8ces%20de%20poissons/ 
+
+http://www.quizypedia.fr/quiz/Espèces%20d%27oiseaux%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Espèces%20d%27oiseaux%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Noms%20des%20%C3%A9levages%20d%27animaux%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Noms%20des%20%C3%A9levages%20d%27animaux%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Plantes%20grimpantes/ 
+
+http://www.quizypedia.fr/quiz/Les%20dinosaures%20(facile)/ 
+
+http://www.quizypedia.fr/quiz/Plantes%20et%20plantations/ 
+
+http://www.quizypedia.fr/quiz/Des%20crustac%C3%A9s%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Fruits%20exotiques%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Fruits%20exotiques%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Fruits%20exotiques%20(3)/  pas amla et arawa 
+
+http://www.quizypedia.fr/quiz/Animaux%20et%20leurs%20petits%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Animaux%20et%20leurs%20petits%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Animaux%20et%20leurs%20petits%20(3)/ 
+
+http://www.quizypedia.fr/quiz/Les%20oiseaux%20coureurs%20(ratites)/ 
+
+http://www.quizypedia.fr/quiz/Plantes%20ornementales/ 
+
+http://www.quizypedia.fr/quiz/Vocabulaire%20du%20monde%20animal%20:%20anatomie%20des%20oiseaux/ 
+
+http://www.quizypedia.fr/quiz/Des%20champignons%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Les%20col%C3%A9opt%C3%A8res%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Les%20ast%C3%A9rac%C3%A9es/ 
+
+http://www.quizypedia.fr/quiz/Poissons%20d%27eau%20douce%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Cris%20de%20mammif%C3%A8res%20sauvages%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Cris%20de%20mammif%C3%A8res%20sauvages%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Plantes%20aromatiques%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Plantes%20aromatiques%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Surnoms%20d%27animaux%20marins%20(1)/ 
+
+http://www.quizypedia.fr/quiz/Surnoms%20d%27animaux%20marins%20(2)/ 
+
+http://www.quizypedia.fr/quiz/Femelles%20d%27animaux/
+
+http://www.quizypedia.fr/quiz/Esp%C3%A8ces%20de%20cam%C3%A9lid%C3%A9s/
+
+http://www.quizypedia.fr/quiz/Salades%20vertes/
+
+http://www.quizypedia.fr/quiz/Parties%20du%20champignon/
