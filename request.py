@@ -23,8 +23,14 @@ def getQuizId(session,url):
 	
 	pattern=re.compile(r'QUIZ_ID\s*=\s*(\d+);')
 	script=soup.find("script",string=pattern)
+	if not script:
+		return None
 	matche=pattern.search(script.string)
-	return matche.group(1)
+	# check if the pattern is found
+	if matche:
+		return matche.group(1)
+	else:
+		return None
 
 def getQuiz(session,url,id):
 	data={"quiz_id":f"{id}","game_mode":"quiz_chrono"}
