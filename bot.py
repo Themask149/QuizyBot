@@ -80,7 +80,7 @@ class MyClient(discord.Client):
 		return num_questions, time_to_wait,difficulty
 	
 	async def present_question(self, message,theme,nb=1,delai=20,diff="essentiel"):
-	
+		getQuizzes(self.session,'https://www.quizypedia.fr/quiz/Lieux%20de%20collections%20(1)/')
 		for _ in range(nb):
 			start_time = datetime.now()  
 			end_time = start_time + timedelta(seconds=delai) 
