@@ -61,36 +61,65 @@ class MyClient(discord.Client):
 			strings.append(f"\n\n{miseenformehint(h)}\n\nLa réponse (en spoiler) est: ||{r}||\n"+'-'*20+'\n')
 		return strings
 	
-	async def present_question(self, message,theme):
-		start_time = datetime.now()  # Get the current time
-		end_time = start_time + timedelta(seconds=20)  # Set the end time to one minute later
-		def check(m):
-			return m.channel == message.channel and datetime.now() < end_time
+	def parse_options(self,content):
+		nb_pattern = re.search(r'nb:(\d+)', content)
+		delai_pattern = re.search(r'delai:(\d+)', content)
+		difficulty_pattern = re.search(r'difficulty:(\w+)', content)
+		num_questions = 1
+		time_to_wait = 20 
+		difficulty = "essentiel"
 		
-		file_path = self.dict_files.get(theme)
-		if not file_path:
-			await message.channel.send(f"Le thème '{theme}' n'existe pas.")
-			return
-		url=random.choice(extractUrl(file_path))
-		quizzes=getQuizzes(self.session,url)
-		url=QUIZY[:-1]+random.choice(quizzes)
-		idurl=getQuizId(self.session,url)
-		quiz=getQuiz(self.session,url,idurl)
-		t,q,h,r=extractQuestion(quiz)
-		hint,response=randomQuestion(h,r)
-		hint=miseenformehint(hint)
-		await message.channel.send(f"Voici une question du thème:\n# {t}\n\n__{q}__\n{hint}\n\nVous avez 20s pour répondre.")
-		try:
+		if nb_pattern:
+			num_questions = int(nb_pattern.group(1))
+		if delai_pattern:
+			time_to_wait = int(delai_pattern.group(1))
+		if difficulty_pattern:
+			if difficulty_pattern.group(1) in ["essentiel", "hard"]:
+				difficulty = difficulty_pattern.group(1)
+		
+		return num_questions, time_to_wait,difficulty
+	
+	async def present_question(self, message,theme,nb=1,delai=20,diff="essentiel"):
+	
+		for _ in range(nb):
+			start_time = datetime.now()  
+			end_time = start_time + timedelta(seconds=delai) 
+			def check(m):
+				return m.channel == message.channel and datetime.now() < end_time
+			if diff=="essentiel":
+				file_path = self.dict_files.get(theme)
+				if not file_path:
+					await message.channel.send(f"Le thème '{theme}' n'existe pas.")
+					return
+				url=random.choice(extractUrl(file_path))
+				quizzes=getQuizzes(self.session,url)
+				url=QUIZY[:-1]+random.choice(quizzes)
+				idurl=getQuizId(self.session,url)
+				quiz=getQuiz(self.session,url,idurl)
+				t,q,h,r=extractQuestion(quiz)
+			elif diff=="hard":
+				quiz=getRandomQuiz(self.session)
+				t,q,h,r=extractQuestion(quiz)
+			
+			hint,response=randomQuestion(h,r)
+			hint=miseenformehint(hint)
+			response=miseenformeresponse(response)
+
+			await message.channel.send(f"Voici une question du thème:\n# {t}\n\n__{q}__\n{hint}\n\nVous avez {delai}s pour répondre.")
+			try:
+				while datetime.now() < end_time:
+					# Wait for the next message that meets the check function
+					new_message = await client.wait_for('message', check=check, timeout=(end_time - datetime.now()).total_seconds())
+					if verify_response(new_message.content, response):
+						await new_message.add_reaction('👍')  # React with a thumbs up emoji
+					else:
+						await new_message.add_reaction('👎')
+			except asyncio.TimeoutError:
+				pass 
+			await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{response}||")
 			while datetime.now() < end_time:
-				# Wait for the next message that meets the check function
-				new_message = await client.wait_for('message', check=check, timeout=(end_time - datetime.now()).total_seconds())
-				if verify_response(new_message.content, response):
-					await new_message.add_reaction('👍')  # React with a thumbs up emoji
-				else:
-					await new_message.add_reaction('👎')
-		except asyncio.TimeoutError:
-			pass  # The minute is over, stop listening for messages
-		await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{response}||")
+				pass
+
 
 	async def handle_quiz_command(self, message, url):
 		idurl=getQuizId(self.session,url)
@@ -125,7 +154,10 @@ class MyClient(discord.Client):
 			await message.channel.send('Voici les thèmes disponibles: \n' + "\n".join(self.dict_files.keys())+"\nrandom")
 		
 		if message.content.startswith('!random'):
-			await self.present_question(message,random.choice(list(self.dict_files.keys())))
+			
+			nb,delai,diff=self.parse_options(message.content)
+			print(f"Asking {nb} questions for {delai}s with difficulty {diff}")
+			await self.present_question(message,random.choice(list(self.dict_files.keys())),nb=nb,delai=delai,diff=diff)
 
 		if len(message.content.split())==1:
 			if f"{message.content[1:]}" in self.dict_files.keys():

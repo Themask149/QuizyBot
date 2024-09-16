@@ -32,6 +32,16 @@ def getQuizId(session,url):
 	else:
 		return None
 
+def getRandomQuiz(session):
+	error=True
+	while error:
+		try:
+			res=getQuiz(session,QUIZY_URL,random.randint(1,26822))
+			error=False
+		except:
+			pass
+	return res
+
 def getQuiz(session,url,id):
 	data={"quiz_id":f"{id}","game_mode":"quiz_chrono"}
 	res=session.post(QUIZY_URL,json=data,headers={"X-Csrftoken":session.cookies["csrftoken"],"Referer":f"{url}"})
@@ -64,3 +74,6 @@ def miseenformehint(hint):
 		else:
 			strhint+=f"**{item['type']}**: {item['value']}\n"
 	return strhint
+
+def miseenformeresponse(res):
+	return res.split('(')[0].strip()
