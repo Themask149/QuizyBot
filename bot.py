@@ -82,10 +82,6 @@ class MyClient(discord.Client):
 	async def present_question(self, message,theme,nb=1,delai=20,diff="essentiel"):
 		getQuizzes(self.session,'https://www.quizypedia.fr/quiz/Lieux%20de%20collections%20(1)/')
 		for _ in range(nb):
-			start_time = datetime.now()  
-			end_time = start_time + timedelta(seconds=delai) 
-			def check(m):
-				return m.channel == message.channel and datetime.now() < end_time
 			if diff=="essentiel":
 				file_path = self.dict_files.get(theme)
 				if not file_path:
@@ -104,7 +100,10 @@ class MyClient(discord.Client):
 			hint,response=randomQuestion(h,r)
 			hint=miseenformehint(hint)
 			response=miseenformeresponse(response)
-
+			start_time = datetime.now()  
+			end_time = start_time + timedelta(seconds=delai) 
+			def check(m):
+				return m.channel == message.channel and datetime.now() < end_time
 			await message.channel.send(f"Voici une question du thème:\n# {t}\n\n__{q}__\n{hint}\n\nVous avez {delai}s pour répondre.")
 			try:
 				while datetime.now() < end_time:
@@ -117,7 +116,7 @@ class MyClient(discord.Client):
 			except asyncio.TimeoutError:
 				pass 
 			await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{response}||")
-			while datetime.now() < end_time:
+			while datetime.now() < end_time+2:
 				pass
 
 
