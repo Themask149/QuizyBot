@@ -116,7 +116,7 @@ class MyClient(discord.Client):
 			except asyncio.TimeoutError:
 				pass 
 			await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{response}||")
-			while datetime.now() < end_time+2:
+			while datetime.now() < end_time+timedelta(seconds=2):
 				pass
 
 
