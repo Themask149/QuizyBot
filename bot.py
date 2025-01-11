@@ -20,7 +20,8 @@ intents.message_content = True
 
 QUIZY="https://www.quizypedia.fr/"
 Threshold=80
-
+Message_Remarque="Merci pour ta remarque ! N'hésite pas à l'indiquer directement sur le site sur la page du thème pour que Grégory n'oublie pas de la prendre en compte !"
+Message_Essentiels="Je pense que la liste des thèmes essentiels te sera très utile pour réviser ! Voici le lien: https://docs.google.com/document/d/1r3EIBfwiPdSDO15Fenb9TfHP-IaDEp67-b7ftIIiJ8Q/"
 
 def extract_url(string):
 	has_url=False
@@ -138,6 +139,16 @@ class MyClient(discord.Client):
 	async def on_message(self, message):
 		if message.author == self.user:
 			return
+
+		if message.content.startswith('!remarque'):
+			await message.channel.send(Message_Remarque)
+			await message.channel.send(file=discord.File('remarque.png'))
+			return
+
+		if message.content.startswith('!essentiels'):
+			await message.channel.send(Message_Essentiels)
+			return
+
 		
 		if message.content.startswith('!hello'):
 			await message.channel.send('Hello!')
@@ -158,9 +169,20 @@ class MyClient(discord.Client):
 			print(f"Asking {nb} questions for {delai}s with difficulty {diff}")
 			await self.present_question(message,random.choice(list(self.dict_files.keys())),nb=nb,delai=delai,diff=diff)
 
-		if len(message.content.split())==1:
-			if f"{message.content[1:]}" in self.dict_files.keys():
-				await self.present_question(message,f"{message.content[1:]}")
+		if message.content.startswith('!g8'):
+			for theme in self.dict_files.keys():
+				await self.present_question(message,theme,nb=1,delai=20,diff="essentiel")
+
+		decomp=message.content.split()
+		if len(decomp)>0 and decomp[0][0]=='!':
+			decomp=decomp[0][1:]
+			print(decomp)
+			if f"{decomp}" in self.dict_files.keys():
+				nb,delai,diff=self.parse_options(message.content)
+				if diff=="hard":
+					await message.channel.send(f"Le mode hard n'est pas disponible pour un thème spécifique.")
+				print(f"{decomp} : Asking {nb} questions for {delai}s with difficulty {diff}")
+				await self.present_question(message,f"{decomp}",nb=nb,delai=delai,diff=diff)
 
 client = MyClient(intents=intents)
 
