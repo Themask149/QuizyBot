@@ -22,6 +22,7 @@ QUIZY="https://www.quizypedia.fr/"
 Threshold=80
 Message_Remarque="Merci pour ta remarque ! N'hésite pas à l'indiquer directement sur le site sur la page du thème pour que Grégory n'oublie pas de la prendre en compte !"
 Message_Essentiels="Je pense que la liste des thèmes essentiels te sera très utile pour réviser ! Voici le lien: https://docs.google.com/document/d/1r3EIBfwiPdSDO15Fenb9TfHP-IaDEp67-b7ftIIiJ8Q/"
+Message_Duels="Comment faire des duels ? Qu'est-ce qu'un g8 ? Est-ce que ça a un rapport avec le G7 ??? 🤔\nNe t'inquiète pas toutes tes réponses sont ici : https://www.youtube.com/watch?v=OyqzWTvaWdQ"
 
 def extract_url(string):
 	has_url=False
@@ -148,7 +149,10 @@ class MyClient(discord.Client):
 		if message.content.startswith('!essentiels'):
 			await message.channel.send(Message_Essentiels)
 			return
-
+		
+		if message.content.startswith('!duel'):
+			await message.channel.send(Message_Duels)
+			return
 		
 		if message.content.startswith('!hello'):
 			await message.channel.send('Hello!')
