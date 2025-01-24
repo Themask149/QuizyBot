@@ -23,6 +23,8 @@ Threshold=80
 Message_Remarque="Merci pour ta remarque ! N'hésite pas à l'indiquer directement sur le site sur la page du thème pour que Grégory n'oublie pas de la prendre en compte !"
 Message_Essentiels="Je pense que la liste des thèmes essentiels te sera très utile pour réviser ! Voici le lien: https://docs.google.com/document/d/1r3EIBfwiPdSDO15Fenb9TfHP-IaDEp67-b7ftIIiJ8Q/"
 Message_Duels="Comment faire des duels ? Qu'est-ce qu'un g8 ? Est-ce que ça a un rapport avec le G7 ??? 🤔\nNe t'inquiète pas toutes tes réponses sont ici : https://www.youtube.com/watch?v=OyqzWTvaWdQ"
+Message_Aide="**Voici la liste des commandes disponibles :**\n\n**!remarque**\n→ Tuto pour signaler une remarque.\n\n**!essentiels**\n→ Fournit le lien vers la liste des thèmes essentiels (pratique pour réviser).\n\n**!duel**\n→ Explique brièvement comment organiser des duels et donne un lien vers un tutoriel.\n\n**!quiz <URL du quiz>**\n→ Affiche les questions issue du quiz dont l’URL est fournie.\n\n**!themes**\n→ Liste tous les thèmes actuellement disponibles pour le bot.\n\n**!random [nb:x] [delai:y] [difficulty:essentiel|hard]**\n→ Choisit un thème aléatoire et pose x questions (1 par défaut) avec un délai de réponse y (20 par défaut). Par défaut, on pioche seulement dans les essentiels mais on peut préciser un paramètre pour piocher parmi tous les quiz\n   • Exemples : `!random nb:3 delai:15` ou `!random nb:2 delai:10 difficulty:hard`\n\n**!g8**\n→ Pose une question de chaque thème (mode essentiel).\n\n**!<theme> [nb:x] [delai:x] [difficulty:essentiel|hard]**\n→ Pose x questions (1 par défaut) sur un thème précis avec un délai et une difficulté (seul 'essentiel' est disponible pour un thème).\n   • Exemples : `!histoire nb:3 delai:10`"
+		
 
 def extract_url(string):
 	has_url=False
@@ -154,8 +156,9 @@ class MyClient(discord.Client):
 			await message.channel.send(Message_Duels)
 			return
 		
-		if message.content.startswith('!help'):
-			await "**Voici la liste des commandes disponibles :**\n\n**!remarque**\n→ Tuto pour signaler une remarque.\n\n**!essentiels**\n→ Fournit le lien vers la liste des thèmes essentiels (pratique pour réviser).\n\n**!duel**\n→ Explique brièvement comment organiser des duels et donne un lien vers un tutoriel.\n\n**!quiz <URL du quiz>**\n→ Affiche les questions issue du quiz dont l’URL est fournie.\n\n**!themes**\n→ Liste tous les thèmes actuellement disponibles pour le bot.\n\n**!random [nb:x] [delai:y] [difficulty:essentiel|hard]**\n→ Choisit un thème aléatoire et pose x questions (1 par défaut) avec un délai de réponse y (20 par défaut). Par défaut, on pioche seulement dans les essentiels mais on peut préciser un paramètre pour piocher parmi tous les quiz\n   • Exemples : `!random nb:3 delai:15` ou `!random nb:2 delai:10 difficulty:hard`\n\n**!g8**\n→ Pose une question de chaque thème (mode essentiel).\n\n**!<theme> [nb:x] [delai:x] [difficulty:essentiel|hard]**\n→ Pose x questions (1 par défaut) sur un thème précis avec un délai et une difficulté (seul 'essentiel' est disponible pour un thème).\n   • Exemples : `!histoire nb:3 delai:10`"
+		if message.content.startswith('!aide'):
+			await message.channel.send(Message_Aide)
+			return
 		
 		if message.content.startswith('!hello'):
 			await message.channel.send('Hello!')
