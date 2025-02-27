@@ -1,6 +1,7 @@
 import asyncio
 import discord
 from discord.ext import commands
+import urllib.parse
 
 from dotenv import load_dotenv
 import os
@@ -53,7 +54,7 @@ def extract_url(string):
 	urls = url_pattern.findall(string)
 	if urls:
 		has_url = True
-		url = urls[0]
+		url = urllib.parse.quote(urls[0])
 	return has_url, url
 
 def decode_html_entities(text):
@@ -105,50 +106,45 @@ class MyBot(commands.Bot):
 		
 		return num_questions, time_to_wait, difficulty
 	
-	async def present_question(self, message, theme, nb=1, delai=20, diff="essentiel"):
-		"""Retrieve a quiz and interact with the user by asking a question."""
-		if diff == "essentiel":
-			file_path = self.dict_files.get(theme)
-			if not file_path:
-				await message.channel.send(f"Le thème '{theme}' n'existe pas.")
-				return
-			# 'extractUrl' is assumed to be a function that extracts URLs from your file.
-			url = random.choice(extractUrl(file_path))  
-			quizzes = getQuizzes(self.session, url)
-			url = QUIZY[:-1] + random.choice(quizzes)
-			idurl = getQuizId(self.session, url)
-			quiz = getQuiz(self.session, url, idurl)
-			t, q, h, r = extractQuestion(quiz)
-		elif diff == "hard":
-			quiz = getRandomQuiz(self.session)
-			t, q, h, r = extractQuestion(quiz)
-		
-		hint, response = randomQuestion(h, r)
-		hint = miseenformehint(hint)
-		response = miseenformeresponse(response)
-		start_time = datetime.now()  
-		end_time = start_time + timedelta(seconds=delai) 
-		
-		def check(m):
-			return m.channel == message.channel and datetime.now() < end_time
-		
-		await message.channel.send(
-			f"Voici une question du thème:\n# {t}\n\n__{q}__\n{hint}\n\nVous avez {delai}s pour répondre."
-		)
-		try:
-			while datetime.now() < end_time:
-				timeout = (end_time - datetime.now()).total_seconds()
-				new_message = await self.wait_for('message', check=check, timeout=timeout)
-				if verify_response(new_message.content, response):
-					await new_message.add_reaction('👍')
-				else:
-					await new_message.add_reaction('👎')
-		except asyncio.TimeoutError:
-			pass 
-		await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{response}||")
-		# Pause briefly before continuing
-		await asyncio.sleep(2)
-	
+	async def present_question(self, message,theme,nb=1,delai=20,diff="essentiel"):
+		for _ in range(nb):
+			if diff=="essentiel":
+				file_path = self.dict_files.get(theme)
+				if not file_path:
+					await message.channel.send(f"Le thème '{theme}' n'existe pas.")
+					return
+				url=random.choice(extractUrl(file_path))
+				quizzes=getQuizzes(self.session,url)
+				url=QUIZY[:-1]+random.choice(quizzes)
+				idurl=getQuizId(self.session,url)
+				quiz=getQuiz(self.session,url,idurl)
+				t,q,h,r=extractQuestion(quiz)
+			elif diff=="hard":
+				quiz=getRandomQuiz(self.session)
+				t,q,h,r=extractQuestion(quiz)
+			
+			hint,response=randomQuestion(h,r)
+			hint=miseenformehint(hint)
+			response=miseenformeresponse(response)
+			start_time = datetime.now()  
+			end_time = start_time + timedelta(seconds=delai) 
+			def check(m):
+				return m.channel == message.channel and datetime.now() < end_time
+			await message.channel.send(f"Voici une question du thème:\n# {t}\n\n__{q}__\n{hint}\n\nVous avez {delai}s pour répondre.")
+			try:
+				while datetime.now() < end_time:
+					# Wait for the next message that meets the check function
+					new_message = await self.wait_for('message', check=check, timeout=(end_time - datetime.now()).total_seconds())
+					if verify_response(new_message.content, response):
+						await new_message.add_reaction('👍')  # React with a thumbs up emoji
+					else:
+						await new_message.add_reaction('👎')
+			except asyncio.TimeoutError:
+				pass 
+			await message.channel.send(f"\n\nLa réponse (en spoiler) est: ||{response}||")
+			while datetime.now() < end_time+timedelta(seconds=2):
+				pass
+
 	async def handle_quiz_command(self, message, url):
 		"""Handle the !quiz command given a quiz URL."""
 		idurl = getQuizId(self.session, url)

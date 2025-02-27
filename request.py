@@ -1,7 +1,7 @@
 import re
 import requests
 import random
-
+import urllib.parse
 from bs4 import BeautifulSoup
 
 QUIZY_URL="https://www.quizypedia.fr/get_quiz_game/"
@@ -70,7 +70,9 @@ def miseenformehint(hint):
 	strhint=""
 	for item in hint:
 		if item["type"]=="Image":
-			strhint+=f"**{item['type']}**: [Image]({QUIZY_IMG}{item['value']})\n"
+			imageurl=QUIZY_IMG+item["value"]
+			imageurl=urllib.parse.quote(imageurl,safe=":/")
+			strhint+=f"**{item['type']}**: [Image]({imageurl})\n"
 		else:
 			strhint+=f"**{item['type']}**: {item['value']}\n"
 	return strhint
