@@ -243,7 +243,7 @@ async def g8(ctx):
 async def poll(ctx,type):
 	if type=="emile":
 		p=discord.Poll(question="Il me manquait...",duration=timedelta(days=1),multiple=True)
-		for x in ["La 1re bleue","La 2e bleue","La 3e bleue","La 1re blanche","La 2e blanche","La rouge","Le Banco","Le Super Banco"]:
+		for x in ["La 1re bleue","La 2e bleue","La 3e bleue","La 1re blanche","La 2e blanche","La rouge","Le Banco","Le Super Banco","J'ai gagné 1000 euros Aikeziens"]:
 			p.add_answer(text=x)
 		await ctx.send(poll=p)
 
