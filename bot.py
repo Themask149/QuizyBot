@@ -1,23 +1,20 @@
 import asyncio
-import discord
-from discord.ext import commands
-import urllib.parse
-
-from dotenv import load_dotenv
-import os
 import glob
-import re
 import html
-import random
+import os
+import urllib.parse
 from datetime import datetime, timedelta
 
+import discord
+from discord.ext import commands
+from dotenv import load_dotenv
+from thefuzz import fuzz
+
 # These functions are assumed to be defined in your "request" module:
-from request import *  
+from request import *
+
 # (For example, extractUrl, miseenformehint, miseenformeresponse, getQuizzes,
 #  getQuizId, getQuiz, extractQuestion, randomQuestion, getRandomQuiz, etc.)
-
-from thefuzz import fuzz
-from thefuzz import process
 
 load_dotenv()
 
@@ -26,8 +23,10 @@ QUIZY = "https://www.quizypedia.fr/"
 Threshold = 80
 Message_Remarque = ("Merci pour ta remarque ! N'hésite pas à l'indiquer directement sur le site sur la page du thème "
 					"pour que Grégory n'oublie pas de la prendre en compte !")
-Message_Essentiels = ("Je pense que la liste des thèmes essentiels te sera très utile pour réviser ! Voici le lien: "
-					  "https://docs.google.com/document/d/1r3EIBfwiPdSDO15Fenb9TfHP-IaDEp67-b7ftIIiJ8Q/")
+
+Message_Essentiels = ("Je pense que la liste des thèmes essentiels te sera très utile pour réviser ! Tu peux les retrouver dans l'onglet **Essentiels** de la page d'accueil.\n"
+					  "Une fois que tu as choisi un thème, nous avons placé un point d'exclamation bleu dans un cercle blanc pour identifier les quiz à jouer en priorité.")
+
 Message_Duels = ("Comment faire des duels ? Qu'est-ce qu'un g8 ? Est-ce que ça a un rapport avec le G7??? 🤔\n"
 				 "Ne t'inquiète pas toutes tes réponses sont ici : https://www.youtube.com/watch?v=OyqzWTvaWdQ")
 Message_Aide = (
@@ -192,11 +191,12 @@ bot = MyBot(command_prefix="!", intents=intents)
 @bot.command(name="remarque")
 async def remarque(ctx):
 	await ctx.send(Message_Remarque)
-	await ctx.send(file=discord.File('remarque.png'))
+	await ctx.send(file=discord.File('images/remarque.png'))
 
 @bot.command(name="essentiels")
 async def essentiels(ctx):
 	await ctx.send(Message_Essentiels)
+	await ctx.send(file=discord.File('images/essentiels.png'))
 
 @bot.command(name="duel")
 async def duel(ctx):
