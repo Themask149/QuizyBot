@@ -6,7 +6,7 @@ import urllib.parse
 from datetime import datetime, timedelta
 
 import discord
-from discord.ext import commands
+from discord.ext import commands, tasks
 from dotenv import load_dotenv
 from thefuzz import fuzz
 
@@ -19,7 +19,78 @@ from request import *
 load_dotenv()
 
 # Global constants and messages
-QUIZY = "https://www.quizypedia.fr/"
+QUIZY = os.environ.get("QUIZY", "https://www.quizypedia.fr/")
+
+#Params pour check socre et diag server
+TODAY_RANKING_ENDPOINT = "getTodayRankingsEndpoint/"
+DDJ_ENDPOINT = "defi-du-jour/"
+# Valeurs de Prod par défaut si on ne surcharge pas le .env
+DDJ_CHANNEL_ID = int(os.environ.get("DDJ_CHANNEL_ID", 1195139115566514289))
+MODERATOR_CHANNEL_ID = int(os.environ.get("MODERATOR_CHANNEL_ID", 1282010309262835787))
+# Id de Romain
+ADMIN_USER_ID = int(os.environ.get("ADMIN_USER_ID", 1199674694362730578))
+# Id de Greg
+ADMIN_DDJ_USER_ID = int(os.environ.get("ADMIN_DDJ_USER_ID", 446041323452235777))
+last_winner = None
+should_warn_admin = True
+top_users_whitelist = [
+	"Amulus",
+	"DuffStunts",
+	"MCMLXXXIX",
+	"svsvsv",
+	"Nys",
+	"RD2D",
+	"raffaele",
+	"jeanjacmi",
+	"jgmsics",
+	"yoyoseb",
+	"Chupacrow",
+	"pierre",
+	"Super_fete_a_Thouars",
+	"Snailfucker",
+	"Chacal_Tabaqui",
+	"Pindeslandes",
+	"TallRooster",
+	"Aerienne",
+	"GregoryDurand",
+	"ronalbert",
+	"Justine_Z",
+	"gael79",
+	"antonio-das-mortes",
+	"mmathieu",
+	"Junior",
+	"Hopeful",
+	"papajo",
+	"Biugn",
+	"IVANNAVI",
+	"tite-live",
+	"Quercus59",
+	"Scalpar",
+	"Machoman",
+	"romain",
+	"BobbySmiles",
+	"zorro2718",
+	"Phil61",
+	"Funix88",
+	"Mounis",
+	"donfo",
+	"bibifoc",
+	"afgaby",
+	"Bourriquette86",
+	"burczynski",
+	"Padawan",
+	"zentak",
+	"pipo31",
+	"Hawkinss_",
+	"Osmok",
+	"davidmaz",
+	"cheet",
+	"ThibautdArtois",
+	"Sheritan",
+	"XavINSA",
+	"gregnalex"
+]
+
 Threshold = 80
 Message_Remarque = ("Merci pour ta remarque ! N'hésite pas à l'indiquer directement sur le site sur la page du thème "
 					"pour que Grégory n'oublie pas de la prendre en compte !")
@@ -187,6 +258,86 @@ intents.message_content = True
 bot = MyBot(command_prefix="!", intents=intents)
 
 # --- Commands using Decorators ---
+
+async def notify(channel_id, message):
+	channel = bot.get_channel(channel_id)
+	if channel:
+		await channel.send(message)
+
+@tasks.loop(seconds=60)
+async def check_new_record_and_diag_server():
+	global last_winner
+	global should_warn_admin
+	now = datetime.now()
+
+	# On évite l'exécution entre minuit et 00h15 pour attendre un premier record stable
+	if now.hour == 0 and now.minute < 15:
+		last_winner = None
+		try:
+			response = requests.get(QUIZY + DDJ_ENDPOINT)
+			if response.status_code != 200:
+				if should_warn_admin:
+					await notify(MODERATOR_CHANNEL_ID,
+								 f"<@{ADMIN_DDJ_USER_ID}> 🚨 **Le DDJ ne semble pas avoir été publié** 🚨")
+				should_warn_admin = False
+			else:
+				should_warn_admin = True
+		except Exception as e:
+			if should_warn_admin:
+				await notify(MODERATOR_CHANNEL_ID,
+							 f"<@{ADMIN_USER_ID}> 🚨 **Quizy ne répond pas** 🚨\n⚠️ Erreur : {str(e)}")
+			should_warn_admin = False
+		return
+
+	try:
+		response = requests.get(QUIZY + TODAY_RANKING_ENDPOINT)
+		if response.status_code != 200:
+			if should_warn_admin:
+				await notify(MODERATOR_CHANNEL_ID,
+							 f"<@{ADMIN_USER_ID}> 🚨 **Quizy ne répond pas** 🚨\n⚠️ Code : {response.status_code}")
+			should_warn_admin = False
+			return
+
+		should_warn_admin = True
+		data = response.json()
+		rankings = data.get("rankings", [])
+		if not rankings:
+			return  # Personne n’a encore joué
+
+		top_rank = rankings[0]
+		user = top_rank.get("user")
+		if user != last_winner:
+			last_winner = user
+			score = top_rank.get("good_responses")
+			ddj_id = data.get("id")
+			elapsed_time = top_rank.get("elapsed_time")
+
+			message = (
+				f"## 🌟 **Nouveau record pour le Défi du Jour n° {ddj_id}** 🌟\n"
+				f"👤 **{user}**\n"
+				f"🏆 **Score**: {score}\n"
+				f"⏱️ **Temps**: {elapsed_time} secondes\n"
+				f"📑 [**Classement complet**]({QUIZY}{DDJ_ENDPOINT})"
+			)
+
+			if isinstance(elapsed_time, (int, float)) and elapsed_time < 60 and user not in top_users_whitelist:
+				message += (
+					f"\n⚠️ **Performance très rapide détectée** – "
+					f"<@{ADMIN_USER_ID}> un contrôle antidopage est demandé 🤔"
+				)
+
+			await notify(DDJ_CHANNEL_ID, message)
+
+	except Exception as e:
+		if should_warn_admin:
+			await notify(MODERATOR_CHANNEL_ID,
+						 f"<@{ADMIN_USER_ID}> 🚨 **Quizy ne répond pas** 🚨\n⚠️ Erreur : {str(e)}")
+		should_warn_admin = False
+
+@bot.event
+async def on_ready():
+	print(f'Bot connecté en tant que {bot.user}')
+	check_new_record_and_diag_server.start()
 
 @bot.command(name="remarque")
 async def remarque(ctx):
