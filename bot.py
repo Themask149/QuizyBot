@@ -20,7 +20,6 @@ load_dotenv()
 
 # Global constants and messages
 QUIZY = os.environ.get("QUIZY", "https://www.quizypedia.fr/")
-
 #Params pour check socre et diag server
 TODAY_RANKING_ENDPOINT = "getTodayRankingsEndpoint/"
 DDJ_ENDPOINT = "defi-du-jour/"
@@ -31,67 +30,16 @@ MODERATOR_CHANNEL_ID = int(os.environ.get("MODERATOR_CHANNEL_ID", 12820103092628
 ADMIN_USER_ID = int(os.environ.get("ADMIN_USER_ID", 1199674694362730578))
 # Id de Greg
 ADMIN_DDJ_USER_ID = int(os.environ.get("ADMIN_DDJ_USER_ID", 446041323452235777))
+
+
 last_winner = None
 should_warn_admin = True
-top_users_whitelist = [
-	"Amulus",
-	"DuffStunts",
-	"MCMLXXXIX",
-	"svsvsv",
-	"Nys",
-	"RD2D",
-	"raffaele",
-	"jeanjacmi",
-	"jgmsics",
-	"yoyoseb",
-	"Chupacrow",
-	"pierre",
-	"Super_fete_a_Thouars",
-	"Snailfucker",
-	"Chacal_Tabaqui",
-	"Pindeslandes",
-	"TallRooster",
-	"Aerienne",
-	"GregoryDurand",
-	"ronalbert",
-	"Justine_Z",
-	"gael79",
-	"antonio-das-mortes",
-	"mmathieu",
-	"Junior",
-	"Hopeful",
-	"papajo",
-	"Biugn",
-	"IVANNAVI",
-	"tite-live",
-	"Quercus59",
-	"Scalpar",
-	"Machoman",
-	"romain",
-	"BobbySmiles",
-	"zorro2718",
-	"Phil61",
-	"Funix88",
-	"Mounis",
-	"donfo",
-	"bibifoc",
-	"afgaby",
-	"Bourriquette86",
-	"burczynski",
-	"Padawan",
-	"zentak",
-	"pipo31",
-	"Hawkinss_",
-	"Osmok",
-	"davidmaz",
-	"cheet",
-	"ThibautdArtois",
-	"Sheritan",
-	"XavINSA",
-	"gregnalex"
-]
-
 Threshold = 80
+
+with open("top_players.txt", "r") as file:
+	top_users_whitelist = [line.strip() for line in file if line.strip()]
+
+
 Message_Remarque = ("Merci pour ta remarque ! N'hésite pas à l'indiquer directement sur le site sur la page du thème "
 					"pour que Grégory n'oublie pas de la prendre en compte !")
 
@@ -143,7 +91,7 @@ class MyBot(commands.Bot):
 		
 		# Load quiz files into a dictionary (key = theme name)
 		self.dict_files = {}
-		files_path = glob.glob("./Quizypedia_*.txt")
+		files_path = glob.glob("./essentiels/Quizypedia_*.txt")
 		self.session = requests.Session()
 		for file in files_path:
 			key = file.split("_")[1].split(".")[0]
