@@ -1,33 +1,51 @@
 import asyncio
-import discord
-from discord.ext import commands
-import urllib.parse
-
-from dotenv import load_dotenv
-import os
 import glob
-import re
 import html
-import random
+import os
+import urllib.parse
 from datetime import datetime, timedelta
 
+import discord
+from discord.ext import commands, tasks
+from dotenv import load_dotenv
+from thefuzz import fuzz
+
 # These functions are assumed to be defined in your "request" module:
-from request import *  
+from request import *
+
 # (For example, extractUrl, miseenformehint, miseenformeresponse, getQuizzes,
 #  getQuizId, getQuiz, extractQuestion, randomQuestion, getRandomQuiz, etc.)
-
-from thefuzz import fuzz
-from thefuzz import process
 
 load_dotenv()
 
 # Global constants and messages
-QUIZY = "https://www.quizypedia.fr/"
+QUIZY = os.environ.get("QUIZY", "https://www.quizypedia.fr/")
+#Params pour check socre et diag server
+TODAY_RANKING_ENDPOINT = "getTodayRankingsEndpoint/"
+DDJ_ENDPOINT = "defi-du-jour/"
+# Valeurs de Prod par défaut si on ne surcharge pas le .env
+DDJ_CHANNEL_ID = int(os.environ.get("DDJ_CHANNEL_ID", 1195139115566514289))
+MODERATOR_CHANNEL_ID = int(os.environ.get("MODERATOR_CHANNEL_ID", 1282010309262835787))
+# Id de Romain
+ADMIN_USER_ID = int(os.environ.get("ADMIN_USER_ID", 1199674694362730578))
+# Id de Greg
+ADMIN_DDJ_USER_ID = int(os.environ.get("ADMIN_DDJ_USER_ID", 446041323452235777))
+
+
+last_winner = None
+should_warn_admin = True
 Threshold = 80
+
+with open("top_players.txt", "r") as file:
+	top_users_whitelist = [line.strip() for line in file if line.strip()]
+
+
 Message_Remarque = ("Merci pour ta remarque ! N'hésite pas à l'indiquer directement sur le site sur la page du thème "
 					"pour que Grégory n'oublie pas de la prendre en compte !")
-Message_Essentiels = ("Je pense que la liste des thèmes essentiels te sera très utile pour réviser ! Voici le lien: "
-					  "https://docs.google.com/document/d/1r3EIBfwiPdSDO15Fenb9TfHP-IaDEp67-b7ftIIiJ8Q/")
+
+Message_Essentiels = ("Je pense que la liste des thèmes essentiels te sera très utile pour réviser ! Tu peux les retrouver dans l'onglet **Essentiels** de la page d'accueil.\n"
+					  "Une fois que tu as choisi un thème, nous avons placé un point d'exclamation bleu dans un cercle blanc pour identifier les quiz à jouer en priorité.")
+
 Message_Duels = ("Comment faire des duels ? Qu'est-ce qu'un g8 ? Est-ce que ça a un rapport avec le G7??? 🤔\n"
 				 "Ne t'inquiète pas toutes tes réponses sont ici : https://www.youtube.com/watch?v=OyqzWTvaWdQ")
 Message_Aide = (
@@ -73,7 +91,7 @@ class MyBot(commands.Bot):
 		
 		# Load quiz files into a dictionary (key = theme name)
 		self.dict_files = {}
-		files_path = glob.glob("./Quizypedia_*.txt")
+		files_path = glob.glob("./essentiels/Quizypedia_*.txt")
 		self.session = requests.Session()
 		for file in files_path:
 			key = file.split("_")[1].split(".")[0]
@@ -189,14 +207,95 @@ bot = MyBot(command_prefix="!", intents=intents)
 
 # --- Commands using Decorators ---
 
+async def notify(channel_id, message):
+	channel = bot.get_channel(channel_id)
+	if channel:
+		await channel.send(message)
+
+@tasks.loop(seconds=60)
+async def check_new_record_and_diag_server():
+	global last_winner
+	global should_warn_admin
+	now = datetime.now()
+
+	# On évite l'exécution entre minuit et 00h15 pour attendre un premier record stable
+	if now.hour == 0 and now.minute < 15:
+		last_winner = None
+		try:
+			response = requests.get(QUIZY + DDJ_ENDPOINT)
+			if response.status_code != 200:
+				if should_warn_admin:
+					await notify(MODERATOR_CHANNEL_ID,
+								 f"<@{ADMIN_DDJ_USER_ID}> 🚨 **Le DDJ ne semble pas avoir été publié** 🚨")
+				should_warn_admin = False
+			else:
+				should_warn_admin = True
+		except Exception as e:
+			if should_warn_admin:
+				await notify(MODERATOR_CHANNEL_ID,
+							 f"<@{ADMIN_USER_ID}> 🚨 **Quizy ne répond pas** 🚨\n⚠️ Erreur : {str(e)}")
+			should_warn_admin = False
+		return
+
+	try:
+		response = requests.get(QUIZY + TODAY_RANKING_ENDPOINT)
+		if response.status_code != 200:
+			if should_warn_admin:
+				await notify(MODERATOR_CHANNEL_ID,
+							 f"<@{ADMIN_USER_ID}> 🚨 **Quizy ne répond pas** 🚨\n⚠️ Code : {response.status_code}")
+			should_warn_admin = False
+			return
+
+		should_warn_admin = True
+		data = response.json()
+		rankings = data.get("rankings", [])
+		if not rankings:
+			return  # Personne n’a encore joué
+
+		top_rank = rankings[0]
+		user = top_rank.get("user")
+		if user != last_winner:
+			last_winner = user
+			score = top_rank.get("good_responses")
+			ddj_id = data.get("id")
+			elapsed_time = top_rank.get("elapsed_time")
+
+			message = (
+				f"## 🌟 **Nouveau record pour le Défi du Jour n° {ddj_id}** 🌟\n"
+				f"👤 **{user}**\n"
+				f"🏆 **Score**: {score}\n"
+				f"⏱️ **Temps**: {elapsed_time} secondes\n"
+				f"📑 [**Classement complet**]({QUIZY}{DDJ_ENDPOINT})"
+			)
+
+			if isinstance(elapsed_time, (int, float)) and elapsed_time < 60 and user not in top_users_whitelist:
+				message += (
+					f"\n⚠️ **Performance très rapide détectée** – "
+					f"<@{ADMIN_USER_ID}> un contrôle antidopage est demandé 🤔"
+				)
+
+			await notify(DDJ_CHANNEL_ID, message)
+
+	except Exception as e:
+		if should_warn_admin:
+			await notify(MODERATOR_CHANNEL_ID,
+						 f"<@{ADMIN_USER_ID}> 🚨 **Quizy ne répond pas** 🚨\n⚠️ Erreur : {str(e)}")
+		should_warn_admin = False
+
+@bot.event
+async def on_ready():
+	print(f'Bot connecté en tant que {bot.user}')
+	check_new_record_and_diag_server.start()
+
 @bot.command(name="remarque")
 async def remarque(ctx):
 	await ctx.send(Message_Remarque)
-	await ctx.send(file=discord.File('remarque.png'))
+	await ctx.send(file=discord.File('images/remarque.png'))
 
 @bot.command(name="essentiels")
 async def essentiels(ctx):
 	await ctx.send(Message_Essentiels)
+	await ctx.send(file=discord.File('images/essentiels.png'))
 
 @bot.command(name="duel")
 async def duel(ctx):

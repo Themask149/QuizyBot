@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 
 QUIZY_URL="https://www.quizypedia.fr/get_quiz_game/"
 QUIZY_IMG="https://www.quizypedia.fr/site_media/images/"
+
 def getQuizzes(session,url):
 	res=session.get(url)
 	if res.status_code==200:
