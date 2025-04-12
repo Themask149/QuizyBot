@@ -210,7 +210,7 @@ bot = MyBot(command_prefix="!", intents=intents)
 async def notify(channel_id, message):
 	channel = bot.get_channel(channel_id)
 	if channel:
-		await channel.send(message)
+		await channel.send(message, suppress_embeds=True)
 
 @tasks.loop(seconds=60)
 async def check_new_record_and_diag_server():
@@ -261,7 +261,7 @@ async def check_new_record_and_diag_server():
 			elapsed_time = top_rank.get("elapsed_time")
 
 			message = (
-				f"## 🌟 **Nouveau record pour le Défi du Jour n° {ddj_id}** 🌟\n"
+				f"### 🌟 **Nouveau record pour le Défi du Jour n° {ddj_id}** 🌟\n"
 				f"👤 **{user}**\n"
 				f"🏆 **Score**: {score}\n"
 				f"⏱️ **Temps**: {elapsed_time} secondes\n"
