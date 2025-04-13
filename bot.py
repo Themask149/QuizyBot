@@ -4,6 +4,7 @@ import html
 import os
 import urllib.parse
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 import discord
 from discord.ext import commands, tasks
@@ -32,7 +33,8 @@ ADMIN_USER_ID = int(os.environ.get("ADMIN_USER_ID", 1199674694362730578))
 ADMIN_DDJ_USER_ID = int(os.environ.get("ADMIN_DDJ_USER_ID", 446041323452235777))
 
 
-last_winner = None
+last_announced_user = None
+last_flagged_user = None
 should_warn_admin = True
 Threshold = 80
 
@@ -214,13 +216,16 @@ async def notify(channel_id, message):
 
 @tasks.loop(seconds=60)
 async def check_new_record_and_diag_server():
-	global last_winner
+	global last_announced_user
+	global last_flagged_user
 	global should_warn_admin
-	now = datetime.now()
 
-	# On évite l'exécution entre minuit et 00h15 pour attendre un premier record stable
+	now = datetime.now(ZoneInfo("Europe/Paris"))
+
+	# Éviter d'exécuter entre minuit et 00h15 pour laisser le temps à un premier record propre d'être publié
 	if now.hour == 0 and now.minute < 15:
-		last_winner = None
+		last_announced_user = None
+		last_flagged_user = None
 		try:
 			response = requests.get(QUIZY + DDJ_ENDPOINT)
 			if response.status_code != 200:
@@ -253,26 +258,38 @@ async def check_new_record_and_diag_server():
 			return  # Personne n’a encore joué
 
 		top_rank = rankings[0]
-		user = top_rank.get("user")
-		if user != last_winner:
-			last_winner = user
-			score = top_rank.get("good_responses")
-			ddj_id = data.get("id")
-			elapsed_time = top_rank.get("elapsed_time")
+		top_rank_user = top_rank.get("user")
+		score = top_rank.get("good_responses")
+		ddj_id = data.get("id")
+		elapsed_time = top_rank.get("elapsed_time")
+
+		if top_rank_user != last_announced_user:
+
+			last_announced_user = top_rank_user
+
+			# Contrôle positif confirmé après suppression du record du tricheur
+			if last_flagged_user and last_flagged_user != top_rank_user:
+				await notify(DDJ_CHANNEL_ID,
+							 f"🚨 Contrôle positif confirmé pour **{last_flagged_user}** – record retiré.\n"
+							 f"✅ On retrouve **{top_rank_user}** en tête du DDJ !"
+							 )
+				last_flagged_user = None
+				return
 
 			message = (
 				f"### 🌟 **Nouveau record pour le Défi du Jour n° {ddj_id}** 🌟\n"
-				f"👤 **{user}**\n"
+				f"👤 **{top_rank_user}**\n"
 				f"🏆 **Score**: {score}\n"
 				f"⏱️ **Temps**: {elapsed_time} secondes\n"
 				f"📑 [**Classement complet**]({QUIZY}{DDJ_ENDPOINT})"
 			)
 
-			if isinstance(elapsed_time, (int, float)) and elapsed_time < 60 and user not in top_users_whitelist:
+			if isinstance(elapsed_time, (int, float)) and elapsed_time < 60 and top_rank_user not in top_users_whitelist:
 				message += (
 					f"\n⚠️ **Performance très rapide détectée** – "
 					f"<@{ADMIN_USER_ID}> un contrôle antidopage est demandé 🤔"
 				)
+				last_flagged_user = top_rank_user  # Flag le joueur pour un éventuel contrôle positif
 
 			await notify(DDJ_CHANNEL_ID, message)
 
