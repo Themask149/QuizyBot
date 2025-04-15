@@ -214,6 +214,9 @@ async def notify(channel_id, message):
 	if channel:
 		await channel.send(message, suppress_embeds=True)
 
+def is_user_in_top_100(username, rankings):
+	return any(entry["user"] == username for entry in rankings[0:100])
+
 @tasks.loop(seconds=60)
 async def check_new_record_and_diag_server():
 	global last_announced_user
@@ -268,7 +271,7 @@ async def check_new_record_and_diag_server():
 			last_announced_user = top_rank_user
 
 			# Contrôle positif confirmé après suppression du record du tricheur
-			if last_flagged_user and last_flagged_user != top_rank_user:
+			if last_flagged_user and not(is_user_in_top_100(last_flagged_user, rankings)):
 				await notify(DDJ_CHANNEL_ID,
 							 f"🚨 Contrôle positif confirmé pour **{last_flagged_user}** – record retiré.\n"
 							 f"✅ On retrouve **{top_rank_user}** en tête du DDJ !"
