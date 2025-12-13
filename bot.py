@@ -1,7 +1,10 @@
 import asyncio
 import glob
 import html
+import io
 import os
+import re
+import requests
 import urllib.parse
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -11,11 +14,8 @@ from discord.ext import commands, tasks
 from dotenv import load_dotenv
 from thefuzz import fuzz
 
-# These functions are assumed to be defined in your "request" module:
-from request import *
 
-# (For example, extractUrl, miseenformehint, miseenformeresponse, getQuizzes,
-#  getQuizId, getQuiz, extractQuestion, randomQuestion, getRandomQuiz, etc.)
+from request import *
 
 load_dotenv()
 
@@ -65,7 +65,31 @@ Message_Aide = (
 	"et une difficulté (seul 'essentiel' est disponible pour un thème).\n   • Exemples : `!histoire nb:3 delai:10`"
 )
 
-# --- Utility Functions ---
+def is_quizy(url: str) -> bool:
+	try:
+		allowed = urllib.parse.urlsplit(QUIZY)
+		candidate = urllib.parse.urlsplit(urllib.parse.unquote(url))
+		print(allowed, candidate)
+	except Exception:
+		return False
+	if candidate.scheme != allowed.scheme:
+		return False
+
+	if candidate.hostname != allowed.hostname:
+		return False
+
+	if candidate.port not in (None, allowed.port):
+		return False
+
+	allowed_path = allowed.path.rstrip("/") + "/"
+	candidate_path = candidate.path.rstrip("/") + "/"
+
+	if not candidate_path.startswith(allowed_path):
+		return False
+
+	return True
+
+	return True
 
 def extract_url(string):
 	has_url = False
@@ -156,7 +180,7 @@ class MyBot(commands.Bot):
 					# Wait for the next message that meets the check function
 					new_message = await self.wait_for('message', check=check, timeout=(end_time - datetime.now()).total_seconds())
 					if verify_response(new_message.content, response):
-						await new_message.add_reaction('👍')  # React with a thumbs up emoji
+						await new_message.add_reaction('👍') 
 					else:
 						await new_message.add_reaction('👎')
 			except asyncio.TimeoutError:
@@ -361,6 +385,171 @@ async def poll(ctx,type):
 		for x in ["La 1re bleue","La 2e bleue","La 3e bleue","La 1re blanche","La 2e blanche","La rouge","Le Banco","Le Super Banco","J'ai gagné 1000 euros Aikeziens"]:
 			p.add_answer(text=x)
 		await ctx.send(poll=p)
+
+
+def parse_user_indices(raw: str) -> list[list[str]]:
+	"""
+	Transforme "a+b;c;def" -> [["a","b"],["c"],["def"]]
+	"""
+	raw = raw.strip()
+	parts = [p.strip() for p in raw.split(";") if p.strip()]
+	return [[s.strip() for s in p.split("+") if s.strip()] for p in parts]
+
+def trueIndices(keyslist, indices):
+	ind = []
+	for liste in indices:
+		subind = []
+		for string in liste:
+			found = False
+			for key in keyslist:
+				if key.lower().startswith(string.lower()) and not found:
+					subind.append(key)
+					found = True
+			if not found:
+				raise ValueError(f"L'indice {string} n'existe pas")
+		ind.append(subind)
+	return ind
+
+def format_keyslist(keyslist):
+	# Affichage lisible dans Discord
+	return "\n".join([f"- {k}" for k in keyslist])
+
+async def selectionIndices_discord(ctx, keyslist, *, max_groups=4, timeout=60):
+	"""
+	Demande à l'utilisateur de choisir les champs dans un ordre.
+	Format: "a+b;c;def"
+	- ';' = nouveau champ (ou groupe)
+	- '+' = fusion / multi-champs dans un même groupe
+	Retour: liste de listes de clés validées (comme ton script).
+	"""
+
+	def check(m):
+		return m.author.id == ctx.author.id and m.channel.id == ctx.channel.id
+
+	await ctx.send(
+		"Voici les champs disponibles :\n"
+		f"{format_keyslist(keyslist)}\n\n"
+		"Donne ton ordre au format `a+b;c;def` (séparateur `;`, fusion avec `+`).\n"
+		"Exemples :\n"
+		"- `def;lieu` (2 champs)\n"
+		"- `lieu+date;def` (lieu et date dans le même champ, def dans un autre)\n"
+		"Tape `cancel` pour annuler."
+	)
+
+	while True:
+		try:
+			msg = await ctx.bot.wait_for("message", check=check, timeout=timeout)
+		except asyncio.TimeoutError:
+			return None  # timeout
+
+		content = msg.content.strip()
+
+		if content.lower() in ("cancel", "stop", "annule"):
+			return None
+
+		# Parse
+		try:
+			raw_indices = parse_user_indices(content)
+			chosen = trueIndices(keyslist, raw_indices)
+		except Exception as e:
+			await ctx.send(
+				f"Erreur: {e}\n"
+				"Réessaie. Rappel des champs:\n"
+				f"{format_keyslist(keyslist)}"
+			)
+			continue
+
+		# Limite (ta logique: <5)
+		if len(chosen) >= 5:
+			await ctx.send(
+				"Tu as choisi trop d'indices (max 4 groupes).\n"
+				f"{format_keyslist(keyslist)}\n"
+				"Réessaie."
+			)
+			continue
+
+		# Affiche le choix et demande confirmation
+		pretty = "\n".join([f"{i+1}. {' + '.join(group)}" for i, group in enumerate(chosen)])
+		await ctx.send(
+			"Voici ce que j’ai compris :\n"
+			f"{pretty}\n\n"
+			"Confirme (y/n) ?"
+		)
+
+		try:
+			confirm = await ctx.bot.wait_for("message", check=check, timeout=timeout)
+		except asyncio.TimeoutError:
+			return None
+
+		if confirm.content.strip().lower() in ("y", "yes", "oui"):
+			return chosen
+
+		await ctx.send("Ok, on recommence. Donne ton ordre (ou `cancel`).")
+
+def build_anki_text(final, indices, theme):
+	lines = []
+	note_test="Ceci est une note test pour vérifier que l'importation fonctionnne; elle sert aussi à s'assurer que tous les champs sont bien remplis; vous pouvez la supprimer;1;2;3"
+	lines.append(note_test)
+	for card in final:
+		parts = []
+		for i, group in enumerate(indices):
+			if i == 1:
+				parts.append(theme)
+
+			chunk = []
+			for indice in group:
+				if indice == "Image":
+					if indice in card and card[indice]:
+						chunk.append(f'<img src="{QUIZY+card[indice]}">')
+				else:
+					if indice in card and card[indice]:
+						chunk.append(str(card[indice]))
+
+			parts.append(" ".join(chunk))
+
+		lines.append(";".join(parts))
+
+	return "\n".join(lines)
+
+ALLOWED_CHANNEL_ID = 1352720060732542996
+def is_allowed_channel():
+    async def predicate(ctx):
+        return ctx.channel.id == ALLOWED_CHANNEL_ID
+    return commands.check(predicate)
+
+
+@bot.command(name="ankisator")
+@is_allowed_channel()
+async def ankisator(ctx, url:str = None):
+	if not url:
+		await ctx.send("Veuillez fournir une URL.")
+		return
+	has_url,extracted_url=extract_url(url)
+	if not has_url:
+		await ctx.send("Aucune URL valide trouvée.")
+		return
+	if not is_quizy(extracted_url):
+		await ctx.send("L'URL fournie n'est pas un lien Quizypedia.")
+		return
+	theme,fields,fiches=getFiches(url)
+	print(theme,fields,fiches)
+
+	if not theme:
+		await ctx.send("Impossible de récupérer les informations de la fiche.")
+		return
+
+	chosen = await selectionIndices_discord(ctx, fields)
+	if chosen is None:
+		await ctx.send("Annulé ou timeout.")
+		return
+	content= build_anki_text(fiches, chosen, theme)
+	buffer = io.BytesIO()
+	buffer.write(content.encode("utf-8"))
+	buffer.seek(0)
+
+	file = discord.File(fp=buffer, filename=f"{theme}.txt")
+
+	await ctx.send("Voici ton fichier Anki :", file=file)
 
 # --- Run the Bot --
 

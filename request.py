@@ -7,6 +7,35 @@ from bs4 import BeautifulSoup
 QUIZY_URL="https://www.quizypedia.fr/get_quiz_game/"
 QUIZY_IMG="https://www.quizypedia.fr/site_media/images/"
 
+CARD_ID_RE = re.compile(r".*_card\d+$")
+def getFiches(url):
+	res=requests.get(url)
+	if res.status_code==200:
+		soup = BeautifulSoup(res.text, "html.parser")
+		theme_title = soup.find("div",class_="theme_title_theme_page").text.split("(")[0].strip()
+		fields=[]
+		fiches=[]
+		for card in soup.find_all("div", id=CARD_ID_RE):
+			tables=card.find_all("tr")
+			data={}
+			for table in tables:
+				field=table.find("td",class_="nameTd")
+				if not field:
+					continue
+				if field.text not in fields:
+					fields.append(field.text)
+				data[field.text]=table.find("td",class_="valueTd").text.replace(";",",")
+			img=soup.find("img",class_="myImg")
+			if img:
+				if "Image" not in fields:
+					fields.append("Image")
+				data["Image"]=img["src"]
+			fiches.append(data)
+		return theme_title,fields,fiches
+	else:
+		print("Error: ",res.status_code)
+		return None,None,None
+
 def getQuizzes(session,url):
 	res=session.get(url)
 	if res.status_code==200:
