@@ -500,7 +500,7 @@ def build_anki_text(final, indices, theme):
 			for indice in group:
 				if indice == "Image":
 					if indice in card and card[indice]:
-						chunk.append(f'<img src="{QUIZY+card[indice]}">')
+						chunk.append(f'<img src="{QUIZY[:-1]+card[indice]}">')
 				else:
 					if indice in card and card[indice]:
 						chunk.append(str(card[indice]))
