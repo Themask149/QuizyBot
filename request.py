@@ -18,6 +18,8 @@ def getFiches(url):
 		for card in soup.find_all("div", id=CARD_ID_RE):
 			tables=card.find_all("tr")
 			data={}
+			print("\n --- New Card ---")
+			print(card)
 			for table in tables:
 				field=table.find("td",class_="nameTd")
 				if not field:
@@ -25,7 +27,7 @@ def getFiches(url):
 				if field.text not in fields:
 					fields.append(field.text)
 				data[field.text]=table.find("td",class_="valueTd").text.replace(";",",")
-			img=soup.find("img",class_="myImg")
+			img=card.find("img",class_="myImg")
 			if img:
 				if "Image" not in fields:
 					fields.append("Image")
