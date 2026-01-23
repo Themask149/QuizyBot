@@ -3,8 +3,6 @@ import glob
 import html
 import io
 import os
-import re
-import requests
 import urllib.parse
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -13,7 +11,6 @@ import discord
 from discord.ext import commands, tasks
 from dotenv import load_dotenv
 from thefuzz import fuzz
-
 
 from request import *
 
@@ -550,6 +547,60 @@ async def ankisator(ctx, url:str = None):
 	file = discord.File(fp=buffer, filename=f"{theme}.txt")
 
 	await ctx.send("Voici ton fichier Anki :", file=file)
+
+## Add reaction if spoiler on specific channel
+SPOILER_REACTION_CHANNEL_IDS = {
+	1412099447327952916,
+	# ajoute d'autres IDs ici si besoin
+}
+
+def contains_spoiler(content: str) -> bool:
+	# Détecte au moins un spoiler Discord ||...||
+	return bool(re.search(r"\|\|.+?\|\|", content))
+
+@bot.event
+async def on_message(message: discord.Message):
+	# Toujours laisser passer les commandes
+	await bot.process_commands(message)
+
+	# Ignore messages sans texte
+	if not message.content:
+		return
+
+	# Filtrage par channel
+	if message.channel.id not in SPOILER_REACTION_CHANNEL_IDS:
+		return
+
+	# Spoiler détecté
+	if contains_spoiler(message.content):
+		try:
+			existing = {reaction.emoji for reaction in message.reactions}
+
+			if "✅" not in existing:
+				await message.add_reaction("✅")
+			if "❌" not in existing:
+				await message.add_reaction("❌")
+
+		except (discord.Forbidden, discord.HTTPException):
+			pass
+
+@bot.event
+async def on_message_edit(before, after):
+	if not after.content:
+		return
+
+	if after.channel.id not in SPOILER_REACTION_CHANNEL_IDS:
+		return
+
+	if contains_spoiler(after.content):
+		existing = {reaction.emoji for reaction in after.reactions}
+
+		if "✅" not in existing:
+			await after.add_reaction("✅")
+		if "❌" not in existing:
+			await after.add_reaction("❌")
+
+
 
 # --- Run the Bot --
 
