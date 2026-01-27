@@ -550,7 +550,8 @@ async def ankisator(ctx, url:str = None):
 
 ## Add reaction if spoiler on specific channel
 SPOILER_REACTION_CHANNEL_IDS = {
-	1412099447327952916,
+	1351297087861424188, ## channel question-culture de la Ligue du Quiz
+	1199822681017700433, ## channel questions de Quizypedia
 	# ajoute d'autres IDs ici si besoin
 }
 
