@@ -552,6 +552,7 @@ async def ankisator(ctx, url:str = None):
 SPOILER_REACTION_CHANNEL_IDS = {
 	1351297087861424188, ## channel question-culture de la Ligue du Quiz
 	1199822681017700433, ## channel questions de Quizypedia
+	1412099447327952916,
 	# ajoute d'autres IDs ici si besoin
 }
 
@@ -575,12 +576,16 @@ async def on_message(message: discord.Message):
 	# Spoiler détecté
 	if contains_spoiler(message.content):
 		try:
-			existing = {reaction.emoji for reaction in message.reactions}
+			await asyncio.sleep(0.75)  # petit délai pour laisser d'autres bots réagir
+
+			# Re-fetch le message pour avoir les réactions à jour
+			msg = await message.channel.fetch_message(message.id)
+			existing = {reaction.emoji for reaction in msg.reactions}
 
 			if "✅" not in existing:
-				await message.add_reaction("✅")
+				await msg.add_reaction("✅")
 			if "❌" not in existing:
-				await message.add_reaction("❌")
+				await msg.add_reaction("❌")
 
 		except (discord.Forbidden, discord.HTTPException):
 			pass
