@@ -86,8 +86,6 @@ def is_quizy(url: str) -> bool:
 
 	return True
 
-	return True
-
 def extract_url(string):
 	has_url = False
 	url = ""

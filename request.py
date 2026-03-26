@@ -12,7 +12,7 @@ def getFiches(url):
 	res=requests.get(url)
 	if res.status_code==200:
 		soup = BeautifulSoup(res.text, "html.parser")
-		theme_title = soup.find("div",class_="theme_title_theme_page").text.split("(")[0].strip()
+		theme_title = soup.find("div", class_="qp-card-meta").find("h2").text.strip()
 		fields=[]
 		fiches=[]
 		for card in soup.find_all("div", id=CARD_ID_RE):
@@ -42,8 +42,8 @@ def getQuizzes(session,url):
 	res=session.get(url)
 	if res.status_code==200:
 		soup = BeautifulSoup(res.content, 'html.parser')
-		lists=soup.find_all("a",attrs={"alt": "Jouer ce quiz"})
-		quizzes=[liste["href"] for liste in lists]
+		buttons = soup.select('button[data-href^="/quiz/"]')
+		quizzes=[button["data-href"] for button in buttons]
 		return quizzes
 	else:
 		print("Error: ",res.status_code)
